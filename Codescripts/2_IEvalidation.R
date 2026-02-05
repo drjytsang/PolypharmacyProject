@@ -1,8 +1,6 @@
-#File 2 - Internal-External Cross validation (given our clustered dataset)
-
+#File 2 - Internal-External Cross validation (given our clustered dataset) for the Polypharmacy Assessment Score construction.
 #Done in 2 stages - 1. Loops to create separate models for all practices (n=1495) except for one, then replacement 2. Meta-analyse performance statistics
-
-#dataset is named - foldall
+#NB dataset is named - foldall, see other scripts for covariates details
 
 # Get libraries needed
 library(pscl)
