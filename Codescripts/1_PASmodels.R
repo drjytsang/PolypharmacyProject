@@ -66,10 +66,11 @@ ini <- mice(df, maxit=0)
 
 # Step 2: Specify imputation methods
 meth <- ini$method
-meth["BPsys"] <- "norm"   # Impute BP using normal regression imputation
-meth["BPdia"] <- "norm"   # Impute BP using normal regression imputation
-meth["eGFR"] <- "norm"  # Impute eGFR using normal regression imputation
-meth["BMI"] <- "norm"  # Impute BMI similarly
+meth["BPsys"] <- "pmm"   # Impute systolic BP 
+meth["BPdia"] <- "pmm"   # Impute diastolic BP 
+meth["eGFR"] <- "pmm"  # Impute eGFR 
+meth["BMI"] <- "pmm"  # Impute BMI
+meth["smok_hx"] <- "polyreg" #Impute smoking category
 
 # Step 3: Define predictor matrix
 pred <- ini$predictorMatrix
@@ -79,7 +80,7 @@ predictor_vars <- c("age", "gender", "diab_cnd","bro_cnd","ctd_cnd","ibd_cnd","c
 pred[,] <- 0
 
 # For each variable to impute, assign predictors
-impute_vars <- c("BPsys","BPdia", "eGFR", "BMI")
+impute_vars <- c("BPsys","BPdia", "eGFR", "BMI", "smok_hx")
 for (var in impute_vars) {
   pred[var, predictor_vars] <- 1
 }
@@ -102,5 +103,5 @@ sd(predicted_counts)
 mean(predicted_counts)
 
 ddiff <- observed_counts - predicted_counts
-mean(ddiff^2) #mean square error
 mean(abs(ddiff)) #mean absolute error
+mean(ddiff^2) #mean square error
