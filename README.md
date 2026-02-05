@@ -3,7 +3,7 @@
 This repository and work is part of a wider project that aims to **identify, understand and address problematic polypharmacy within multimorbidity in primary care**. This has been funded by the National Institute for Health and Care Research (NIHR) Doctoral Research Fellowship (NIHR302624) and the NIHR Greater Manchester Patient Safety Research Collaboration (GMPSRC). 
 <br>
 <br>
-**Collaboration** This NIHR funded project is collaboration of The University of Manchester and University of Exeter, UK.
+**Collaboration** This NIHR funded project is collaboration of The University of Manchester and the University of Exeter, UK.
 <br>
 <br>
 **About Polypharmacy Assessment Score** This score was developed to identify a population with atypical levels of prescribing who may be at risk of potentially problematic polypharmacy. Ultimately, it aims to improve risk stratification and case-finding in polypharmacy to enable better care for patients.
