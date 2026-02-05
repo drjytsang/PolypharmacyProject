@@ -28,7 +28,7 @@ TBC
 
 ## Protocol
 
-A published protocol of the methods used to develop the Polypharmacy Assessment Score is available from this [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11251249/)
+A published protocol of the methods used to develop the Polypharmacy Assessment Score is available from this [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11251249/).
 
 ## Author (on behalf of the co-authors)
 
