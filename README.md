@@ -1,4 +1,4 @@
-# Codelists for constructing the Polypharmacy Assessment Score
+# Code sharing for the Polypharmacy Assessment Score
 ## Introduction
 These **codelists** are part of wider project that aims to **identify, understand and address problematic polypharmacy within multimorbidity in primary care**. This has been funded by the National Institute for Health and Care Research (NIHR) Doctoral Research Fellowship (NIHR302624) and the NIHR Greater Manchester Patient Safety Research Collaboration (GMPSRC). 
 <br>
