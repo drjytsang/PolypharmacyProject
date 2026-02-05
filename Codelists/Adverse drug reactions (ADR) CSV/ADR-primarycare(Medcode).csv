@@ -1,0 +1,2540 @@
+﻿medcodeid,OriginalReadCode,Term
+285124010,9G4,Adverse drug reaction notif
+324723011,SN5,Adverse reaction
+324782015,SN5y,Other adverse effects NEC
+324787014,SN5yz,"Other adverse effects NEC, NOS"
+324788016,SN5z,Adverse effects NOS
+325685016,SyuKS,[X]Unspecified adverse effect of drug or medicament
+330590016,TJ00z,Adverse reaction to penicillin NOS
+330602013,TJ02z,Adverse reaction to chloramphenicol group NOS
+330603015,TJ03,Macrolide adverse reaction
+330607019,TJ03z,Adverse reaction to macrolide NOS
+330617012,TJ04z,Tetracyclines group adverse reaction
+330631012,TJ05z,Cephalosporin adverse reaction
+330647014,TJ0y,Adverse reaction to other antibiotics
+330665013,TJ0yz,Adverse reaction to other antibiotics NOS
+330666014,TJ0z,Adverse reaction to antibiotic NOS
+330667017,TJ1,Adverse reaction to other anti-infectives
+330676012,TJ103-1,Adverse reaction to sulfamethoxazole
+330677015,TJ103,Adverse reaction to sulphamethoxazole
+330687016,TJ10z,Adverse reaction to sulphonamide NOS
+330749017,TJ1zz,Adverse reaction to anti-infective NOS
+330791015,TJ22y,Combined oral contraceptive adverse reaction
+330810011,TJ242,"Adverse reaction to follicle stimulating hormone, FSH"
+330836016,TJ2z,Adverse reaction to hormones and synthetic substances NOS
+330839011,TJ300,Adverse reaction to antihistamines
+330915019,TJ42z,Adverse reaction to anticoagulants NOS
+330948019,TJ52,Adverse reaction to other opiates and related narcotics
+330957013,TJ52z,Adverse reaction to opiates or related narcotics NOS
+330973019,TJ560,Adverse reaction to ibuprofen
+330974013,TJ561,Adverse reaction to diclofenac sodium
+330975014,TJ562,Adverse reaction to fenbufen
+330979015,TJ566,Adverse reaction to ketoprofen
+330980017,TJ567,Adverse reaction to naproxen
+330981018,TJ568,Adverse reaction to piroxicam
+330984014,TJ56z,Adverse reaction to antirheumatics NOS
+330990013,TJ5y1,Adverse reaction to mefenamic acid
+331010016,TJ63z,Adverse reaction to anticonvulsants NOS
+331067013,TJ821,Adverse reaction to nitrous oxide
+331084019,TJ84,Adverse reaction to other general anaesthetics
+331092011,TJ855,Adverse reaction to tetracaine
+331094012,TJ85z,Adverse reaction to local anaesthetics NOS
+331126017,TJ90z,Adverse reaction to antidepressants NOS
+331175016,TJ960,Adverse reaction to cannabis
+331241011,TJC0z,Adverse reaction to cardiac rhythm regulator NOS
+331272010,TJC4z,Adverse reaction to coronary vasodilator
+331291010,TJC7,Adverse reaction to other antihypertensives
+331302012,TJC7z,Antihypertensive adverse reaction
+331321016,TJD06,Adverse reaction to sodium bicarbonate
+331388013,TJE3z,Adverse reaction to thiazide NOS
+331397012,TJE4z,Adverse reaction to diuretic NOS
+331454018,TJG2,Adverse reaction to local astringents and local detergents
+331459011,TJG5z,Adverse reaction to eye drugs NOS
+331464010,TJHy,Adverse reaction to other drugs and medicines
+331476010,TJHyz,Adverse reaction to other drug or medicine NOS
+331477018,TJHz,Adverse reaction to drug or medicinal substance NOS
+331509016,TJz,Adverse reaction to drug NOS
+335622010,U6000,[X]Penicillins causing adverse effects in therapeutic use
+335628014,U6003,[X]Macrolides causing adverse effects in therapeutic use
+335629018,U6004,Tetracycline adverse reaction
+335637014,U6010,Sulphonamide adverse reaction
+335703012,U6051,Adverse reaction to salicylate
+335734011,U6065,Sodium valproate adverse reaction
+335762016,U6083-8,Local anaesthetic drug adverse reaction
+335768017,U6083-7,[X] Adverse reaction to tetracaine
+335812018,U60C1-3,Amlodipine adverse reaction
+335817012,U60C4-4,Lisinopril adverse reaction
+335875011,U60G0-B,[X]Adverse reaction to local anti-inflammatory drug
+404262011,TJ53,Adverse reaction to salicylates
+433098016,TJ033,Clarithromycin adverse reaction
+433540015,1Z34,Anticoagulant adverse reaction
+499186017,1Z3,Adverse reaction to drug
+1484968010,U60C9,Lipid-lowering drug adverse reaction
+1488922018,U6099,Adverse reaction to bupropion
+1488923011,U60CA,HMG COA reductase inhibitor adverse reaction
+1785097012,TJC61,Adverse reaction to acebutolol
+2159176018,U6048,Adverse reaction to clopidogrel
+2161435016,TJ0yB,Adverse reaction to vancomycin
+2161436015,TJ10,Adverse reaction to sulphonamides
+2161437012,TJ100,Adverse reaction to sulphadiazine
+2161438019,TJ101,Adverse reaction to sulphadimidine
+2161442016,TJ221,Adverse reaction to oestradiol
+2161446018,TJ223,Adverse reaction to conjugated oestrogens
+2161448017,TJ400,Adverse reaction to ferrous sulphate
+2161581018,TJ100-1,Adverse reaction to sulfadiazine
+2164305011,TJ540,Adverse reaction to paracetamol
+2164306012,TJ5y0,Adverse reaction to pentazocine
+2164309017,TJ51,Adverse reaction to methadone
+2164310010,TJ521,Adverse reaction to buprenorphine
+2164317013,TJ303,Adverse reaction to metoclopramide
+2164318015,TJF12,Adverse reaction to mebeverine
+2164320017,TJ832,Adverse reaction to ketamine
+2164321018,TJ834,Adverse reaction to propofol
+2164325010,TJ81,Adverse reaction to halothane
+2164329016,TJ850,Adverse reaction to cocaine
+2164332018,TJ313,Adverse reaction to cyclophosphamide
+2164338019,TJ073,Adverse reaction to mitomycin
+2164341011,TJ31D,Adverse reaction to methotrexate
+2164342016,TJ31C,Adverse reaction to mercaptopurine
+2164347010,TJ31J,Adverse reaction to carboplatin
+2164352017,TJHy1,Adverse reaction to tamoxifen
+2164353010,TJ31S,Adverse reaction to cyclosporin
+2164358018,TJ905,Adverse reaction to doxepin
+2164359014,TJ907,Adverse reaction to lofepramine
+2164360016,TJ908,Adverse reaction to nortriptyline
+2164361017,TJ90A,Adverse reaction to trimipramine
+2164362012,TJ902,Adverse reaction to clomipramine
+2164364013,TJ904,Adverse reaction to dothiepin
+2164365014,TJ906,Adverse reaction to imipramine
+2164372010,TJ90C,Adverse reaction to mianserin
+2164374011,TJ633,Adverse reaction to sodium valproate
+2164375012,TJ704,Adverse reaction to phenobarbitone
+2164376013,TJ631,Adverse reaction to primidone
+2164377016,TJ632,Adverse reaction to carbamazepine
+2164378014,TJ610,Adverse reaction to phenytoin
+2164380015,TJ94C,Adverse reaction to clonazepam
+2164385013,TJ940,Adverse reaction to nitrazepam
+2164392015,TJ944,Adverse reaction to diazepam
+2164393013,TJ949,Adverse reaction to lorazepam
+2164394019,TJ942,Adverse reaction to temazepam
+2164401018,TJ920,Adverse reaction to haloperidol
+2164403015,TJ911,Adverse reaction to fluphenazine
+2164404014,TJ910,Adverse reaction to chlorpromazine
+2164405010,TJ915,Adverse reaction to promazine
+2164406011,TJ916,Adverse reaction to thioridazine
+2164408012,TJ914,Adverse reaction to prochlorperazine
+2164409016,TJ90G,Adverse reaction to flupenthixol
+2164416015,TJC64,Adverse reaction to metoprolol
+2164417012,TJC65,Adverse reaction to nadolol
+2164418019,TJC63,Adverse reaction to labetalol
+2164421017,TJC67,Adverse reaction to sotalol
+2164422012,TJC68,Adverse reaction to timolol
+2164423019,TJB30,Adverse reaction to phenoxybenzamine
+2164425014,TJB06,Adverse reaction to pilocarpine
+2164433010,TJF70,Adverse reaction to salbutamol
+2164434016,TJF11,Adverse reaction to orciprenaline
+2164436019,TJB22,Adverse reaction to ephedrine
+2164438018,TJB12,Adverse reaction to hyoscine
+2164449012,TJ301,Adverse reaction to chlorpheniramine
+2164451011,TJ950,Adverse reaction to hydroxyzine
+2164452016,TJF74,Adverse reaction to sodium cromoglycate
+2164463018,TJ340,Adverse reaction to penicillamine
+2164464012,TJ01,Adverse reaction to antifungal antibiotics
+2164465013,TJ011,Adverse reaction to griseofulvin
+2164467017,TJ015,Adverse reaction to nystatin
+2164468010,TJ012,Adverse reaction to ketoconazole
+2164469019,TJ013,Adverse reaction to miconazole
+2164476012,TJ14,Adverse reaction to antimalarials
+2164479017,TJ140,Adverse reaction to chloroquine
+2164480019,TJ142,Adverse reaction to proguanil hydrochloride
+2164481015,TJ144,Adverse reaction to quinine
+2164486013,TJ160,Adverse reaction to mebendazole
+2164489018,TJ064,Adverse reaction to streptomycin
+2164490010,TJG00,Adverse reaction to neomycin
+2164494018,TJ0y9,Adverse reaction to sodium fusidate
+2164496016,TJ00,Adverse reaction to penicillins
+2164497013,TJ008,Adverse reaction to pivampicillin
+2164500019,TJ00G,Adverse reaction to pivmecillinam
+2164503017,TJ05,Adverse reaction to cephalosporin group
+2164504011,TJ051,Adverse reaction to cefadroxil
+2164505012,TJ057,Adverse reaction to cephalexin
+2164508014,TJ05B,Adverse reaction to cephradine
+2164509018,TJ050,Adverse reaction to cefaclor
+2164511010,TJ052,Adverse reaction to cefotaxime
+2164512015,TJ055,Adverse reaction to ceftazidime
+2164515018,TJ0y6,Adverse reaction to clindamycin
+2164517014,TJ153,Adverse reaction to metronidazole
+2164518016,TJ04,Adverse reaction to tetracycline group
+2164520018,TJ044,Adverse reaction to doxycycline
+2164521019,TJ045,Adverse reaction to lymecycline
+2164523016,TJ047,Adverse reaction to oxytetracycline
+2164526012,TJ040,Adverse reaction to tetracycline
+2164527015,TJ020,Adverse reaction to chloramphenicol
+2164528013,TJ0yD,Adverse reaction to cotrimoxazole
+2164534018,TJ063,Adverse reaction to rifampicin
+2164537013,TJ184,Adverse reaction to dapsone
+2164543010,TJ280,Adverse reaction to carbimazole
+2164544016,TJ282,Adverse reaction to propylthiouracil
+2164545015,TJ201,Adverse reaction to betamethasone
+2164547011,TJ207,Adverse reaction to prednisone
+2164548018,TJ203,Adverse reaction to cortisone acetate
+2164550014,TJ202,Adverse reaction to dexamethasone
+2164551013,TJ205,Adverse reaction to methylprednisolone
+2164552018,TJ206,Adverse reaction to prednisolone
+2164553011,TJ208,Adverse reaction to triamcinolone
+2164555016,TJ233,Adverse reaction to glibenclamide
+2164556015,TJ234,Adverse reaction to gliclazide
+2164557012,TJ235,Adverse reaction to glipizide
+2164562013,TJ23A,Adverse reaction to metformin hydrochloride
+2164564014,TJ22A,Adverse reaction to progesterone
+2164565010,TJ229,Adverse reaction to norethisterone
+2164571016,TJ212,Adverse reaction to testosterone
+2164575013,TJ251,Adverse reaction to desmopressin
+2164587018,TJ42,Adverse reaction to anticoagulants
+2164588011,TJ420,Adverse reaction to heparin
+2164589015,TJ422,Adverse reaction to nicoumalone
+2164590012,TJ423,Adverse reaction to phenindione
+2164592016,TJ452,Adverse reaction to tranexamic acid
+2164593014,TJ401,Adverse reaction to ferrous fumarate
+2164594015,TJ402,Adverse reaction to ferrous gluconate
+2164598017,TJ43,Adverse reaction to vitamin K
+2164599013,TJ410,Adverse reaction to hydroxocobalamin
+2164600011,TJ411,Adverse reaction to cyanocobalamin
+2164601010,TJE30,Adverse reaction to bendrofluazide
+2164604019,TJE33,Adverse reaction to hydrochlorothiazide
+2164608016,TJE40,Adverse reaction to chlorthalidone
+2164614011,TJ440,Adverse reaction to streptokinase
+2476209018,TJ5-1,Adverse reaction to analgesics
+2476218016,TJ31S-1,Adverse reaction to ciclosporin
+2476222014,TJ704-1,Adverse reaction to phenobarbital
+2476244016,TJF74-1,Adverse reaction to sodium cromoglicate
+2476252018,TJ003-1,Adverse reaction to amoxicillin
+2476255016,TJ057-1,Adverse reaction to cefalexin
+2476259010,TJ05B-1,Adverse reaction to cefradine
+2579309011,TJ564,Adverse reaction to flurbiprofen
+2579310018,TJ565-1,Adverse reaction to indometacin
+2579311019,TJ565,Adverse reaction to indomethacin
+2579697013,TJ046,Adverse reaction to minocycline
+2579699011,TJ204,Adverse reaction to hydrocortisone
+2579700012,TJ030,Adverse reaction to erythromycin
+2579704015,TJF24,Adverse reaction to suxamethonium
+8.1871E+13,SP3X,Unspecified adverse effect of drug or medicament
+3.50731E+14,U60G0-8,[X] Adverse react to local anti-infective/inflammatory NOS
+3.50791E+14,U601y-B,[X] Adverse react to quinolone + hydroxyquinoline derivs NOS
+3.50841E+14,U60E2-2,[X] Adverse reaction to acetazolamide
+3.50871E+14,U60F4-2,[X] Adverse reaction to acetylcysteine
+3.50901E+14,U6015-2,[X] Adverse reaction to acyclovir
+3.50921E+14,U6020-1,[X] Adverse reaction to adrenal cortical steroid
+3.50941E+14,U60B5-1,Adverse reaction to adrenaline
+3.51011E+14,U60E8-3,Allopurinol adverse reaction
+3.51061E+14,U60E5-B,Amiloride adverse reaction
+3.51081E+14,U60F6-4,[X] Adverse reaction to aminophylline
+3.51091E+14,U6090-1,Amitriptyline adverse reaction
+3.51101E+14,U6000-5,[X] Adverse reaction to amoxicillin
+3.51121E+14,U6000-6,[X] Adverse reaction to ampicillin
+3.51141E+14,U6084-1,[X] Adverse reaction to anaesthetic
+3.51171E+14,U6056-1,[X] Adverse reaction to analgesics
+3.51181E+14,U6027-8,[X] Adverse reaction to androgen or anabolic steroid NOS
+3.51301E+14,U600-1,Antibacterial drug adverse reaction
+3.51311E+14,U600z-1,[X] Adverse reaction to antibiotic NOS
+3.51351E+14,U6042-1,[X] Adverse reaction to anticoagulants
+3.51381E+14,U6092-1,[X] Adverse reaction to antidepressant
+3.51471E+14,U6030-2,[X] Adverse reaction to antihistamines
+3.51481E+14,U60C5-A,[X] Adverse reaction to antihypertensives NOS
+3.51771E+14,U6051-2,[X] Adverse reaction to aspirin
+3.51781E+14,U60B7-5,[X] Adverse reaction to atenolol
+3.51791E+14,U60B3-3,[X] Adverse reaction to atropine
+3.51841E+14,U6034-1,Azathioprine adverse reaction
+3.51931E+14,U60E3-2,Bendroflumethiazide adverse reaction
+3.51981E+14,U60B7-1,[X] Adverse reaction to betablockers
+3.51991E+14,U60B7-C,[X] Adverse reaction to betablockers NOS
+3.52021E+14,U60C6-4,Bezafibrate adverse reaction
+3.52041E+14,U60D2-2,[X] Adverse reaction to bisacodyl
+3.52141E+14,U6050-5,[X] Adverse reaction to buprenorphine
+3.52241E+14,U60C4-1,[X] Adverse reaction to captopril
+3.52261E+14,U6064-1,[X] Adverse reaction to carbamazepine
+3.52281E+14,U6022-2,[X] Adverse reaction to carbimazole
+3.52421E+14,U6001-2,[X] Adverse reaction to cefaclor
+3.52431E+14,U6001-3,[X] Adverse reaction to cefadroxil
+3.52471E+14,U6001-7,[X] Adverse reaction to ceftazidime
+3.52511E+14,U6001-9,[X] Adverse reaction to cefalexin
+3.52521E+14,U6001-1,[X] Adverse reaction to cephalosporin group
+3.52531E+14,U6001-E,[X] Adverse reaction to cephalosporin NOS
+3.52571E+14,U6001-D,[X] Adverse reaction to cefradine
+3.52631E+14,U6002-2,[X] Adverse reaction to chloramphenicol
+3.52641E+14,U6002-1,[X] Adverse reaction to chloramphenicol group
+3.52701E+14,U6012-2,[X] Adverse reaction to chloroquine
+3.52731E+14,U6030-3,Chlorphenamine adverse reaction
+3.52741E+14,U6093-2,[X] Adverse reaction to chlorpromazine
+3.52821E+14,U600y-2,Ciprofloxacin adverse reaction
+3.52841E+14,U600y-4,[X] Adverse reaction to clindamycin
+3.52891E+14,U6090-3,[X] Adverse reaction to clomipramine
+3.52911E+14,U6071-E,[X] Adverse reaction to clonazepam
+3.52921E+14,U60C5-4,Clonidine adverse reaction
+3.53001E+14,U6050-6,[X] Adverse reaction to codeine phosphate
+3.53011E+14,U60E8-2,Colchicine adverse reaction
+3.53031E+14,U6025-D,Estrogen and progestogen preparation adverse reaction
+3.53091E+14,U600y-6,[X] Adverse reaction to cotrimoxazole
+3.53171E+14,U6034-3,[X] Adverse reaction to ciclosporin
+3.53261E+14,U6020-2,[X] Adverse reaction to dexamethasone
+3.53311E+14,U6050-1,Adverse reaction to diamorphine
+3.53321E+14,U6071-6,[X] Adverse reaction to diazepam
+3.53361E+14,U6053-5,[X] Adverse reaction to diclofenac sodium
+3.53411E+14,U60C0-2,[X] Adverse reaction to digoxin
+3.53421E+14,U6050-8,Dihydrocodeine adverse reaction
+3.53501E+14,U60C3-6,[X] Adverse reaction to dipyridamole
+3.53521E+14,U60E5-F,[X] Adverse reaction to diuretic NOS
+3.53531E+14,U6090-5,Dosulepin adverse reaction
+3.53571E+14,U6004-6,[X] Adverse reaction to doxycycline
+3.53581E+14,U60H9-2,[X] Adverse reaction to drug NOS
+3.53591E+14,U60H9-1,[X] Adverse reaction to drug or medicinal substance NOS
+3.53681E+14,U60C4-2,[X] Adverse reaction to enalapril
+3.53741E+14,U6003-2,[X] Adverse reaction to erythromycin
+3.53891E+14,U60G5-1,[X] Adverse reaction to eye drugs
+3.53941E+14,U6040-3,[X] Adverse reaction to ferrous fumarate
+3.53951E+14,U6040-4,[X] Adverse reaction to ferrous gluconate
+3.53981E+14,U6040-2,[X] Adverse reaction to ferrous sulphate
+3.54021E+14,U6000-4,Flucloxacillin adverse reaction
+3.54101E+14,U6041-4,Folic acid adverse reaction
+3.54131E+14,U60E4-1,Furosemide adverse reaction
+3.54221E+14,U6084-2,Adverse reaction to general anaesthetic
+3.54231E+14,U6005-1,Gentamicin adverse reaction
+3.54251E+14,U6023-6,[X] Adverse reaction to gliclazide
+3.54311E+14,U60C3-2,Glyceryl trinitrate adverse reaction
+3.54371E+14,U6094-2,[X] Adverse reaction to haloperidol
+3.54411E+14,U6042-2,[X] Adverse reaction to heparin
+3.54501E+14,U60C5-2,[X] Adverse reaction to hydralazine
+3.54521E+14,U6020-4,[X] Adverse reaction to hydrocortisone
+3.54551E+14,U6041-2,[X] Adverse reaction to hydroxocobalamin
+3.54581E+14,U609z-2,[X] Adverse reaction to hydroxyzine
+3.54591E+14,U60B3-7,[X] Adverse reaction to hyoscine
+3.54601E+14,U6052-1,[X] Adverse reaction to ibuprofen
+3.54621E+14,U6090-7,[X] Adverse reaction to imipramine
+3.54631E+14,U6053-2,[X] Adverse reaction to indometacin
+3.54701E+14,U6022-3,Iodine adverse reaction
+3.54721E+14,U60F6-3,[X] Adverse reaction to ipratropium bromide
+3.54731E+14,U6040-1,[X] Adverse reaction to iron and iron compounds
+3.54841E+14,U60C3-4,Isosorbide mononitrate adverse reaction
+3.54881E+14,U6082-2,[X] Adverse reaction to ketamine
+3.54901E+14,U60G0-2,[X] Adverse reaction to ketoconazole
+3.54911E+14,U6052-5,[X] Adverse reaction to ketoprofen
+3.54921E+14,U60B7-6,[X] Adverse reaction to labetolol
+3.54931E+14,U60D3-1,[X] Adverse reaction to lactulose
+3.55071E+14,U60G2-1,[X] Adverse reaction to local astringents & local detergents
+3.55081E+14,U6090-8,[X] Adverse reaction to lofepramine
+3.55101E+14,U60D6-4,[X] Adverse reaction to loperamide
+3.55111E+14,U6071-B,[X] Adverse reaction to lorazepam
+3.55121E+14,U6004-7,[X] Adverse reaction to lymecycline
+3.55151E+14,U6003-1,Adverse reaction to macrolide group
+3.55161E+14,U6003-5,[X] Adverse reaction to macrolide NOS
+3.55251E+14,U6096-2,[X] Adverse reaction to marijuana
+3.55271E+14,U6014-2,[X] Adverse reaction to mebendazole
+3.55281E+14,U60B3-8,[X] Adverse reaction to mebeverine
+3.55321E+14,U6053-4,[X] Adverse reaction to mefenamic acid
+3.55381E+14,U6031-3,[X] Adverse reaction to mercaptopurine
+3.55471E+14,U6023-C,[X] Adverse reaction to metformin hydrochloride
+3.55511E+14,U6068-4,[X] Adverse reaction to methocarbamol
+3.55531E+14,U6031-4,[X] Adverse reaction to methotrexate
+3.55551E+14,U60C5-5,Methyldopa adverse reaction
+3.55591E+14,U6030-5,[X] Adverse reaction to metoclopramide
+3.55601E+14,U60B7-7,[X] Adverse reaction to metoprolol
+3.55611E+14,U601y-C,[X] Adverse reaction to metronidazole
+3.55641E+14,U60G0-3,[X] Adverse reaction to miconazole
+3.55651E+14,U6004-8,[X] Adverse reaction to minocycline
+3.55691E+14,U6050-4,Morphine adverse reaction
+3.55771E+14,U6052-6,[X] Adverse reaction to naproxen
+3.55811E+14,U6005-6,[X] Adverse reaction to neomycin sulphate
+3.55861E+14,U60C1-1,Nifedipine adverse reaction
+3.55891E+14,U601y-F,Nitrofurantoin adverse reaction
+3.55911E+14,U6053-1,Adverse reaction to non-steroidal anti-inflammatory drug
+3.55941E+14,U6025-B,[X] Adverse reaction to norethisterone
+3.55951E+14,U6090-9,[X] Adverse reaction to nortriptyline
+3.55961E+14,U6007-4,[X] Adverse reaction to nystatin
+3.55971E+14,U6025-3,[X] Adverse reaction to estradiol
+3.55981E+14,U6025-4,[X] Adverse reaction to estriol
+3.56021E+14,U6050-C,Opioid analgesic adverse reaction
+3.56191E+14,U60H8-1,[X] Adverse reaction to other drug or medicine NOS
+3.56201E+14,U60H-1,[X] Adverse reaction to other drugs and medicines
+3.56301E+14,U6050-3,[X] Adverse reaction to other opiates and related narcotics
+3.56441E+14,U6004-9,[X] Adverse reaction to oxytetracycline
+3.56531E+14,U6055-2,[X] Adverse reaction to paracetamol
+3.56651E+14,U60H2-1,[X] Adverse reaction to penicillamine
+3.56661E+14,U6000-J,[X] Adverse reaction to penicillin NOS
+3.56671E+14,U6000-1,Penicillin adverse reaction
+3.56771E+14,U6050-B,Pethidine analogue adverse reaction
+3.56821E+14,U6070-6,[X] Adverse reaction to phenobarbital
+3.56851E+14,U60C7-2,[X] Adverse reaction to phenoxybenzamine
+3.56891E+14,U6062-2,[X] Adverse reaction to phenytoin
+3.56961E+14,U6053-3,[X] Adverse reaction to piroxicam
+3.56981E+14,U6000-I,[X] Adverse reaction to pivmecillinam
+3.57071E+14,U60C6-6,Adverse reaction caused by pravastatin
+3.57091E+14,U6020-6,[X] Adverse reaction to prednisolone
+3.57101E+14,U6020-7,[X] Adverse reaction to prednisone
+3.57161E+14,U6066-3,[X] Adverse reaction to primidone
+3.57221E+14,U6093-6,[X] Adverse reaction to prochlorperazine
+3.57231E+14,U6025-C,[X] Adverse reaction to progesterone
+3.57261E+14,U6093-A,Promethazine adverse reaction
+3.57271E+14,U6081-5,[X] Adverse reaction to propofol
+3.57281E+14,U60B7-2,Propranolol adverse reaction
+3.57501E+14,U6012-6,[X] Adverse reaction to quinine
+3.57531E+14,U60C4-3,[X] Adverse reaction to ramipril
+3.57551E+14,U6011-4,[X] Adverse reaction to rifampicin
+3.57581E+14,U60F6-2,[X] Adverse reaction to salbutamol
+3.57601E+14,U6051-1,[X] Adverse reaction to salicylates
+3.57661E+14,U60D2-7,[X] Adverse reaction to senna
+3.57671E+14,U60C6-5,[X] Adverse reaction to simvastatin
+3.57771E+14,U60F6-6,[X] Adverse reaction to sodium cromoglicate
+3.57791E+14,U6065-1,[X] Adverse reaction to sodium valproate
+3.57811E+14,U60B7-A,[X] Adverse reaction to sotalol
+3.57861E+14,U60E5-C,Spironolactone adverse reaction
+3.57891E+14,U6011-5,[X] Adverse reaction to streptomycin
+3.57921E+14,U6010-2,[X] Adverse reaction to sulphadiazine
+3.57961E+14,U6010-5,[X] Adverse reaction to sulfamethoxazole
+3.57991E+14,U6010-8,Sulphonamide adverse reaction
+3.58001E+14,U6010-1,[X] Adverse reaction to sulphonamides
+3.58031E+14,U60F1-6,[X] Adverse reaction to suxamethonium
+3.58101E+14,U6026-1,[X] Adverse reaction to tamoxifen
+3.58111E+14,U6071-4,[X] Adverse reaction to temazepam
+3.58151E+14,U60K3-2,[X] Adverse reaction to tetanus antitoxin
+3.58201E+14,U6004-2,[X] Adverse reaction to tetracycline
+3.58211E+14,U6004-1,[X] Adverse reaction to tetracycline group
+3.58221E+14,U6004-A,[X] Adverse reaction to tetracycline NOS
+3.58241E+14,U60F6-9,Theophylline adverse reaction
+3.58281E+14,U60E3-9,[X] Adverse reaction to thiazide NOS
+3.58291E+14,U60E3-1,[X] Adverse reaction to thiazides
+3.58371E+14,U6021-3,[X] Adverse reaction to levothyroxine sodium
+3.58391E+14,U60B7-B,[X] Adverse reaction to timolol
+3.58441E+14,U6043-7,[X] Adverse reaction to tranexamic acid
+3.58571E+14,U601y-I,[X] Adverse reaction to trimethoprim
+3.58661E+14,U6024-1,[X] Adverse reaction to unspecified oral contraceptive
+3.58761E+14,U60C1-2,Verapamil adverse reaction
+3.58811E+14,U60E7-2,[X] Adverse reaction to vitamin D
+3.58861E+14,U6042-3,[X] Adverse reaction to warfarin sodium
+3.58901E+14,U60C8-3,[X] Adverse reaction to zinc salt
+3.59021E+14,U60G0-4,[X] Local adverse reaction to neomycin
+3.59301E+14,U6055,Para-aminophenol derivative adverse reaction
+3.63011E+14,U60B6,Alpha-adrenoceptor blocking drug adverse reaction
+3.63051E+14,U6005,Aminoglycosides adverse reaction
+3.63261E+14,U60C4,Angiotensin-converting-enzyme inhibitor adverse reaction
+3.63421E+14,U6042,[X]Anticoagulant causing adverse effects in therapeutic use
+3.63461E+14,U6026,"[X]Antigonadotrophins, antioestrogens, antiandrogens causing adverse effects in therapeutic use, not elswhere classified"
+3.63481E+14,U60C6,[X]Antihyperlipidaemic and antiarteriosclerotic drugs causing adverse effects in therapeutic use
+3.63511E+14,U6031,Antimetabolite adverse reaction
+3.63761E+14,U60H0,Centrally acting appetite suppressant adverse reaction
+3.63771E+14,U60-1,[X]AR-Adverse react to drugs/medicines/biolog substances
+3.67021E+14,U6071,Benzodiazepine sedative adverse reaction
+3.69121E+14,U60C1,Calcium-channel blocker adverse reaction
+3.70251E+14,U60C0,Cardiac inotropic agent adverse reaction
+3.70891E+14,U6002,[X]Chloramphen group caus adverse effects in therapeut use
+3.75751E+14,U60C3,Adverse reaction to coronary vasodilator
+3.79351E+14,U60,[X]Drugs/meds/biol subs caus adverse effects in therap use
+3.88851E+14,U60D0,H2 receptor antagonist adverse reaction
+3.91111E+14,U6023,Adverse reaction to antidiabetic drug
+3.95331E+14,U60E4,Loop diuretic adverse reaction
+4.04481E+14,U6095,[X]Other antipsychotics and neuroleptics causing adverse effects in therapeutic use
+4.04881E+14,U6053,Non-steroidal anti-inflammatory drug adverse reaction
+4.04901E+14,U6025,[X]Oth oestrog/progestogens caus adverse eff in therap use
+4.05121E+14,U601y,[X]Other specified systemic anti-infectives and antiparasitics causing adverse effects in therapeutic use
+4.09681E+14,U60E5,[X]Other diuretics caus adverse effects in therapeutic use
+4.16861E+14,U600y,[X]Other systemic antibiotics causing adverse effects in therapeutic use
+4.20601E+14,U6093,Phenothiazine adverse reaction
+4.23651E+14,U6052,Propionic acid derivative adverse reaction
+4.28561E+14,U600,[X]Systemic antibiotics causing adverse effects in therapeutic use
+4.28651E+14,U6008,Teicoplanin adverse reaction
+4.28871E+14,U60GA,Topical hydrocortisone adverse reaction
+4.29581E+14,U6090,Antidepressant drug adverse reaction
+4.30501E+14,U60H9,[X]Unspecif drug/medic caus adverse effects in therap use
+4.64181E+14,SN52-1,Adverse drug reaction
+4.64251E+14,TJE20,Acetazolamide adverse reaction
+4.64281E+14,TJF50,Acetylcysteine adverse reaction
+4.64291E+14,TJ170,Aciclovir adverse reaction
+4.64341E+14,TJ20,Adverse reaction to adrenal cortical steroids
+4.64351E+14,TJB20,"Adverse reaction to adrenalin, epinephrine"
+4.64421E+14,TJE71,Adverse reaction to allopurinol
+4.64451E+14,TJ640,Amantadine adverse reaction
+4.64471E+14,TJE43,Adverse reaction to amiloride
+4.64491E+14,TJF72,Aminophylline adverse reaction
+4.64501E+14,TJ900,Adverse reaction to amitriptyline
+4.64511E+14,TJ003,Adverse reaction to amoxycillin
+4.64521E+14,TJ010,Amphotericin adverse reaction
+4.64531E+14,TJ004,Ampicillin adverse reaction
+4.64571E+14,TJ5z,"Adverse reaction to analgesic,antipyretic,antirheumatic NOS"
+4.64591E+14,TJ5,"Adverse reaction to analgesics, antipyretics, antirheumatics"
+4.64611E+14,TJ21,Androgen adverse reaction
+4.64631E+14,TJD0z,Adverse reaction to antacids/antigastric secretion drugs NOS
+4.64741E+14,TJ0,Antibacterial drug adverse reaction
+4.64821E+14,TJ6,Adverse reaction to anticonvulsants/anti-parkinsonism drugs
+4.64831E+14,TJ90,Adverse reaction to antidepressant
+4.64941E+14,TJC2,Adverse reaction to antilipaemic/anti-arteriosclerotic drugs
+4.64951E+14,TJC2z,Adverse reaction to antilipaemic/antiarterioscler drugs NOS
+4.65121E+14,TJ56,Adverse reaction to antirheumatic
+4.65251E+14,TJ53-1,Aspirin adverse reaction
+4.65261E+14,TJC62,Atenolol adverse reaction
+4.65271E+14,TJB10,Atropine adverse reaction
+4.65321E+14,TJ31Q,Adverse reaction to azathioprine
+4.65381E+14,TJ70,Adverse reaction to barbiturates
+4.65411E+14,U6083-3,Lidocaine adverse reaction
+4.65471E+14,TJC6,Adverse reaction to beta-blockers
+4.65481E+14,TJC6z,Adverse reaction to betablockers NOS
+4.65511E+14,TJC22,Adverse reaction to bezafibrate
+4.65531E+14,TJD10,Bisacodyl adverse reaction
+4.65741E+14,TJC77,Captopril adverse reaction
+4.65871E+14,TJCz,Adverse reaction to cardiovascular system drug NOS
+4.65881E+14,TJC,Drug groups primarily affecting cardiovascular system adverse reaction
+4.66151E+14,TJ02,Chloramphenicol adverse reaction
+4.66311E+14,TJC20,Cholestyramine adverse reaction
+4.66341E+14,TJ1z0,Adverse reaction to ciprofloxacin
+4.66441E+14,TJC70,Adverse reaction to clonidine
+4.66501E+14,TJ522,Codeine adverse reaction
+4.66511E+14,TJE70,Adverse reaction to colchicine
+4.66531E+14,TJ22x,Oestrogen and progestogen preparation adverse reaction
+4.66911E+14,TJC10,Digoxin adverse reaction
+4.66921E+14,TJ524,Adverse reaction to dihydrocodeine tartrate
+4.67001E+14,TJC44,Dipyridamole adverse reaction
+4.67081E+14,EMISDRGA,Adverse reaction to drug
+4.67201E+14,TJC78,Enalapril adverse reaction
+4.67551E+14,TJ002,Adverse reaction to flucloxacillin
+4.67631E+14,TJ412,Adverse reaction to folic acid
+4.67651E+14,TJ0y2,Neomycin adverse reaction
+4.67661E+14,TJE41,Adverse reaction to frusemide
+4.67721E+14,TJD,Drug groups primarily affecting gastrointestinal system adverse reaction
+4.67741E+14,TJ0y0,Adverse reaction to gentamicin
+4.67821E+14,TJC40,Adverse reaction to glyceryl trinitrate
+4.67861E+14,TJD07,Adverse reaction to H2 blockers
+4.67941E+14,TJ50,"Adverse reaction to heroin, diamorphine"
+4.67991E+14,TJ2,Adverse reaction to hormones and synthetic substitutes
+4.68031E+14,TJC53,Hydralazine adverse reaction
+4.68191E+14,TJ23,Adverse reaction to insulins and antidiabetic agents
+4.68221E+14,TJ83,Adverse reaction to intravenous anaesthetics
+4.68231E+14,TJ281,Adverse reaction to iodine or iodide
+4.68251E+14,TJF71,Ipratropium adverse reaction
+4.68261E+14,TJ40,Adverse reaction to iron and iron compounds
+4.68291E+14,TJ407,Iron sorbitol adverse reaction
+4.68361E+14,TJC41,Isosorbide dinitrate adverse reaction
+4.68371E+14,TJC42,Adverse reaction to isosorbide mononitrate
+4.68471E+14,TJD31,Lactulose adverse reaction
+4.68531E+14,TJ851,Adverse reaction to lignocaine hydrochloride
+4.68621E+14,TJG0z,Adverse reaction to local anti-infective/inflammatory NOS
+4.68661E+14,TJD52,Loperamide adverse reaction
+4.68971E+14,TJ123,Adverse reaction to mercury compound
+4.69061E+14,TJ802,Methocarbamol adverse reaction
+4.69101E+14,TJC71,Adverse reaction to methyldopa
+4.69261E+14,TJ520,Adverse reaction to morphine salts
+4.69301E+14,TJ1z1,Nalidixic acid adverse reaction
+4.69371E+14,TJ000,Adverse reaction to natural penicillins
+4.69391E+14,TJ0y4,Adverse reaction to neomycin sulphate
+4.69421E+14,TJHy2,Nicotine adverse reaction
+4.69451E+14,TJC46,Adverse reaction to nifedipine
+4.69481E+14,TJ1z2,Adverse reaction to nitrofuantoin
+4.69501E+14,TJ56-1,Adverse reaction to non steroidal anti inflammatory drugs
+4.69591E+14,TJA1,Adverse reaction to opiate antagonists
+4.69641E+14,TJ5yz,"Adverse reaction to oth analgesic,antipyretic,antirheum NOS"
+4.69671E+14,TJ5y,"Adverse reaction to other analgesics,antipyretics,anti-rheum"
+4.69811E+14,TJ8,Adverse reaction to other CNS depressants and anaesthetics
+4.69841E+14,TJH,Adverse reaction to other drugs and medicines
+4.69871E+14,TJDy,Adverse reaction to other gastrointestinal tract drugs
+4.70461E+14,TJ527,Adverse reaction to pethidine hydrochloride
+4.70531E+14,TJ91,Adverse reaction to phenothiazine-based tranquillisers
+4.70631E+14,TJ00D,Piperacillin adverse reaction
+4.70771E+14,TJC25,Adverse reaction to pravastatin
+4.70781E+14,TJC76,Prazosin adverse reaction
+4.70941E+14,TJ7y1,Adverse reaction to promethazine hydrochloride
+4.70961E+14,TJC02,Adverse reaction to propranolol
+4.71001E+14,TJD08,Proton pump inhibitor adverse reaction
+4.71211E+14,TJ13,Adverse reaction to quinolone and hydroxyquinoline derivatives
+4.71231E+14,TJC79,Ramipril adverse reaction
+4.71361E+14,TJD16,Senna adverse reaction
+4.71371E+14,TJC24,Adverse reaction caused by simvastatin
+4.71411E+14,TJG,"Adverse reaction to skin,mucous membrane,eye,ENT,dental drug"
+4.71571E+14,TJE44,Adverse reaction to spironolactone
+4.71851E+14,TJK8,Adverse reaction to tetanus antitoxin
+4.71931E+14,TJF73,Adverse reaction to theophylline (asthma)
+4.71981E+14,TJE3,Thiazide diuretic adverse reaction
+4.72061E+14,TJ271,Thyroxine adverse reaction
+4.72261E+14,TJ0yC,Trimethoprim adverse reaction
+4.72431E+14,TJC47,Adverse reaction to verapamil
+4.72541E+14,TJ421,Warfarin adverse reaction
+4.72551E+14,TJE,Adverse reaction to water/mineral/uric acid metabolism drugs
+4.72591E+14,TJC81,Adverse reaction to zinc salts
+4.74251E+14,U6069,Dopaminergic drug used in parkinsonism adverse reaction
+4.81491E+14,SN501,"Anaphylactic shock, due to adverse effect of correct medicinal substance properly administered"
+6.31361E+14,TJ,Adverse reaction to substance
+6.93261E+14,U6018,[X]Leflunomide adverse reaction
+7.23081E+14,U6017,[X]Hydroxychloroquine adverse reaction
+8.99961E+14,SN5z-99,Adverse effect NOS
+9.02021E+14,TJ-99,Adverse drug reactions
+9.02281E+14,TJ53-99,Adverse reaction to aspirin
+9.28721E+14,U60CB,Angiotensin II receptor antagonist adverse reaction
+9.60721E+14,EMISCDE9,Evidence of side effects/adverse reactions
+1.01006E+15,EMISNQAD2,Adverse reactions
+1.01013E+15,ALLERGY0,Adverse reaction to EMIS Drug Groups/Constituents and Approved Names
+1.01014E+15,ALLERGY1,Adverse reaction to Gastro-Intestinal System Drugs
+1.01015E+15,ALLERGY1.1,Adverse reaction to Antacids
+1.01023E+15,ALLERGY1.3.1,Adverse reaction to H2-Receptor Blocking Drugs
+1.01028E+15,ALLERGY1.3.6,Adverse reaction to Proton Pump Inhibitors
+1.01052E+15,ALLERGY10,Adverse reaction to Drugs Used In Musculoskeletal And Joint Diseases
+1.01053E+15,ALLERGY10.1,Adverse reaction to Drugs Used In Rheumatic Diseases And Gout
+1.01054E+15,ALLERGY10.1.1,Adverse reaction to Non-Steroidal Anti-Inflammatory Drugs
+1.01063E+15,ALLERGY10.3,Adverse reaction to Drugs Used In Soft Tissue Inflammation
+1.01065E+15,ALLERGY10.3.2,Adverse reaction to Rubefacients And Other Topical Antirheumatics
+1.01066E+15,ALLERGY11,Adverse reaction to Drugs Acting On The Eye
+1.01068E+15,ALLERGY11.3.1,Adverse reaction to Topical Anti-Infective Eye Preparations
+1.01072E+15,ALLERGY11.6,Adverse reaction to Drugs Used For Glaucoma
+1.01077E+15,ALLERGY12,"Adverse reaction to Drugs Acting On The Ear ,Nose And Oropharynx"
+1.01093E+15,ALLERGY13,Adverse reaction to Drugs Acting On The Skin
+1.01121E+15,ALLERGY13.4,Adverse reaction to Topical Corticosteroids
+1.01122E+15,ALLERGY13.5,Adverse reaction to Psoriasis And Eczema
+1.01131E+15,ALLERGY14.5,Adverse reaction to Immunoglobulins
+1.01132E+15,ALLERGY15,Adverse reaction to Anaesthesia
+1.01133E+15,ALLERGY15.1,Adverse reaction to General Anaesthetic Drugs
+1.01138E+15,ALLERGY15.1.4.1,Adverse reaction to Opioid Analgesics
+1.0114E+15,ALLERGY15.1.5,Adverse reaction to Muscle Relaxants In Anaesthesia
+1.01144E+15,ALLERGY15.2,Adverse reaction to Local Anaesthetics
+1.01145E+15,ALLERGY18,Adverse reaction to Preparations Used In Diagnosis
+1.0115E+15,ALLERGY19,Adverse reaction to Other Drugs And Preparations
+1.0116E+15,ALLERGY19.4,Adverse reaction to Single Substances
+1.01166E+15,ALLERGY2,Adverse reaction to Cardiovascular System Drugs
+1.0117E+15,ALLERGY2.12,Adverse reaction to Drugs Used In Hyperlipidaemia
+1.01172E+15,ALLERGY2.2,Adverse reaction to Diuretics
+1.01173E+15,ALLERGY2.2.1,Adverse reaction to Thiazides And Related Diuretics
+1.01174E+15,ALLERGY2.2.2,Adverse reaction to Loop Diuretics
+1.01184E+15,ALLERGY2.4,Adverse reaction to Beta-Adrenoceptor Blocking Drugs
+1.01186E+15,ALLERGY2.5,Adverse reaction to Antihypertensive Drugs
+1.01187E+15,ALLERGY2.5.1,Adverse reaction to Vasodilator Antihypertensive Drugs
+1.0119E+15,ALLERGY2.5.4,Adverse reaction to Alpha-Adrenoceptor Blocking Drugs
+1.01191E+15,ALLERGY2.5.5,Adverse reaction to Drugs Affecting The Renin-Angiotensin System
+1.01192E+15,ALLERGY2.5.5.1,Adverse reaction to Angiotensin-Converting Enzyme Inhibitors
+1.01193E+15,ALLERGY2.5.5.2,Adverse reaction to Angiotensin-II Receptor Antagonists
+1.01196E+15,ALLERGY2.6,"Adverse reaction to Nitrates, other vasodilators and calcium channel blockers"
+1.01197E+15,ALLERGY2.6.1,Adverse reaction to Nitrates
+1.01198E+15,ALLERGY2.6.2,Adverse reaction to Calcium Channel Blockers
+1.01204E+15,ALLERGY2.8,Adverse reaction to Anticoagulants And Protamine
+1.01206E+15,ALLERGY2.8.2,Adverse reaction to Oral Anticoagulants
+1.01208E+15,ALLERGY2.9,Adverse reaction to Antiplatelet Drugs
+1.01263E+15,ALLERGY3,Adverse reaction to Respiratory System Drugs
+1.01264E+15,ALLERGY3.1,Adverse reaction to Bronchodilators
+1.01269E+15,ALLERGY3.1.3,Adverse reaction to Theophylline Derivatives
+1.01272E+15,ALLERGY3.2,Adverse reaction to Corticosteroids For Inhalation
+1.01274E+15,ALLERGY3.4,Adverse reaction to Drugs Used For Allergic Disorders
+1.01275E+15,ALLERGY3.4.1,Adverse reaction to Antihistamines
+1.01283E+15,ALLERGY3.9.1,Adverse reaction to Cough Suppressants
+1.01285E+15,ALLERGY4,Adverse reaction to Central Nervous System Drugs
+1.01286E+15,ALLERGY4.1,Adverse reaction to Hypnotics And Anxiolytics
+1.01289E+15,ALLERGY4.1.3,Adverse reaction to Barbiturates And Methyprylone
+1.0129E+15,ALLERGY4.1.4,Adverse reaction to Benzodiazepines
+1.01293E+15,ALLERGY4.2.1,Adverse reaction to Antipsychotic Drugs
+1.01295E+15,ALLERGY4.2.3,Adverse reaction to Lithium Salts
+1.01296E+15,ALLERGY4.2.4,Adverse reaction to Phenothiazine Derivatives
+1.01297E+15,ALLERGY4.3,Adverse reaction to Antidepressant Drugs
+1.01298E+15,ALLERGY4.3.1,Adverse reaction to Tricyclic And Related Antidepressant Drugs
+1.013E+15,ALLERGY4.3.3,Adverse reaction to Compound Antidepressant Preparations
+1.01301E+15,ALLERGY4.3.4,Adverse reaction to Other Antidepressant Drugs
+1.01308E+15,ALLERGY4.6,Adverse reaction to Drugs Used In Nausea And Vertigo
+1.01309E+15,ALLERGY4.7,Adverse reaction to Analgesics
+1.0131E+15,ALLERGY4.7.1,Adverse reaction to Non-Opioid Analgesics
+1.01312E+15,ALLERGY4.7.2,Adverse reaction to Opioid Analgesics
+1.01315E+15,ALLERGY4.7.4.1,Adverse reaction to Drugs Used In Treatment Of Acute Migraine Attacks
+1.01317E+15,ALLERGY4.8,Adverse reaction to Antiepileptics
+1.01325E+15,ALLERGY5,Adverse reaction to Drugs Used In The Treatment Of Infections
+1.01326E+15,ALLERGY5.1,Adverse reaction to Antibacterial Drugs
+1.01327E+15,ALLERGY5.1.1,Adverse reaction to Penicillins
+1.01328E+15,ALLERGY5.1.1.1,Adverse reaction to Benzylpenicillin And Phenoxymethylpenicillin
+1.01329E+15,ALLERGY5.1.1.2,Adverse reaction to Penicillinase-Resistant Penicillins
+1.0133E+15,ALLERGY5.1.1.3,Adverse reaction to Broad-Spectrum Penicillins
+1.01331E+15,ALLERGY5.1.1.4,Adverse reaction to Antipseudomonal Penicillins
+1.01334E+15,ALLERGY5.1.11,Adverse reaction to Metronidazole And Tinidazole
+1.01335E+15,ALLERGY5.1.12,Adverse reaction to 4-quinolones
+1.01336E+15,ALLERGY5.1.13,Adverse reaction to Urinary-Tract Infections
+1.01337E+15,ALLERGY5.1.2,"Adverse reaction to Cephalosporins, Cephamycins And Other Beta-Lactam Antibiotics"
+1.01338E+15,ALLERGY5.1.2.1,Adverse reaction to Cephalosporins And Cephamycins
+1.01339E+15,ALLERGY5.1.2.2,Adverse reaction to Other Beta-Lactam Antibiotics
+1.0134E+15,ALLERGY5.1.3,Adverse reaction to Tetracyclines
+1.01341E+15,ALLERGY5.1.4,Adverse reaction to Aminoglycosides
+1.01342E+15,ALLERGY5.1.5,Adverse reaction to Erythromycins
+1.01343E+15,ALLERGY5.1.6,Adverse reaction to Clindamycin And Lincomycin
+1.01344E+15,ALLERGY5.1.7,Adverse reaction to Some Other Antibiotics
+1.01345E+15,ALLERGY5.1.8,Adverse reaction to Sulphonamides Or Trimethoprim
+1.01347E+15,ALLERGY5.2,Adverse reaction to Antifungal Drugs
+1.0135E+15,ALLERGY5.4.1,Adverse reaction to Antimalarials
+1.01365E+15,ALLERGY6,Adverse reaction to Drugs Used In Disorders Of The Endocrine System
+1.01366E+15,ALLERGY6.1,Adverse reaction to Drugs Used In Diabetes
+1.01369E+15,ALLERGY6.1.1.2,Adverse reaction to Intermediate And Long Acting Insulin Preparations
+1.01371E+15,ALLERGY6.1.2.1,Adverse reaction to Sulphonylureas And Related Drugs
+1.01372E+15,ALLERGY6.1.2.2,Adverse reaction to Biguanides
+1.01379E+15,ALLERGY6.3,Adverse reaction to Corticosteroids - Systemic
+1.01384E+15,ALLERGY6.4.1.1,Adverse reaction to Oestrogens
+1.01389E+15,ALLERGY6.4.3,Adverse reaction to Anabolic Steroids
+1.01396E+15,ALLERGY6.6.2,Adverse reaction to Disodium Etidronate Preparations
+1.01402E+15,ALLERGY7,"Adverse reaction to Drugs For Obstetric,Gynaecology, And Urinary Tract Disorders"
+1.01409E+15,ALLERGY7.3,Adverse reaction to Contraceptives
+1.0141E+15,ALLERGY7.3.1,Adverse reaction to Combined Oral Contraceptives
+1.01411E+15,ALLERGY7.3.2,Adverse reaction to Progestogen-Only Contraceptives
+1.01413E+15,ALLERGY7.4,Adverse reaction to Drugs Used In Urinary Tract Disorders
+1.01439E+15,ALLERGY9.1.1.1,Adverse reaction to Oral Iron Therapy
+1.01444E+15,ALLERGY9.1.5,Adverse reaction to Prescribing In G6Pd Deficiency
+1.01457E+15,ALLERGY9.5.1.1,Adverse reaction to Calcium Supplements
+1.01475E+15,ALLERGY1800,Adverse reaction to Adalat
+1.01476E+15,ALLERGY1801,Adverse reaction to Adalat Retard
+1.01486E+15,ALLERGY181,Adverse reaction to Azathioprine
+1.01515E+15,ALLERGY18220NEMIS,Adverse reaction to Levemir Flexpen
+1.01517E+15,ALLERGY18225NEMIS,Adverse reaction to Aripiprazole
+1.01533E+15,ALLERGY1828,Adverse reaction to Aldomet
+1.01541E+15,ALLERGY183,Adverse reaction to Aztreonam
+1.01548E+15,ALLERGY1833,Adverse reaction to Algesal
+1.0157E+15,ALLERGY18411NEMIS,Adverse reaction to Zerobase
+1.01576E+15,ALLERGY18427NEMIS,Adverse reaction to Pregabalin
+1.01578E+15,ALLERGY18436NEMIS,Adverse reaction to Lyrica
+1.01581E+15,ALLERGY18446NEMIS,Adverse reaction to Cardioplen Xl
+1.01589E+15,ALLERGY1848,Adverse reaction to Alphosyl
+1.01597E+15,ALLERGY18499NEMIS,Adverse reaction to Tcp
+1.01604E+15,ALLERGY18515NEMIS,Adverse reaction to Lopace
+1.01612E+15,ALLERGY18532NEMIS,Adverse reaction to Dipyridamole And Aspirin
+1.01613E+15,ALLERGY18534NEMIS,Adverse reaction to Lisinopril And Hydrochlorothiazide
+1.01614E+15,ALLERGY18537NEMIS,Adverse reaction to Bendroflumethiazide And M/r Potassium
+1.01615E+15,ALLERGY18539NEMIS,Adverse reaction to Irbesartan And Hydrochlorothiazide
+1.0162E+15,ALLERGY18547NEMIS,Adverse reaction to Perindopril And Indapamide
+1.01621E+15,ALLERGY18549NEMIS,Adverse reaction to Losartan And Hydrochlorothiazide
+1.01626E+15,ALLERGY18558NEMIS,Adverse reaction to Enalapril And Hydrochlorothiazide
+1.01636E+15,ALLERGY18575NEMIS,Adverse reaction to Ramipril And M/r Felodipine
+1.0164E+15,ALLERGY18582NEMIS,Adverse reaction to Fluticasone Propionate And Salmeterol
+1.01641E+15,ALLERGY18589NEMIS,Adverse reaction to Budesonide And Formoterol
+1.01644E+15,ALLERGY1860,Adverse reaction to Alupent
+1.01662E+15,ALLERGY187,Adverse reaction to Baclofen
+1.01663E+15,ALLERGY1870,Adverse reaction to Amoxidin
+1.01664E+15,ALLERGY1871,Adverse reaction to Amoxil
+1.01668E+15,ALLERGY18735NEMIS,Adverse reaction to Duloxetine
+1.01669E+15,ALLERGY18739NEMIS,Adverse reaction to Yentreve
+1.01672E+15,ALLERGY18744NEMIS,Adverse reaction to Solifenacin
+1.01673E+15,ALLERGY18748NEMIS,Adverse reaction to Vesicare
+1.01677E+15,ALLERGY18758NEMIS,Adverse reaction to Repevax
+1.0168E+15,ALLERGY18765NEMIS,Adverse reaction to Revaxis
+1.01689E+15,ALLERGY18782NEMIS,Adverse reaction to Paracetamol And Dihydrocodeine
+1.0169E+15,ALLERGY18785NEMIS,Adverse reaction to Tramadol And Paracetamol
+1.01692E+15,ALLERGY1879,Adverse reaction to Anafranil
+1.017E+15,ALLERGY18804NEMIS,Adverse reaction to Softpore
+1.01721E+15,ALLERGY1889,Adverse reaction to Anhydrol Forte
+1.01722E+15,ALLERGY18890NEMIS,Adverse reaction to Amlostin
+1.01724E+15,ALLERGY189,Adverse reaction to Beclomethasone Dipropionate
+1.01759E+15,ALLERGY1898,Adverse reaction to Anthisan
+1.01767E+15,ALLERGY1899NEMIS,Adverse reaction to Infliximab
+1.01771E+15,ALLERGY5003EMIS,Adverse reaction to Diclomax Retard
+1.01773E+15,ALLERGY5004EMIS,Adverse reaction to Evorel
+1.01777E+15,ALLERGY5008EMIS,Adverse reaction to Mivacurium Chloride
+1.01783E+15,ALLERGY5013EMIS,Adverse reaction to Arthrotec 50
+1.01785E+15,ALLERGY5015EMIS,Adverse reaction to Capsaicin
+1.0179E+15,ALLERGY5020EMIS,Adverse reaction to Elocon
+1.01791E+15,ALLERGY5021EMIS,Adverse reaction to Mometasone Furoate
+1.01804E+15,ALLERGY5032EMIS,Adverse reaction to Tazocin
+1.01809E+15,ALLERGY5039EMIS,Adverse reaction to Distaclor Mr
+1.0181E+15,ALLERGY504,Adverse reaction to Cyanocobalamin
+1.01819E+15,ALLERGY5049EMIS,Adverse reaction to Flixotide
+1.01822E+15,ALLERGY5052EMIS,Adverse reaction to Aveeno
+1.0183E+15,ALLERGY506,Adverse reaction to Cyclizine
+1.01845E+15,ALLERGY5081EMIS,Adverse reaction to Remedeine
+1.01848E+15,ALLERGY5084EMIS,Adverse reaction to Disprin Cv
+1.01854E+15,ALLERGY5090EMIS,Adverse reaction to Fortisip
+1.01857E+15,ALLERGY5094EMIS,Adverse reaction to Fragmin
+1.01858E+15,ALLERGY5095EMIS,Adverse reaction to Dalteparin Sodium
+1.01861E+15,ALLERGY5098EMIS,Adverse reaction to Servier Adsorbed Tetanus
+1.01874E+15,ALLERGY5110EMIS,Adverse reaction to Dilzem Sr 60
+1.01886E+15,ALLERGY5120EMIS,Adverse reaction to Calcium And Ergocalciferol
+1.01889E+15,ALLERGY5123NEMIS,Adverse reaction to Esomeprazole
+1.01893E+15,ALLERGY5127NEMIS,Adverse reaction to Nexium
+1.01896E+15,ALLERGY513,Adverse reaction to Cyclopentolate Hydrochloride
+1.01925E+15,ALLERGY516,Adverse reaction to Cyclosporin
+1.01936E+15,ALLERGY5170NEMIS,Adverse reaction to Nocutil
+1.01943E+15,ALLERGY5178EMIS,Adverse reaction to Motens
+1.01944E+15,ALLERGY5179EMIS,Adverse reaction to Lacidipine
+1.01945E+15,ALLERGY518,Adverse reaction to Cyproterone Acetate
+1.01951E+15,ALLERGY5184EMIS,Adverse reaction to Valproic Acid
+1.01955E+15,ALLERGY5187EMIS,Adverse reaction to Moclobemide
+1.01963E+15,ALLERGY5195NEMIS,Adverse reaction to Strepsils
+1.01964E+15,ALLERGY5196EMIS,Adverse reaction to Augmentin 375 Mg
+1.01965E+15,ALLERGY5197EMIS,Adverse reaction to Augmentin 625 Mg
+1.01966E+15,ALLERGY5198EMIS,Adverse reaction to Co-Amoxiclav 250/125
+1.01967E+15,ALLERGY5199EMIS,Adverse reaction to Co-Amoxiclav 500/125
+1.0197E+15,ALLERGY5201EMIS,Adverse reaction to Fybogel Mebeverine
+1.01984E+15,ALLERGY5212EMIS,Adverse reaction to Ceftriaxone
+1.01993E+15,ALLERGY5219EMIS,Adverse reaction to Gabapentin
+1.0201E+15,ALLERGY5235EMIS,Adverse reaction to Acarbose
+1.02013E+15,ALLERGY5237EMIS,Adverse reaction to Trandolapril
+1.02015E+15,ALLERGY5239EMIS,Adverse reaction to Iopidine
+1.02017E+15,ALLERGY524,Adverse reaction to Dantrolene Sodium
+1.02019E+15,ALLERGY5241EMIS,Adverse reaction to Risperdal
+1.02021E+15,ALLERGY5242EMIS,Adverse reaction to Risperidone
+1.02022E+15,ALLERGY5243EMIS,Adverse reaction to Kapake
+1.02024E+15,ALLERGY5245EMIS,Adverse reaction to Dalacin
+1.02029E+15,ALLERGY5250EMIS,Adverse reaction to Calpol Six Plus
+1.0204E+15,ALLERGY526,Adverse reaction to Dapsone
+1.02066E+15,ALLERGY1005EMIS,Adverse reaction to Ferrous Sulfate Compound
+1.02077E+15,ALLERGY1009,Adverse reaction to Mebendazole
+1.02082E+15,ALLERGY1010,Adverse reaction to Mebeverine Hydrochloride
+1.021E+15,ALLERGY1015EMIS,Adverse reaction to Tetracycline (Mouth Bath)
+1.02108E+15,ALLERGY1019,Adverse reaction to Mefenamic Acid
+1.02119E+15,ALLERGY1022NEMIS,Adverse reaction to Diclofenac Potassium
+1.02122E+15,ALLERGY1023NEMIS,Adverse reaction to Voltarol Rapid
+1.02141E+15,ALLERGY1031,Adverse reaction to Meptazinol
+1.02148E+15,ALLERGY1034,Adverse reaction to Mercaptopurine
+1.0215E+15,ALLERGY1034NEMIS,Adverse reaction to Implanon
+1.02155E+15,ALLERGY1037,Adverse reaction to Mesalazine
+1.02163E+15,ALLERGY1040NEMIS,Adverse reaction to Telmisartan
+1.02168E+15,ALLERGY1042,Adverse reaction to Metformin Hydrochloride
+1.02178E+15,ALLERGY1046,Adverse reaction to Methocarbamol
+1.02186E+15,ALLERGY1049,Adverse reaction to Methotrexate
+1.0221E+15,ALLERGY106,Adverse reaction to Aluminium Chloride
+1.02213E+15,ALLERGY1061,Adverse reaction to Methyldopa
+1.02222E+15,ALLERGY1065,Adverse reaction to Methylprednisolone
+1.02241E+15,ALLERGY1073,Adverse reaction to Metoclopramide Hydrochloride
+1.02244E+15,ALLERGY1074,Adverse reaction to Metolazone
+1.02246E+15,ALLERGY1075,Adverse reaction to Metoprolol Tartrate
+1.02248E+15,ALLERGY1076,Adverse reaction to Metronidazole
+1.02256E+15,ALLERGY10795NEMIS,Adverse reaction to Solaraze
+1.02257E+15,ALLERGY10797NEMIS,Adverse reaction to Sibutramine Hydrochloride Monohydrate
+1.02259E+15,ALLERGY10801NEMIS,Adverse reaction to Reductil
+1.02261E+15,ALLERGY1081,Adverse reaction to Mianserin Hydrochloride
+1.02264E+15,ALLERGY1082,Adverse reaction to Miconazole
+1.02266E+15,ALLERGY1083,Adverse reaction to Miconazole Nitrate
+1.02271E+15,ALLERGY10846NEMIS,Adverse reaction to Symbicort
+1.02275E+15,ALLERGY1086,Adverse reaction to Midazolam
+1.02277E+15,ALLERGY10864NEMIS,Adverse reaction to Zoledronic Acid
+1.02291E+15,ALLERGY11058NEMIS,Adverse reaction to Cosmofer
+1.02297E+15,ALLERGY1108,Adverse reaction to Nabumetone
+1.02298E+15,ALLERGY11080NEMIS,Adverse reaction to Oxactin
+1.02302E+15,ALLERGY1109,Adverse reaction to Nadolol
+1.02305E+15,ALLERGY11096NEMIS,Adverse reaction to Glucosamine
+1.02306E+15,ALLERGY1110,Adverse reaction to Naftidrofuryl Oxalate
+1.02313E+15,ALLERGY1112,Adverse reaction to Nalidixic Acid
+1.02325E+15,ALLERGY1117,Adverse reaction to Naproxen
+1.02329E+15,ALLERGY1118,Adverse reaction to Naproxen Sodium
+1.02338E+15,ALLERGY1123,Adverse reaction to Nedocromil Sodium
+1.0234E+15,ALLERGY1124,Adverse reaction to Nefopam Hydrochloride
+1.02343E+15,ALLERGY1125,Adverse reaction to Neomycin
+1.02354E+15,ALLERGY1128,Adverse reaction to Neomycin Sulfate
+1.02376E+15,ALLERGY11332NEMIS,Adverse reaction to Feldene P
+1.02385E+15,ALLERGY11373NEMIS,Adverse reaction to Robitussin Chesty Cough
+1.02387E+15,ALLERGY1138,Adverse reaction to Nicardipine Hydrochloride
+1.02397E+15,ALLERGY1142,Adverse reaction to Nicotine
+1.02401E+15,ALLERGY1143,Adverse reaction to Nicotinic Acid
+1.02413E+15,ALLERGY1146,Adverse reaction to Nifedipine
+1.02419E+15,ALLERGY1150,Adverse reaction to Nitrazepam
+1.02421E+15,ALLERGY1151,Adverse reaction to Nitrofurantoin
+1.02422E+15,ALLERGY1152,Adverse reaction to Nitrofurazone
+1.02424E+15,ALLERGY1153,Adverse reaction to Nizatidine
+1.02453E+15,ALLERGY1165,Adverse reaction to Norethisterone
+1.02463E+15,ALLERGY11678NEMIS,Adverse reaction to Detrusitol Xl
+1.02465E+15,ALLERGY11686NEMIS,Adverse reaction to Levocetirizine
+1.02467E+15,ALLERGY1169,Adverse reaction to Nortriptyline
+1.02472E+15,ALLERGY11704NEMIS,Adverse reaction to Codeine
+1.02479E+15,ALLERGY1173,Adverse reaction to Nystatin
+1.02484E+15,ALLERGY1177,Adverse reaction to Oestradiol
+1.02493E+15,ALLERGY118,Adverse reaction to Alverine Citrate
+1.02497E+15,ALLERGY11812NEMIS,Adverse reaction to St John's Wort
+1.02499E+15,ALLERGY11819NEMIS,Adverse reaction to Xalacom
+1.02508E+15,ALLERGY1187,Adverse reaction to Olive
+1.02515E+15,ALLERGY119,Adverse reaction to Amantadine Hydrochloride
+1.02517E+15,ALLERGY1191,Adverse reaction to Orciprenaline Sulfate
+1.02553E+15,ALLERGY1089,Adverse reaction to Minocycline
+1.0256E+15,ALLERGY1090,Adverse reaction to Minoxidil
+1.02591E+15,ALLERGY1097,Adverse reaction to Morphine
+1.02596E+15,ALLERGY1098,Adverse reaction to Morphine Hydrochloride
+1.02599E+15,ALLERGY1099,Adverse reaction to Morphine Sulfate
+1.02619E+15,ALLERGY1208,Adverse reaction to Oxyphenbutazone
+1.02624E+15,ALLERGY1210,Adverse reaction to Oxytetracycline
+1.02625E+15,ALLERGY1211,Adverse reaction to Oxytetracycline Dihydrate
+1.02628E+15,ALLERGY1212,Adverse reaction to Oxytetracycline Hydrochloride
+1.0263E+15,ALLERGY12136NEMIS,Adverse reaction to Travoprost
+1.02631E+15,ALLERGY12139NEMIS,Adverse reaction to Travatan
+1.02639E+15,ALLERGY1218,Adverse reaction to Papaveretum
+1.02642E+15,ALLERGY122,Adverse reaction to Amethocaine
+1.02643E+15,ALLERGY1220,Adverse reaction to Paracetamol
+1.02658E+15,ALLERGY1232,Adverse reaction to Penicillamine
+1.02666E+15,ALLERGY1235EMFIX,Adverse reaction to Meropenem
+1.02696E+15,ALLERGY1249,Adverse reaction to Pethidine Hydrochloride
+1.02705E+15,ALLERGY12510NEMIS,Adverse reaction to Cetraben Emollient
+1.02726E+15,ALLERGY1259,Adverse reaction to Phenobarbitone
+1.02731E+15,ALLERGY126,Adverse reaction to Amiloride Hydrochloride
+1.02734E+15,ALLERGY1261,Adverse reaction to Phenol
+1.02747E+15,ALLERGY12671NEMIS,Adverse reaction to Concerta Xl
+1.0275E+15,ALLERGY1268,Adverse reaction to Phenoxymethylpenicillin
+1.02761E+15,ALLERGY1271,Adverse reaction to Phenylbutazone
+1.0277E+15,ALLERGY12732NEMIS,Adverse reaction to Bimatoprost
+1.02771E+15,ALLERGY12735NEMIS,Adverse reaction to Lumigan
+1.02779E+15,ALLERGY12770NEMIS,Adverse reaction to Niquitin Clear
+1.02787E+15,ALLERGY1279,Adverse reaction to Phenytoin Sodium
+1.02793E+15,ALLERGY1280,Adverse reaction to Pholcodine
+1.02794E+15,ALLERGY12803NEMIS,Adverse reaction to Arcoxia
+1.02795E+15,ALLERGY12808NEMIS,Adverse reaction to Etoricoxib
+1.02796E+15,ALLERGY12812NEMIS,Adverse reaction to Yasmin
+1.02814E+15,ALLERGY1286,Adverse reaction to Pilocarpine
+1.02824E+15,ALLERGY12894NEMIS,Adverse reaction to Protopic
+1.02825E+15,ALLERGY12899NEMIS,Adverse reaction to Dovobet
+1.02826E+15,ALLERGY129,Adverse reaction to Aminophylline
+1.02828E+15,ALLERGY12904NEMIS,Adverse reaction to Transtec
+1.02847E+15,ALLERGY12954NEMIS,Adverse reaction to Ibandronic Acid
+1.02849E+15,ALLERGY1296,Adverse reaction to Piperacillin
+1.0286E+15,ALLERGY12NEMIS,Adverse reaction to Pramipexole dihydrochloride
+1.02861E+15,ALLERGY130,Adverse reaction to Amiodarone
+1.02868E+15,ALLERGY13024NEMIS,Adverse reaction to Zapain
+1.02879E+15,ALLERGY1306,Adverse reaction to Piroxicam
+1.0288E+15,ALLERGY1307,Adverse reaction to Pivampicillin
+1.02884E+15,ALLERGY13084NEMIS,Adverse reaction to Escitalopram
+1.02885E+15,ALLERGY13087NEMIS,Adverse reaction to Cipralex
+1.0289E+15,ALLERGY131,Adverse reaction to Amitriptyline Hydrochloride
+1.02891E+15,ALLERGY1310,Adverse reaction to Pizotifen
+1.02932E+15,ALLERGY13221NEMIS,Adverse reaction to Allergenics
+1.02933E+15,ALLERGY13229NEMIS,Adverse reaction to Lamisil At
+1.02948E+15,ALLERGY13299NEMIS,Adverse reaction to Omacor
+1.02989E+15,ALLERGY13539NEMIS,Adverse reaction to Volsaid Retard 75
+1.02998E+15,ALLERGY13569NEMIS,Adverse reaction to Lantus
+1.03003E+15,ALLERGY1358,Adverse reaction to Povidone-Iodine
+1.0301E+15,ALLERGY1362,Adverse reaction to Prazosin Hydrochloride
+1.03012E+15,ALLERGY1364,Adverse reaction to Prednisolone
+1.03016E+15,ALLERGY13652NEMIS,Adverse reaction to Fenactol
+1.03023E+15,ALLERGY1369,Adverse reaction to Prednisone
+1.03024E+15,ALLERGY137,Adverse reaction to Amoxycillin
+1.03027E+15,ALLERGY13724NEMIS,Adverse reaction to Spiriva Combopack
+1.03028E+15,ALLERGY13725NEMIS,Adverse reaction to Spiriva Refill
+1.03029E+15,ALLERGY13726NEMIS,Adverse reaction to Tiotropium
+1.03035E+15,ALLERGY1376,Adverse reaction to Primidone
+1.03049E+15,ALLERGY138,Adverse reaction to Amphotericin B
+1.03063E+15,ALLERGY1384,Adverse reaction to Prochlorperazine Maleate
+1.03065E+15,ALLERGY13842NEMIS,Adverse reaction to Desogestrel
+1.03066E+15,ALLERGY13844NEMIS,Adverse reaction to Cerazette
+1.03072E+15,ALLERGY1386,Adverse reaction to Procyclidine Hydrochloride
+1.03076E+15,ALLERGY1388,Adverse reaction to Progesterone
+1.03077E+15,ALLERGY13885NEMIS,Adverse reaction to Propolis
+1.03079E+15,ALLERGY1389,Adverse reaction to Proguanil Hydrochloride
+1.03081E+15,ALLERGY139,Adverse reaction to Ampicillin
+1.03084E+15,ALLERGY1391,Adverse reaction to Promazine Hydrochloride
+1.03088E+15,ALLERGY1392,Adverse reaction to Promethazine Hydrochloride
+1.03097E+15,ALLERGY1395,Adverse reaction to Propantheline Bromide
+1.03098E+15,ALLERGY1396,Adverse reaction to Propofol
+1.03099E+15,ALLERGY1397,Adverse reaction to Propranolol Hydrochloride
+1.03102E+15,ALLERGY1399,Adverse reaction to Propylene Glycol
+1.03104E+15,ALLERGY1401,Adverse reaction to Propylthiouracil
+1.03113E+15,ALLERGY1409,Adverse reaction to Pseudoephedrine Hydrochloride
+1.03118E+15,ALLERGY1413,Adverse reaction to Pyrazinamide
+1.03142E+15,ALLERGY1420,Adverse reaction to Quinidine Bisulfate
+1.03146E+15,ALLERGY1421,Adverse reaction to Quinidine Sulfate
+1.0315E+15,ALLERGY1422,Adverse reaction to Quinine Bisulfate
+1.03151E+15,ALLERGY1423,Adverse reaction to Quinine Dihydrochloride
+1.03156E+15,ALLERGY1424,Adverse reaction to Quinine Hydrochloride
+1.0316E+15,ALLERGY1425,Adverse reaction to Quinine Sulfate
+1.03165E+15,ALLERGY1426,Adverse reaction to Ranitidine
+1.03166E+15,ALLERGY14269NEMIS,Adverse reaction to Memantine Hydrochloride
+1.03201E+15,ALLERGY1443,Adverse reaction to Rifampicin
+1.03216E+15,ALLERGY1448,Adverse reaction to Salbutamol
+1.03225E+15,ALLERGY1451,Adverse reaction to Salicylate
+1.03226E+15,ALLERGY1452,Adverse reaction to Salicylic Acid
+1.03231E+15,ALLERGY1456,Adverse reaction to Saltair
+1.03234E+15,ALLERGY1458,Adverse reaction to Selegiline Hydrochloride
+1.03237E+15,ALLERGY1459,Adverse reaction to Selenium Sulfide
+1.03252E+15,ALLERGY1463,Adverse reaction to Senna
+1.03257E+15,ALLERGY14649NEMIS,Adverse reaction to Zirtek Allergy
+1.03264E+15,ALLERGY14667NEMIS,Adverse reaction to Tamiflu
+1.03315E+15,ALLERGY14825NEMIS,Adverse reaction to Actonel Once A Week
+1.03316E+15,ALLERGY14827NEMIS,Adverse reaction to Tadalafil
+1.03317E+15,ALLERGY14831NEMIS,Adverse reaction to Cialis
+1.03318E+15,ALLERGY14834NEMIS,Adverse reaction to Co-Codamol 15/500
+1.03329E+15,ALLERGY14901NEMIS,Adverse reaction to Zoton Fastab
+1.0333E+15,ALLERGY14905NEMIS,Adverse reaction to Calfovit D3
+1.03332E+15,ALLERGY1491,Adverse reaction to Sodium Aurothiomalate
+1.03337E+15,ALLERGY14920NEMIS,Adverse reaction to Dutasteride
+1.03338E+15,ALLERGY14923NEMIS,Adverse reaction to Avodart
+1.03345E+15,ALLERGY1494,Adverse reaction to Sodium Cromoglycate
+1.03348E+15,ALLERGY1495,Adverse reaction to Sodium Fusidate
+1.03374E+15,ALLERGY15024NEMIS,Adverse reaction to Levitra
+1.0338E+15,ALLERGY15041NEMIS,Adverse reaction to Moxifloxacin
+1.03392E+15,ALLERGY15068NEMIS,Adverse reaction to Rosuvastatin
+1.03394E+15,ALLERGY15073NEMIS,Adverse reaction to Crestor
+1.03404E+15,ALLERGY1512,Adverse reaction to Sodium Valproate
+1.0341E+15,ALLERGY1520,Adverse reaction to Sotalol Hydrochloride
+1.03422E+15,ALLERGY15248NEMIS,Adverse reaction to Ezetimibe
+1.03425E+15,ALLERGY15251NEMIS,Adverse reaction to Ezetrol
+1.03432E+15,ALLERGY1527,Adverse reaction to Spironolactone
+1.03433E+15,ALLERGY15271NEMIS,Adverse reaction to Thick And Easy Dairy
+1.03445E+15,ALLERGY15343NEMIS,Adverse reaction to Gabapentin Titration Pack
+1.03474E+15,ALLERGY15427NEMIS,Adverse reaction to Gentamicin Sulfate
+1.03488E+15,ALLERGY15475NEMIS,Adverse reaction to Evra
+1.03501E+15,ALLERGY1552,Adverse reaction to Streptokinase
+1.03519E+15,ALLERGY1558,Adverse reaction to Sucralfate
+1.03532E+15,ALLERGY1563NEMIS,Adverse reaction to Oxaliplatin
+1.03537E+15,ALLERGY1566,Adverse reaction to Sulindac
+1.03542E+15,ALLERGY1568,Adverse reaction to Sulfacetamide
+1.03545E+15,ALLERGY1570,Adverse reaction to Sulphadiazine
+1.03552E+15,ALLERGY1572,Adverse reaction to Sulfadimidine
+1.03554E+15,ALLERGY15727NEMIS,Adverse reaction to Entonox
+1.03564E+15,ALLERGY15757NEMIS,Adverse reaction to Olmesartan Medoxomil
+1.03565E+15,ALLERGY15762NEMIS,Adverse reaction to Olmetec
+1.03569E+15,ALLERGY1577,Adverse reaction to Sulphamethizole
+1.03573E+15,ALLERGY1578,Adverse reaction to Sulphasalazine
+1.03588E+15,ALLERGY1582,Adverse reaction to Sulfur
+1.03589E+15,ALLERGY1583,Adverse reaction to Sulpiride
+1.03615E+15,ALLERGY1589,Adverse reaction to Suxamethonium Chloride
+1.03621E+15,ALLERGY159,Adverse reaction to Antiseptic
+1.03647E+15,ALLERGY1595,Adverse reaction to Tamoxifen
+1.03652E+15,ALLERGY15965NEMIS,Adverse reaction to Doxadura
+1.03659E+15,ALLERGY1600,Adverse reaction to Temazepam
+1.03663E+15,ALLERGY1601,Adverse reaction to Terbutaline Sulfate
+1.03668E+15,ALLERGY1603,Adverse reaction to Terfenadine
+1.03686E+15,ALLERGY16109NEMIS,Adverse reaction to Anadin Ultra
+1.03696E+15,ALLERGY1612NEMIS,Adverse reaction to Meningococcal Group C Conjugate
+1.03699E+15,ALLERGY16133NEMIS,Adverse reaction to Vaseline
+1.03701E+15,ALLERGY16137NEMIS,Adverse reaction to Nurofen
+1.03703E+15,ALLERGY1613NEMIS,Adverse reaction to Meningitec
+1.03721E+15,ALLERGY16194NEMIS,Adverse reaction to Simvador
+1.03722E+15,ALLERGY16198NEMIS,Adverse reaction to Ibuleve
+1.03731E+15,ALLERGY1623,Adverse reaction to Tetracycline Hydrochloride
+1.0374E+15,ALLERGY1627,Adverse reaction to Theophylline Hydrate
+1.03741E+15,ALLERGY16277NEMIS,Adverse reaction to Felotens Xl
+1.03745E+15,ALLERGY16288NEMIS,Adverse reaction to Asacol Mr
+1.03755E+15,ALLERGY1631,Adverse reaction to Thiamine
+1.03768E+15,ALLERGY1636,Adverse reaction to Thiopentone Sodium
+1.0377E+15,ALLERGY1637,Adverse reaction to Thioridazine
+1.03777E+15,ALLERGY16407NEMIS,Adverse reaction to Duac Once Daily
+1.03788E+15,ALLERGY1644,Adverse reaction to Thyroxine Sodium
+1.03791E+15,ALLERGY16458NEMIS,Adverse reaction to Niaspan
+1.03792E+15,ALLERGY1646,Adverse reaction to Tiaprofenic Acid
+1.03796E+15,ALLERGY16469NEMIS,Adverse reaction to Humira
+1.038E+15,ALLERGY16476NEMIS,Adverse reaction to Avandamet
+1.03801E+15,ALLERGY1648,Adverse reaction to Timolol Maleate
+1.03808E+15,ALLERGY1650,Adverse reaction to Tinidazole
+1.03818E+15,ALLERGY1657,Adverse reaction to Tobramycin
+1.03825E+15,ALLERGY166,Adverse reaction to Ascorbic Acid
+1.03828E+15,ALLERGY1661,Adverse reaction to Tolbutamide
+1.03829E+15,ALLERGY16610NEMIS,Adverse reaction to Stalevo
+1.0384E+15,ALLERGY1664NEMIS,Adverse reaction to Leflunomide
+1.03846E+15,ALLERGY1668,Adverse reaction to Tranexamic Acid
+1.03852E+15,ALLERGY167,Adverse reaction to Aspirin
+1.03858E+15,ALLERGY16715NEMIS,Adverse reaction to Dorzolamide And Timolol
+1.0386E+15,ALLERGY1672,Adverse reaction to Trazodone Hydrochloride
+1.03863E+15,ALLERGY16727NEMIS,Adverse reaction to Urtica
+1.03867E+15,ALLERGY1674,Adverse reaction to Tretinoin
+1.0387E+15,ALLERGY1675,Adverse reaction to Triamcinolone
+1.03873E+15,ALLERGY1676,Adverse reaction to Triamcinolone Acetonide
+1.03889E+15,ALLERGY1689,Adverse reaction to Trifluoperazine
+1.0389E+15,ALLERGY16893NEMIS,Adverse reaction to Zispin Soltab
+1.03893E+15,ALLERGY169,Adverse reaction to Atenolol
+1.03906E+15,ALLERGY1694,Adverse reaction to Trimethoprim
+1.03909E+15,ALLERGY1695,Adverse reaction to Trimipramine
+1.03917E+15,ALLERGY1698NEMIS,Adverse reaction to Citalopram Hydrochloride
+1.03918E+15,ALLERGY1699,Adverse reaction to Tropicamide
+1.03924E+15,ALLERGY17003NEMIS,Adverse reaction to Amlodipine
+1.0393E+15,ALLERGY1703,Adverse reaction to Tuberculin Ppd
+1.0394E+15,ALLERGY171,Adverse reaction to Atracurium Besylate
+1.03946E+15,ALLERGY1716,Adverse reaction to Ursodeoxycholic Acid
+1.03949E+15,ALLERGY1718,Adverse reaction to Vancomycin Hydrochloride
+1.03954E+15,ALLERGY172,Adverse reaction to Atropine
+1.03957E+15,ALLERGY1721,Adverse reaction to Vecuronium Bromide
+1.03962E+15,ALLERGY17222NEMIS,Adverse reaction to Tramacet
+1.03972E+15,ALLERGY1725,Adverse reaction to Verapamil Hydrochloride
+1.03991E+15,ALLERGY17303NEMIS,Adverse reaction to Methenamine Hippurate
+1.03993E+15,ALLERGY17307NEMIS,Adverse reaction to Trihexyphenidyl
+1.03995E+15,ALLERGY17311NEMIS,Adverse reaction to Levomepromazine
+1.04006E+15,ALLERGY1737,Adverse reaction to Warfarin Sodium
+1.04008E+15,ALLERGY1738NEMIS,Adverse reaction to Chemydur 60Xl
+1.04031E+15,ALLERGY17487NEMIS,Adverse reaction to Voltarol Emulgel P
+1.04035E+15,ALLERGY17495NEMIS,Adverse reaction to Benadryl Allergy
+1.04041E+15,ALLERGY17509NEMIS,Adverse reaction to Amoxicillin
+1.04044E+15,ALLERGY1752,Adverse reaction to Xylometazoline Hydrochloride
+1.04046E+15,ALLERGY17524NEMIS,Adverse reaction to Beclometasone
+1.04047E+15,ALLERGY17552NEMIS,Adverse reaction to Bendroflumethiazide
+1.04048E+15,ALLERGY17555NEMIS,Adverse reaction to Benorilate
+1.04053E+15,ALLERGY17566NEMIS,Adverse reaction to Cefalexin
+1.04054E+15,ALLERGY17574NEMIS,Adverse reaction to Cefradine
+1.04055E+15,ALLERGY1758,Adverse reaction to Zinc Oxide
+1.04059E+15,ALLERGY17589NEMIS,Adverse reaction to Chlorphenamine
+1.0406E+15,ALLERGY17594NEMIS,Adverse reaction to Chlortalidone
+1.04061E+15,ALLERGY17596NEMIS,Adverse reaction to Colestyramine
+1.04063E+15,ALLERGY176,Adverse reaction to Atropine Sulfate
+1.04065E+15,ALLERGY17606NEMIS,Adverse reaction to Ciclosporin
+1.04072E+15,ALLERGY17625NEMIS,Adverse reaction to Dicycloverine
+1.04077E+15,ALLERGY17634NEMIS,Adverse reaction to Dosulepin
+1.04079E+15,ALLERGY17642NEMIS,Adverse reaction to Formoterol
+1.04081E+15,ALLERGY17648NEMIS,Adverse reaction to Ethinylestradiol
+1.04084E+15,ALLERGY17655NEMIS,Adverse reaction to Flupentixol
+1.04086E+15,ALLERGY17669NEMIS,Adverse reaction to Furosemide
+1.04092E+15,ALLERGY17685NEMIS,Adverse reaction to Hydroxycarbamide
+1.04093E+15,ALLERGY17687NEMIS,Adverse reaction to Indometacin
+1.04094E+15,ALLERGY17696NEMIS,Adverse reaction to Lidocaine
+1.04103E+15,ALLERGY17728NEMIS,Adverse reaction to Lidocaine With Adrenaline (as base)
+1.04113E+15,ALLERGY17749NEMIS,Adverse reaction to Estradiol
+1.04119E+15,ALLERGY17778NEMIS,Adverse reaction to Alimemazine
+1.04121E+15,ALLERGY17782NEMIS,Adverse reaction to Estriol
+1.04123E+15,ALLERGY17790NEMIS,Adverse reaction to Levothyroxine Sodium
+1.0413E+15,ALLERGY17810NEMIS,Adverse reaction to Phenobarbital
+1.04135E+15,ALLERGY17827NEMIS,Adverse reaction to Sulfasalazine
+1.04136E+15,ALLERGY1783,Adverse reaction to Acepril
+1.04139E+15,ALLERGY17839NEMIS,Adverse reaction to Calcitonin (Salmon)
+1.04141E+15,ALLERGY17842NEMIS,Adverse reaction to Sulfamethizole
+1.04142E+15,ALLERGY17845NEMIS,Adverse reaction to Sulfadiazine
+1.04148E+15,ALLERGY1786,Adverse reaction to Achromycin
+1.04149E+15,ALLERGY17862NEMIS,Adverse reaction to Atracurium Besilate
+1.04164E+15,ALLERGY179,Adverse reaction to Azapropazone
+1.04187E+15,ALLERGY1794,Adverse reaction to Actifed
+1.04199E+15,ALLERGY1799,Adverse reaction to Acupan
+1.04215E+15,ALLERGY19047NEMIS,Adverse reaction to Eplerenone
+1.04222E+15,ALLERGY19060NEMIS,Adverse reaction to Strontium Ranelate
+1.04223E+15,ALLERGY19063NEMIS,Adverse reaction to Protelos
+1.04227E+15,ALLERGY1908,Adverse reaction to Anusol
+1.04233E+15,ALLERGY19097NEMIS,Adverse reaction to Calcium Carbonate And Colecalciferol
+1.04242E+15,ALLERGY1914,Adverse reaction to Aprinox
+1.04245E+15,ALLERGY1916,Adverse reaction to Apsin
+1.0425E+15,ALLERGY1920,Adverse reaction to Aqueous
+1.04284E+15,ALLERGY1935,Adverse reaction to Asacol
+1.043E+15,ALLERGY19399NEMIS,Adverse reaction to Cymbalta
+1.04305E+15,ALLERGY1941,Adverse reaction to Asmaven
+1.04309E+15,ALLERGY1942,Adverse reaction to Aspav Dispersible
+1.0431E+15,ALLERGY19421NEMIS,Adverse reaction to Glucophage Sr
+1.04312E+15,ALLERGY19424NEMIS,Adverse reaction to Monomil Xl
+1.04318E+15,ALLERGY19438NEMIS,Adverse reaction to Ibuprofen M/r And Codeine
+1.04323E+15,ALLERGY19445NEMIS,Adverse reaction to Naproxen And Misoprostol
+1.04325E+15,ALLERGY1945,Adverse reaction to Aspirin Dispersible Low Dose
+1.0433E+15,ALLERGY1945NEMIS,Adverse reaction to Sinemet 12.5 mg/50 mg
+1.04331E+15,ALLERGY1946,Adverse reaction to Aspirin Paracetamol And Codeine
+1.04335E+15,ALLERGY19466NEMIS,Adverse reaction to Flumetasone And Clioquinol
+1.04337E+15,ALLERGY1947,Adverse reaction to Atarax
+1.0435E+15,ALLERGY1949,Adverse reaction to Ativan
+1.04359E+15,ALLERGY19509NEMIS,Adverse reaction to Benzoyl Peroxide And Clindamycin
+1.0436E+15,ALLERGY1951,Adverse reaction to Atrovent
+1.04367E+15,ALLERGY1954,Adverse reaction to Audicort
+1.04373E+15,ALLERGY1956,Adverse reaction to Augmentin
+1.04384E+15,ALLERGY1960,Adverse reaction to Aureomycin
+1.0439E+15,ALLERGY1964,Adverse reaction to Avloclor
+1.04396E+15,ALLERGY1966,Adverse reaction to Axid
+1.04406E+15,ALLERGY19684NEMIS,Adverse reaction to Durogesic Dtrans
+1.04412E+15,ALLERGY197,Adverse reaction to Bendrofluazide
+1.04419E+15,ALLERGY1972,Adverse reaction to Bactrian
+1.04422E+15,ALLERGY1973,Adverse reaction to Bactrim
+1.04425E+15,ALLERGY1974,Adverse reaction to Bactroban
+1.0443E+15,ALLERGY1977,Adverse reaction to Balneum
+1.04451E+15,ALLERGY1982,Adverse reaction to Baxan
+1.04477E+15,ALLERGY1988,Adverse reaction to Beconase
+1.04484E+15,ALLERGY199,Adverse reaction to Benorylate
+1.04485E+15,ALLERGY1990,Adverse reaction to Becotide
+1.04488E+15,ALLERGY1991,Adverse reaction to Becotide 100
+1.04503E+15,ALLERGY2001,Adverse reaction to Benoral
+1.04505E+15,ALLERGY2001EMIS,Adverse reaction to Zithromax
+1.04509E+15,ALLERGY2002EMIS,Adverse reaction to Azithromycin
+1.04518E+15,ALLERGY2008,Adverse reaction to Benylin Decongestant
+1.04519E+15,ALLERGY20080NEMIS,Adverse reaction to Kentera
+1.04522E+15,ALLERGY2009,Adverse reaction to Benylin Expectorant
+1.04524E+15,ALLERGY2010,Adverse reaction to Benylin Paediatric
+1.0453E+15,ALLERGY20113NEMIS,Adverse reaction to Combigan
+1.0457E+15,ALLERGY2025,Adverse reaction to Betadine
+1.04575E+15,ALLERGY20265NEMIS,Adverse reaction to Rectogesic
+1.04578E+15,ALLERGY20270NEMIS,Adverse reaction to Zonisamide
+1.0458E+15,ALLERGY20279NEMIS,Adverse reaction to Ezetimibe And Simvastatin
+1.04587E+15,ALLERGY203,Adverse reaction to Benzalkonium Chloride
+1.04591E+15,ALLERGY2032,Adverse reaction to Betnesol
+1.04592E+15,ALLERGY2033,Adverse reaction to Betnesol-N
+1.04594E+15,ALLERGY2034,Adverse reaction to Betnovate
+1.04595E+15,ALLERGY2035,Adverse reaction to Betnovate-C
+1.04606E+15,ALLERGY2038,Adverse reaction to Betoptic
+1.04615E+15,ALLERGY2040,Adverse reaction to Bezalip
+1.04616E+15,ALLERGY2041,Adverse reaction to Bezalip-Mono
+1.04638E+15,ALLERGY205,Adverse reaction to Benzathine Penicillin
+1.0464E+15,ALLERGY20502NEMIS,Adverse reaction to Rasagiline
+1.0465E+15,ALLERGY20542NEMIS,Adverse reaction to Flomaxtra Xl
+1.0466E+15,ALLERGY20576NEMIS,Adverse reaction to Mesitran Mesh
+1.04682E+15,ALLERGY2063,Adverse reaction to Bonjela
+1.04694E+15,ALLERGY2068,Adverse reaction to Brevinor
+1.04696E+15,ALLERGY2069,Adverse reaction to Bricanyl
+1.04715E+15,ALLERGY2078,Adverse reaction to Brolene
+1.0472E+15,ALLERGY208,Adverse reaction to Benzocaine
+1.0473E+15,ALLERGY2084,Adverse reaction to Brufen
+1.04734E+15,ALLERGY2086,Adverse reaction to Buccastem
+1.0474E+15,ALLERGY20870NEMIS,Adverse reaction to Enzira
+1.04747E+15,ALLERGY2089,Adverse reaction to Burinex
+1.04755E+15,ALLERGY2091,Adverse reaction to Buscopan
+1.04761E+15,ALLERGY2093,Adverse reaction to Butazolidin
+1.04772E+15,ALLERGY19972NEMIS,Adverse reaction to Colecalciferol
+1.04804E+15,ALLERGY2104,Adverse reaction to Calcium With Vitamin D
+1.04818E+15,ALLERGY2109,Adverse reaction to Calpol Paediatric
+1.04821E+15,ALLERGY21099NEMIS,Adverse reaction to Butrans
+1.04826E+15,ALLERGY21111NEMIS,Adverse reaction to Bonviva
+1.04837E+15,ALLERGY21147NEMIS,Adverse reaction to Timolol And Bendroflumethiazide
+1.04845E+15,ALLERGY2117,Adverse reaction to Canesten
+1.04857E+15,ALLERGY2121,Adverse reaction to Canesten Hc
+1.04868E+15,ALLERGY2126,Adverse reaction to Capoten
+1.04874E+15,ALLERGY2129,Adverse reaction to Carbamazepine
+1.04875E+15,ALLERGY213,Adverse reaction to Benzoyl Peroxide
+1.04934E+15,ALLERGY21508NEMIS,Adverse reaction to Chloroquine Phosphate And Proguanil
+1.04945E+15,ALLERGY21535NEMIS,Adverse reaction to Diclofenac
+1.04955E+15,ALLERGY2156,Adverse reaction to Ceporex
+1.04959E+15,ALLERGY2157,Adverse reaction to Cerumol
+1.04971E+15,ALLERGY216,Adverse reaction to Benzydamine Hydrochloride
+1.04985E+15,ALLERGY21627NEMIS,Adverse reaction to Ivabradine
+1.04989E+15,ALLERGY2164,Adverse reaction to Cetomacrogol
+1.05029E+15,ALLERGY218,Adverse reaction to Benzyl Benzoate
+1.0503E+15,ALLERGY2180,Adverse reaction to Chlorhexidine
+1.05038E+15,ALLERGY2184,Adverse reaction to Chloromycetin
+1.05056E+15,ALLERGY2195,Adverse reaction to Cicatrin
+1.05062E+15,ALLERGY2199,Adverse reaction to Ciproxin
+1.05067E+15,ALLERGY3324,Adverse reaction to Nuelin
+1.05079E+15,ALLERGY3336,Adverse reaction to Nystan
+1.05086E+15,ALLERGY3346,Adverse reaction to Omnopon
+1.05095E+15,ALLERGY3355,Adverse reaction to Opsite
+1.05097E+15,ALLERGY3356,Adverse reaction to Opticrom
+1.05102E+15,ALLERGY336,Adverse reaction to Cefaclor
+1.05113E+15,ALLERGY3369NEMIS,Adverse reaction to Ralgex
+1.05114E+15,ALLERGY337,Adverse reaction to Cefadroxil
+1.05126E+15,ALLERGY338,Adverse reaction to Cefotaxime
+1.05127E+15,ALLERGY3380,Adverse reaction to Ortho-Dienoestrol
+1.05128E+15,ALLERGY3381,Adverse reaction to Ortho-Gynest
+1.05133E+15,ALLERGY3386,Adverse reaction to Orudis
+1.05134E+15,ALLERGY3387,Adverse reaction to Oruvail
+1.05136E+15,ALLERGY3389,Adverse reaction to Otosporin
+1.05139E+15,ALLERGY3391,Adverse reaction to Otrivine
+1.05142E+15,ALLERGY3395,Adverse reaction to Ovestin
+1.05145E+15,ALLERGY3398,Adverse reaction to Ovranette
+1.05154E+15,ALLERGY3407,Adverse reaction to Paludrine
+1.05157E+15,ALLERGY341,Adverse reaction to Ceftazidime
+1.05158E+15,ALLERGY3410,Adverse reaction to Panadol
+1.05169E+15,ALLERGY3420,Adverse reaction to Paramax
+1.05176E+15,ALLERGY3427,Adverse reaction to Paroven
+1.05178E+15,ALLERGY3429,Adverse reaction to Pavacol-D
+1.05179E+15,ALLERGY343,Adverse reaction to Cefuroxime
+1.05183E+15,ALLERGY3433,Adverse reaction to Penbritin
+1.05185E+15,ALLERGY3435,Adverse reaction to Penicillin Vk
+1.05187E+15,ALLERGY3438,Adverse reaction to Pentazocine
+1.05199E+15,ALLERGY345,Adverse reaction to Cephalexin
+1.05201E+15,ALLERGY3451,Adverse reaction to Persantin
+1.05203E+15,ALLERGY3454,Adverse reaction to Pethidine
+1.05214E+15,ALLERGY3463,Adverse reaction to Phenergan
+1.05216E+15,ALLERGY3464,Adverse reaction to Phenoxymethylpenicillin Potassium
+1.0522E+15,ALLERGY3467,Adverse reaction to Phenytoin
+1.05234E+15,ALLERGY3479,Adverse reaction to Phyllocontin Continus
+1.05235E+15,ALLERGY3479NEMIS,Adverse reaction to Ammonia
+1.05243E+15,ALLERGY3485,Adverse reaction to Picolax
+1.0525E+15,ALLERGY349,Adverse reaction to Cephradine
+1.05252E+15,ALLERGY3491,Adverse reaction to Piriton
+1.05254E+15,ALLERGY3493,Adverse reaction to Plaquenil
+1.05269E+15,ALLERGY3505,Adverse reaction to Polyfax
+1.05271E+15,ALLERGY3506,Adverse reaction to Polytar
+1.05273E+15,ALLERGY3509,Adverse reaction to Polytrim
+1.05276E+15,ALLERGY3511,Adverse reaction to Pondocillin
+1.05281E+15,ALLERGY3514,Adverse reaction to Ponstan
+1.05294E+15,ALLERGY3528,Adverse reaction to Praxilene
+1.05302E+15,ALLERGY3535,Adverse reaction to Predsol
+1.05306E+15,ALLERGY3539,Adverse reaction to Pregaday
+1.0531E+15,ALLERGY3541,Adverse reaction to Premarin
+1.05311E+15,ALLERGY3544,Adverse reaction to Prempak-C 0.625 mg + 0.15 mg
+1.05312E+15,ALLERGY3545,Adverse reaction to Prempak-C 1.25 mg + 0.15 mg
+1.05317E+15,ALLERGY3549,Adverse reaction to Priadel
+1.05319E+15,ALLERGY3551,Adverse reaction to Primolut N
+1.05324E+15,ALLERGY3555,Adverse reaction to Pripsen
+1.05331E+15,ALLERGY3560,Adverse reaction to Procaine
+1.05335E+15,ALLERGY3563,Adverse reaction to Proctosedyl
+1.05342E+15,ALLERGY3568,Adverse reaction to Progynova
+1.05344E+15,ALLERGY357,Adverse reaction to Cetrimide
+1.0535E+15,ALLERGY3576,Adverse reaction to Propantheline
+1.05354E+15,ALLERGY3580,Adverse reaction to Propine
+1.05359E+15,ALLERGY3586,Adverse reaction to Prothiaden
+1.0536E+15,ALLERGY3587,Adverse reaction to Provera
+1.05371E+15,ALLERGY3597,Adverse reaction to Pulmicort
+1.0538E+15,ALLERGY3606,Adverse reaction to Questran
+1.05385E+15,ALLERGY3610,Adverse reaction to Quinoderm
+1.05405E+15,ALLERGY3631,Adverse reaction to Relifex
+1.05413E+15,ALLERGY3639,Adverse reaction to Retin-A
+1.05416E+15,ALLERGY3642,Adverse reaction to Rheumox
+1.0544E+15,ALLERGY3665,Adverse reaction to Roaccutane
+1.05442E+15,ALLERGY3666,Adverse reaction to Robaxin 750
+1.05456E+15,ALLERGY3677NEMIS,Adverse reaction to Unilet Gp
+1.05464E+15,ALLERGY3685NEMIS,Adverse reaction to Lignocaine
+1.05466E+15,ALLERGY3687,Adverse reaction to Salazopyrin
+1.05477E+15,ALLERGY3696,Adverse reaction to Sando-K
+1.0548E+15,ALLERGY3698,Adverse reaction to Sanomigran
+1.05489E+15,ALLERGY3705,Adverse reaction to Scheriproct
+1.05491E+15,ALLERGY3709,Adverse reaction to Scoline
+1.05493E+15,ALLERGY371,Adverse reaction to Chloral Hydrate
+1.05499E+15,ALLERGY3715,Adverse reaction to Securon
+1.05506E+15,ALLERGY3721,Adverse reaction to Selsun
+1.05511E+15,ALLERGY3726,Adverse reaction to Septrin
+1.05512E+15,ALLERGY3727,Adverse reaction to Septrin Forte
+1.05513E+15,ALLERGY3729,Adverse reaction to Serc
+1.05514E+15,ALLERGY373,Adverse reaction to Chloramphenicol
+1.05522E+15,ALLERGY3738,Adverse reaction to Silver Nitrate
+1.05529E+15,ALLERGY3749,Adverse reaction to Sinemet Plus
+1.05531E+15,ALLERGY375,Adverse reaction to Chlordiazepoxide
+1.05537E+15,ALLERGY3755,Adverse reaction to Slo-Phyllin
+1.05556E+15,ALLERGY3774,Adverse reaction to Sofradex
+1.05557E+15,ALLERGY3775,Adverse reaction to Soframycin
+1.05561E+15,ALLERGY3779,Adverse reaction to Solpadeine
+1.05562E+15,ALLERGY378,Adverse reaction to Chlorhexidine Gluconate
+1.05567E+15,ALLERGY3783,Adverse reaction to Soluble Aspirin
+1.05568E+15,ALLERGY3784,Adverse reaction to Soluble Aspirin Paediatric
+1.05581E+15,ALLERGY3796,Adverse reaction to Spasmonal
+1.05583E+15,ALLERGY3797NEMIS,Adverse reaction to Xatral Xl
+1.05599E+15,ALLERGY3810,Adverse reaction to Stelazine
+1.056E+15,ALLERGY3811,Adverse reaction to Stemetil
+1.05617E+15,ALLERGY3823,Adverse reaction to Streptomycin Sulfate
+1.05619E+15,ALLERGY3826,Adverse reaction to Stugeron
+1.05622E+15,ALLERGY3829,Adverse reaction to Sudafed
+1.05626E+15,ALLERGY3833,Adverse reaction to Sudocrem
+1.05634E+15,ALLERGY3842,Adverse reaction to Sultrin
+1.05638E+15,ALLERGY3845,Adverse reaction to Surgam
+1.0564E+15,ALLERGY3847,Adverse reaction to Surmontil
+1.05654E+15,ALLERGY3859,Adverse reaction to Synalar
+1.05663E+15,ALLERGY3867,Adverse reaction to Synflex
+1.0567E+15,ALLERGY3874,Adverse reaction to Sytron
+1.05673E+15,ALLERGY3877,Adverse reaction to Tagamet
+1.05674E+15,ALLERGY3879,Adverse reaction to Talpen
+1.05679E+15,ALLERGY3883NEMIS,Adverse reaction to Risedronate Sodium
+1.05681E+15,ALLERGY3884NEMIS,Adverse reaction to Actonel
+1.05694E+15,ALLERGY3895,Adverse reaction to Tegretol
+1.05696E+15,ALLERGY3897,Adverse reaction to Temgesic
+1.05699E+15,ALLERGY3899,Adverse reaction to Tenoret 50/12.5
+1.05701E+15,ALLERGY3900,Adverse reaction to Tenoretic
+1.05702E+15,ALLERGY3901,Adverse reaction to Tenormin
+1.05709E+15,ALLERGY3906,Adverse reaction to Teoptic
+1.05719E+15,ALLERGY3916,Adverse reaction to Terramycin
+1.05722E+15,ALLERGY392,Adverse reaction to Chloroquine Phosphate
+1.05724E+15,ALLERGY3921,Adverse reaction to Tetrabid Organon
+1.05727E+15,ALLERGY3924,Adverse reaction to Tetralysal 300
+1.05734E+15,ALLERGY393,Adverse reaction to Chloroquine Sulfate
+1.0574E+15,ALLERGY3933NEMIS,Adverse reaction to Brinzolamide
+1.05743E+15,ALLERGY3936,Adverse reaction to Thyroxine
+1.05744E+15,ALLERGY3936NEMIS,Adverse reaction to Azopt
+1.05752E+15,ALLERGY3942,Adverse reaction to Tildiem
+1.05758E+15,ALLERGY3946,Adverse reaction to Timodine
+1.0576E+15,ALLERGY3948,Adverse reaction to Timoptol
+1.05767E+15,ALLERGY3955,Adverse reaction to Tixylix
+1.0577E+15,ALLERGY3957,Adverse reaction to Tofranil
+1.05787E+15,ALLERGY3970,Adverse reaction to Transiderm-Nitro '5'
+1.0579E+15,ALLERGY3972,Adverse reaction to Transvasin Heat
+1.05797E+15,ALLERGY398,Adverse reaction to Chlorpheniramine Maleate
+1.05803E+15,ALLERGY3984,Adverse reaction to Tri-Adcortyl
+1.0581E+15,ALLERGY399,Adverse reaction to Chlorpromazine Hydrochloride
+1.05816E+15,ALLERGY3995,Adverse reaction to Triludan
+1.05818E+15,ALLERGY3997,Adverse reaction to Trimopan
+1.05819E+15,ALLERGY3998,Adverse reaction to Trimovate
+1.0582E+15,ALLERGY3999,Adverse reaction to Trinordiol
+1.05826E+15,ALLERGY4253BRID,Adverse reaction to Buspar
+1.05837E+15,ALLERGY4262EGTON,Adverse reaction to Scopoderm Tts
+1.05841E+15,ALLERGY4264EGTON,Adverse reaction to Acrivastine
+1.05845E+15,ALLERGY4267EGTON,Adverse reaction to Traxam
+1.05846E+15,ALLERGY4268EGTON,Adverse reaction to Felbinac
+1.05856E+15,ALLERGY4274EGTON,Adverse reaction to Zirtek
+1.05857E+15,ALLERGY4276EGTON,Adverse reaction to Cetirizine Hydrochloride
+1.05862E+15,ALLERGY4281EGTON,Adverse reaction to Zestril
+1.05863E+15,ALLERGY4282EGTON,Adverse reaction to Lisinopril
+1.05865E+15,ALLERGY4284EGTON,Adverse reaction to Zocor
+1.05867E+15,ALLERGY4285EGTON,Adverse reaction to Simvastatin
+1.05875E+15,ALLERGY4289EGTON,Adverse reaction to Ensure
+1.05882E+15,ALLERGY4295EGTON,Adverse reaction to Hytrin
+1.05883E+15,ALLERGY4296EGTON,Adverse reaction to Terazosin Hydrochloride
+1.05902E+15,ALLERGY431,Adverse reaction to Clindamycin
+1.05923E+15,ALLERGY4327BRID,Adverse reaction to Ditropan
+1.05943E+15,ALLERGY435,Adverse reaction to Clioquinol
+1.05952E+15,ALLERGY436,Adverse reaction to Clobetasol Propionate
+1.0596E+15,ALLERGY4364EGTON,Adverse reaction to Quinapril
+1.05965E+15,ALLERGY437,Adverse reaction to Clobetasone Butyrate
+1.05973E+15,ALLERGY4375EGTON,Adverse reaction to Amoxapine
+1.05976E+15,ALLERGY4376EGTON,Adverse reaction to Betagan
+1.05978E+15,ALLERGY4377EGTON,Adverse reaction to Levobunolol Hydrochloride
+1.0598E+15,ALLERGY4378BRIDL,Adverse reaction to Depo-Medrone With Lidocaine
+1.05981E+15,ALLERGY4378EGTON,Adverse reaction to Cardura
+1.05983E+15,ALLERGY4379EGTON,Adverse reaction to Doxazosin Mesilate
+1.05988E+15,ALLERGY4381EGTON,Adverse reaction to Clarityn
+1.05991E+15,ALLERGY4382EGTON,Adverse reaction to Loratadine
+1.06009E+15,ALLERGY4390BRIDL,Adverse reaction to Mogadon
+1.06013E+15,ALLERGY4391PRDGY,Adverse reaction to Beclomethasone
+1.06018E+15,ALLERGY4393BRIDL,Adverse reaction to Distalgesic
+1.06031E+15,ALLERGY4397BRIDL,Adverse reaction to Paramol
+1.06036E+15,ALLERGY4398DLSEM,Adverse reaction to Diclofenac + Misoprostol
+1.06054E+15,ALLERGY441,Adverse reaction to Clomipramine Hydrochloride
+1.06055E+15,ALLERGY4411BRECO,Adverse reaction to Co-Tenidone 50/12.5
+1.06057E+15,ALLERGY4412BRECO,Adverse reaction to Co-Tenidone 100/25
+1.06059E+15,ALLERGY4413EMIS,Adverse reaction to Tritace
+1.06061E+15,ALLERGY4414EMIS,Adverse reaction to Ramipril
+1.06063E+15,ALLERGY4415EMIS,Adverse reaction to Tarivid
+1.06071E+15,ALLERGY4421EMIS,Adverse reaction to Seroxat
+1.06072E+15,ALLERGY4422EMIS,Adverse reaction to Paroxetine Hydrochloride
+1.06083E+15,ALLERGY4429EMIS,Adverse reaction to Emla
+1.06084E+15,ALLERGY443,Adverse reaction to Clonazepam
+1.06085E+15,ALLERGY4430EMIS,Adverse reaction to Zineryt
+1.06089E+15,ALLERGY4434EMIS,Adverse reaction to Dovonex
+1.0609E+15,ALLERGY4435EMIS,Adverse reaction to Calcipotriol
+1.06098E+15,ALLERGY444,Adverse reaction to Clonidine
+1.06106E+15,ALLERGY4445EMIS,Adverse reaction to Oxivent
+1.0611E+15,ALLERGY4447HILLI,Adverse reaction to Adizem-Sr
+1.06114E+15,ALLERGY4449EMIS,Adverse reaction to Zestoretic 20
+1.06116E+15,ALLERGY445,Adverse reaction to Clonidine Hydrochloride
+1.06122E+15,ALLERGY4452EMIS,Adverse reaction to Clarithromycin
+1.06123E+15,ALLERGY4453EMIS,Adverse reaction to Klaricid
+1.06131E+15,ALLERGY4458EMIS,Adverse reaction to Plendil
+1.06133E+15,ALLERGY4459EMIS,Adverse reaction to Felodipine
+1.06144E+15,ALLERGY4467EMIS,Adverse reaction to Cefuroxime Axetil
+1.06164E+15,ALLERGY4477EMIS,Adverse reaction to Livial
+1.06166E+15,ALLERGY4478EMIS,Adverse reaction to Tibolone
+1.06167E+15,ALLERGY4479EMIS,Adverse reaction to Cilest
+1.0617E+15,ALLERGY4481EMIS,Adverse reaction to Sevredol
+1.06171E+15,ALLERGY4482EMIS,Adverse reaction to Tildiem Retard
+1.06172E+15,ALLERGY4482NEMIS,Adverse reaction to Piriject
+1.06184E+15,ALLERGY4490EMIS,Adverse reaction to Capasal
+1.06186E+15,ALLERGY4491EMIS,Adverse reaction to Clexane
+1.06188E+15,ALLERGY4492EMIS,Adverse reaction to Enoxaparin
+1.06198E+15,ALLERGY4497EMIS,Adverse reaction to Co-Amilofruse 2.5/20
+1.06199E+15,ALLERGY4497HILLI,Adverse reaction to Co-Amilozide 2.5/25
+1.062E+15,ALLERGY4498EMIS,Adverse reaction to Lustral
+1.06201E+15,ALLERGY4499EMIS,Adverse reaction to Sertraline Hydrochloride
+1.06202E+15,ALLERGY4499HILLI,Adverse reaction to Co-Beneldopa 12.5/50
+1.06205E+15,ALLERGY450,Adverse reaction to Clotrimazol
+1.0621E+15,ALLERGY4503EMIS,Adverse reaction to Staril
+1.06213E+15,ALLERGY4504EMIS,Adverse reaction to Fosinopril Sodium
+1.06215E+15,ALLERGY4505EMIS,Adverse reaction to Vagifem
+1.06216E+15,ALLERGY4505HILLI,Adverse reaction to Co-Phenotrope 2.5/0.025
+1.06223E+15,ALLERGY4509EMIS,Adverse reaction to Climaval
+1.06225E+15,ALLERGY451,Adverse reaction to Clotrimazole
+1.06237E+15,ALLERGY452,Adverse reaction to Cloxacillin
+1.06239E+15,ALLERGY4521EMIS,Adverse reaction to Zithromax
+1.0624E+15,ALLERGY4522EMIS,Adverse reaction to Azithromycin
+1.0625E+15,ALLERGY4529EMIS,Adverse reaction to Celiprolol Hydrochloride
+1.06253E+15,ALLERGY4530EMIS,Adverse reaction to Celectol
+1.06255E+15,ALLERGY4531HILLI,Adverse reaction to Erythromycin Ethyl Succinate
+1.06259E+15,ALLERGY4534EMIS,Adverse reaction to Sinemet Cr
+1.06264E+15,ALLERGY4536HILLI,Adverse reaction to Forceval
+1.06265E+15,ALLERGY4537EMIS,Adverse reaction to Balneum Plus
+1.06271E+15,ALLERGY4541EMIS,Adverse reaction to Adenosine
+1.06273E+15,ALLERGY4542EMIS,Adverse reaction to Imigran
+1.06276E+15,ALLERGY4543EMIS,Adverse reaction to Sumatriptan Succinate
+1.06277E+15,ALLERGY4543HILLI,Adverse reaction to Gelofusine
+1.06287E+15,ALLERGY4549EMIS,Adverse reaction to Ketorolac Trometamol
+1.06289E+15,ALLERGY455,Adverse reaction to Co-Trimoxazole
+1.0629E+15,ALLERGY4550EMIS,Adverse reaction to Aerobec
+1.06297E+15,ALLERGY4553EMIS,Adverse reaction to Nuvelle
+1.06299E+15,ALLERGY4554EMIS,Adverse reaction to Lamictal
+1.06301E+15,ALLERGY4555EMIS,Adverse reaction to Lamotrigine
+1.06303E+15,ALLERGY4557EMIS,Adverse reaction to Ibugel
+1.06306E+15,ALLERGY4558EMIS,Adverse reaction to Voltarol Sr
+1.06311E+15,ALLERGY456,Adverse reaction to Coal Tar
+1.06313E+15,ALLERGY4561EMIS,Adverse reaction to Napratec OP
+1.06335E+15,ALLERGY4572EMIS,Adverse reaction to Didronel Pmo
+1.06339E+15,ALLERGY4574NEMIS,Adverse reaction to Bupropion Hydrochloride
+1.06345E+15,ALLERGY4577NEMIS,Adverse reaction to Zyban
+1.0635E+15,ALLERGY4580HILLI,Adverse reaction to Mefloquine Hydrochloride
+1.06381E+15,ALLERGY460,Adverse reaction to Cocaine Hydrochloride
+1.0639E+15,ALLERGY4605HILLI,Adverse reaction to Propafenone Hydrochloride
+1.06395E+15,ALLERGY4609HILLI,Adverse reaction to Robaxin
+1.06452E+15,ALLERGY4644EMIS,Adverse reaction to Brufen Retard
+1.06454E+15,ALLERGY4645HILLI,Adverse reaction to Comminuted Chicken Meat
+1.06462E+15,ALLERGY465,Adverse reaction to Codeine Phosphate
+1.06469E+15,ALLERGY4653EMIS,Adverse reaction to Lamisil
+1.06471E+15,ALLERGY4654EMIS,Adverse reaction to Terbinafine Hydrochloride
+1.06482E+15,ALLERGY465NEMIS,Adverse reaction to Rofecoxib
+1.06483E+15,ALLERGY466,Adverse reaction to Colchicine
+1.06573E+15,ALLERGY4711EMIS,Adverse reaction to Alomide
+1.06577E+15,ALLERGY4713EMIS,Adverse reaction to Flixonase
+1.06579E+15,ALLERGY4714EMIS,Adverse reaction to Fluticasone Propionate
+1.0659E+15,ALLERGY471NEMIS,Adverse reaction to Vioxx
+1.066E+15,ALLERGY4725EMIS,Adverse reaction to E45 Emollient
+1.06627E+15,ALLERGY4742EMIS,Adverse reaction to Calcichew D3
+1.06636E+15,ALLERGY4750EMIS,Adverse reaction to Ambisome Liposomal
+1.06637E+15,ALLERGY4750NEMIS,Adverse reaction to Etanercept
+1.0664E+15,ALLERGY4753NEMIS,Adverse reaction to Enbrel
+1.06641E+15,ALLERGY4754EMIS,Adverse reaction to Augmentin 125/31 Sf
+1.06642E+15,ALLERGY4755EMIS,Adverse reaction to Augmentin 250/62 Sf
+1.06643E+15,ALLERGY4755NEMIS,Adverse reaction to Seretide 50 Evohaler
+1.06644E+15,ALLERGY4756EMIS,Adverse reaction to Co-Amoxiclav 125/31
+1.06645E+15,ALLERGY4757EMIS,Adverse reaction to Co-Amoxiclav 250/62
+1.06646E+15,ALLERGY4757NEMIS,Adverse reaction to Seretide 125 Evohaler
+1.06647E+15,ALLERGY4758EMIS,Adverse reaction to Adalat La
+1.06648E+15,ALLERGY4759EMIS,Adverse reaction to Codafen Continus
+1.06649E+15,ALLERGY4759NEMIS,Adverse reaction to Seretide 250 Evohaler
+1.06652E+15,ALLERGY4761NEMIS,Adverse reaction to Rosiglitazone Maleate
+1.0666E+15,ALLERGY476NEMIS,Adverse reaction to Unguentum M
+1.06675E+15,ALLERGY479,Adverse reaction to Conjugated Oestrogens
+1.06682E+15,ALLERGY4797EMIS,Adverse reaction to Elantan La 25
+1.06689E+15,ALLERGY4805EMIS,Adverse reaction to Metrogel
+1.06697E+15,ALLERGY4810EMIS,Adverse reaction to Salamol
+1.06698E+15,ALLERGY4811BRIDL,Adverse reaction to Tylex
+1.06713E+15,ALLERGY4821EMIS,Adverse reaction to Finasteride
+1.06714E+15,ALLERGY4822EMIS,Adverse reaction to Estracombi Tts
+1.06723E+15,ALLERGY4829EMIS,Adverse reaction to Typhim Vi
+1.0676E+15,ALLERGY4854EMIS,Adverse reaction to Salofalk
+1.06765E+15,ALLERGY4859BRIDL,Adverse reaction to Xylocaine With Adrenaline
+1.06769E+15,ALLERGY4863BRIDL,Adverse reaction to Imdur
+1.06861E+15,ALLERGY4942EMIS,Adverse reaction to Tinzaparin
+1.06866E+15,ALLERGY4946EMIS,Adverse reaction to Ciprofibrate
+1.06871E+15,ALLERGY4950EMIS,Adverse reaction to Tildiem La
+1.06875E+15,ALLERGY4954EMIS,Adverse reaction to Macrobid
+1.0688E+15,ALLERGY4958EMIS,Adverse reaction to Half Securon Sr
+1.06884E+15,ALLERGY4962EMIS,Adverse reaction to Acitretin
+1.06894E+15,ALLERGY4972EMIS,Adverse reaction to Azelaic Acid
+1.06939E+15,ALLERGY6019BRIDL,Adverse reaction to Sulfur Compound
+1.06943E+15,ALLERGY6022BRIDL,Adverse reaction to Econazole
+1.06944E+15,ALLERGY6022EMIS,Adverse reaction to Arthrotec 75
+1.06948E+15,ALLERGY6025EMIS,Adverse reaction to Epaderm
+1.06957E+15,ALLERGY6031EMIS,Adverse reaction to Penciclovir
+1.0696E+15,ALLERGY6033EMIS,Adverse reaction to Co-Amoxiclav 500 mg/100 mg
+1.06964E+15,ALLERGY6035BRIDL,Adverse reaction to Losec
+1.06965E+15,ALLERGY6036BRIDL,Adverse reaction to Omeprazole
+1.06971E+15,ALLERGY6039BRIDL,Adverse reaction to Parvolex
+1.06972E+15,ALLERGY6039EMIS,Adverse reaction to Opticrom Allergy
+1.06973E+15,ALLERGY604,Adverse reaction to Dipyridamole
+1.06997E+15,ALLERGY6055EMIS,Adverse reaction to Peppermint
+1.07004E+15,ALLERGY606,Adverse reaction to Disopyramide
+1.0701E+15,ALLERGY6064BRIDL,Adverse reaction to Pneumovax 11
+1.07023E+15,ALLERGY6075BRIDL,Adverse reaction to Olsalazine Sodium
+1.07026E+15,ALLERGY6077BRIDL,Adverse reaction to Indoramin
+1.07032E+15,ALLERGY6080BRIDL,Adverse reaction to Fenofibrate
+1.07037E+15,ALLERGY6083BRIDL,Adverse reaction to Mmr 11
+1.07038E+15,ALLERGY6083EMIS,Adverse reaction to Physiotens
+1.07039E+15,ALLERGY6084EMIS,Adverse reaction to Moxonidine
+1.07041E+15,ALLERGY6086EMIS,Adverse reaction to Ropinirole Hydrochloride
+1.07048E+15,ALLERGY6089EMIS,Adverse reaction to Duoderm Extra Thin
+1.07049E+15,ALLERGY609,Adverse reaction to Disulfiram
+1.0705E+15,ALLERGY6090BRIDL,Adverse reaction to Pentasa
+1.07068E+15,ALLERGY6099BRIDL,Adverse reaction to Sporanox
+1.0707E+15,ALLERGY61,Adverse reaction to Acetazolamide
+1.07071E+15,ALLERGY610,Adverse reaction to Dithranol
+1.07072E+15,ALLERGY6100BRIDL,Adverse reaction to Itraconazole
+1.07085E+15,ALLERGY6107EMIS,Adverse reaction to Tolfenamic Acid
+1.07087E+15,ALLERGY6108EMIS,Adverse reaction to Diovan
+1.07089E+15,ALLERGY6109EMIS,Adverse reaction to Valsartan
+1.07096E+15,ALLERGY6113EMIS,Adverse reaction to Protium
+1.07098E+15,ALLERGY6114EMIS,Adverse reaction to Pantoprazole
+1.07103E+15,ALLERGY6116EMIS,Adverse reaction to Olanzapine
+1.07105E+15,ALLERGY6118BRIDL,Adverse reaction to Tegretol Prolonged Release
+1.07113E+15,ALLERGY6122BRIDL,Adverse reaction to Zimovane
+1.07115E+15,ALLERGY6123BRIDL,Adverse reaction to Zopiclone
+1.07136E+15,ALLERGY6134BRIDL,Adverse reaction to Terbutaline
+1.07138E+15,ALLERGY6135BRIDL,Adverse reaction to Amitriptyline Sr
+1.07141E+15,ALLERGY6136EMIS,Adverse reaction to Letrozole
+1.0715E+15,ALLERGY6143BRIDL,Adverse reaction to Metoclopramide
+1.07153E+15,ALLERGY6145BRIDL,Adverse reaction to Co-Danthramer 25/200
+1.07156E+15,ALLERGY6147EMIS,Adverse reaction to Gaviscon Advance
+1.07157E+15,ALLERGY6148EMIS,Adverse reaction to Dermol
+1.07158E+15,ALLERGY6149BRIDL,Adverse reaction to Penicillin V
+1.07183E+15,ALLERGY6163BRIDL,Adverse reaction to Otomize
+1.07184E+15,ALLERGY6163EMIS,Adverse reaction to Calceos
+1.07186E+15,ALLERGY5271EMIS,Adverse reaction to Epilim Chrono
+1.07188E+15,ALLERGY5273EMIS,Adverse reaction to Ritalin
+1.07189E+15,ALLERGY5274EMIS,Adverse reaction to Methylphenidate Hydrochloride
+1.07196E+15,ALLERGY5279EMIS,Adverse reaction to Xatral
+1.07197E+15,ALLERGY5279NEMIS,Adverse reaction to Herceptin
+1.07199E+15,ALLERGY5280EMIS,Adverse reaction to Alfuzosin Hydrochloride
+1.07202E+15,ALLERGY5282EMIS,Adverse reaction to Lodine Sr
+1.07206E+15,ALLERGY5285EMIS,Adverse reaction to Adizem-Xl
+1.07209E+15,ALLERGY5287EMIS,Adverse reaction to Dilzem Xl
+1.07214E+15,ALLERGY5290EMIS,Adverse reaction to Taxol
+1.07215E+15,ALLERGY5291EMIS,Adverse reaction to Paclitaxel
+1.07222E+15,ALLERGY5296EMIS,Adverse reaction to Famciclovir
+1.07229E+15,ALLERGY5300EMIS,Adverse reaction to Fluvastatin
+1.07235E+15,ALLERGY5306EMIS,Adverse reaction to Zestoretic 10
+1.07237E+15,ALLERGY5308EMIS,Adverse reaction to Cabergoline
+1.07246E+15,ALLERGY5314NEMIS,Adverse reaction to Pioglitazone Hydrochloride
+1.07254E+15,ALLERGY5321NEMIS,Adverse reaction to Trospium Chloride
+1.07258E+15,ALLERGY5324NEMIS,Adverse reaction to Regurin
+1.07261E+15,ALLERGY5326NEMIS,Adverse reaction to Galantamine Hydrobromide
+1.07279E+15,ALLERGY5340EMIS,Adverse reaction to Combivent
+1.07294E+15,ALLERGY5354EMIS,Adverse reaction to Zolpidem Tartrate
+1.07298E+15,ALLERGY5357EMIS,Adverse reaction to Zoton
+1.07299E+15,ALLERGY5358EMIS,Adverse reaction to Lansoprazole
+1.07314E+15,ALLERGY5372EMIS,Adverse reaction to Viscotears
+1.07318E+15,ALLERGY5375EMIS,Adverse reaction to Havrix Monodose
+1.07332E+15,ALLERGY5391EMIS,Adverse reaction to Fluarix
+1.07346E+15,ALLERGY5403EMIS,Adverse reaction to Rocuronium Bromide
+1.07353E+15,ALLERGY541,Adverse reaction to Desmopressin
+1.07354E+15,ALLERGY5410EMIS,Adverse reaction to Zydol
+1.07355E+15,ALLERGY5411EMIS,Adverse reaction to Tramadol Hydrochloride
+1.07361E+15,ALLERGY5418EMIS,Adverse reaction to Co-Triamterzide 50/25
+1.07367E+15,ALLERGY5424EMIS,Adverse reaction to Carvedilol
+1.07373E+15,ALLERGY5433EMIS,Adverse reaction to Botox
+1.07374E+15,ALLERGY5434EMIS,Adverse reaction to Co-Danthrusate 50/60
+1.07383E+15,ALLERGY545,Adverse reaction to Dexamethasone
+1.07405E+15,ALLERGY5484EMIS,Adverse reaction to Motifene
+1.07407E+15,ALLERGY5486EMIS,Adverse reaction to Diftavax
+1.07413E+15,ALLERGY5492EMIS,Adverse reaction to Benzamycin
+1.07433E+15,ALLERGY552,Adverse reaction to Dextropropoxyphene Hydrochloride
+1.07441E+15,ALLERGY5530EMIS,Adverse reaction to Ikorel
+1.07442E+15,ALLERGY5531EMIS,Adverse reaction to Nicorandil
+1.0746E+15,ALLERGY5552EMIS,Adverse reaction to Durogesic
+1.07461E+15,ALLERGY5553EMIS,Adverse reaction to Fentanyl
+1.07471E+15,ALLERGY5561EMIS,Adverse reaction to Tacrolimus
+1.07483E+15,ALLERGY558,Adverse reaction to Diamorphine Hydrochloride
+1.07489E+15,ALLERGY5584EMIS,Adverse reaction to Slozem
+1.07496E+15,ALLERGY559,Adverse reaction to Diazepam
+1.07501E+15,ALLERGY5594EMIS,Adverse reaction to Rozex
+1.07505E+15,ALLERGY5598EMIS,Adverse reaction to Cozaar
+1.07506E+15,ALLERGY5599EMIS,Adverse reaction to Losartan Potassium
+1.07514E+15,ALLERGY5606EMIS,Adverse reaction to Efexor
+1.07515E+15,ALLERGY5607EMIS,Adverse reaction to Venlafaxine
+1.07522E+15,ALLERGY5612NEMIS,Adverse reaction to Levetiracetam
+1.07528E+15,ALLERGY5617NEMIS,Adverse reaction to Keppra
+1.07557E+15,ALLERGY5644NEMIS,Adverse reaction to Supralip
+1.07561E+15,ALLERGY5648EMIS,Adverse reaction to Kliofem
+1.07577E+15,ALLERGY5664NEMIS,Adverse reaction to Coaprovel
+1.07578E+15,ALLERGY5665EMIS,Adverse reaction to Oestrogel
+1.07583E+15,ALLERGY5669EMIS,Adverse reaction to Rapitil
+1.07584E+15,ALLERGY567,Adverse reaction to Diclofenac Sodium
+1.07595E+15,ALLERGY5678EMIS,Adverse reaction to Bicalutamide
+1.07596E+15,ALLERGY5679EMIS,Adverse reaction to Dutonin
+1.07598E+15,ALLERGY5680EMIS,Adverse reaction to Nefazodone Hydrochloride
+1.07606E+15,ALLERGY5687EMIS,Adverse reaction to Tridestra
+1.07608E+15,ALLERGY5688EMIS,Adverse reaction to Diclomax Sr
+1.0761E+15,ALLERGY569,Adverse reaction to Dicyclomine Hydrochloride
+1.07618E+15,ALLERGY5696EMIS,Adverse reaction to Cipramil
+1.07619E+15,ALLERGY5697EMIS,Adverse reaction to Citalopram Hydrobromide
+1.07622E+15,ALLERGY570,Adverse reaction to Dienoestrol
+1.07626E+15,ALLERGY5703EMIS,Adverse reaction to Mirena
+1.07631E+15,ALLERGY5707EMIS,Adverse reaction to Dicloflex
+1.07633E+15,ALLERGY571,Adverse reaction to Diethylamine Salicylate
+1.07635E+15,ALLERGY5711EMIS,Adverse reaction to Angitil Sr 90
+1.07643E+15,ALLERGY5717EMIS,Adverse reaction to Powergel
+1.07664E+15,ALLERGY5735EMIS,Adverse reaction to Trusopt
+1.07665E+15,ALLERGY5736EMIS,Adverse reaction to Dorzolamide Hydrochloride
+1.07669E+15,ALLERGY5739EMIS,Adverse reaction to Fosamax
+1.07671E+15,ALLERGY5740EMIS,Adverse reaction to Alendronate Sodium
+1.07673E+15,ALLERGY5743EMIS,Adverse reaction to Cetraben
+1.07676E+15,ALLERGY5745NEMIS,Adverse reaction to Fosamax Once Weekly
+1.07678E+15,ALLERGY5747EMIS,Adverse reaction to Premique
+1.07682E+15,ALLERGY575,Adverse reaction to Diflunisal
+1.07693E+15,ALLERGY5760EMIS,Adverse reaction to Oxycodone Pectinate
+1.07701E+15,ALLERGY5767EMIS,Adverse reaction to Aqueous Iodine
+1.07704E+15,ALLERGY577,Adverse reaction to Digoxin
+1.07709E+15,ALLERGY5773EMIS,Adverse reaction to Co-Codamol 30/500
+1.07713E+15,ALLERGY5778EMIS,Adverse reaction to Almond
+1.07715E+15,ALLERGY578,Adverse reaction to Dihydrocodeine Tartrate
+1.07723E+15,ALLERGY5786EMIS,Adverse reaction to Atenix 25
+1.07724E+15,ALLERGY5787EMIS,Adverse reaction to Femoston 1/10
+1.0776E+15,ALLERGY5824EMIS,Adverse reaction to Arimidex
+1.07761E+15,ALLERGY5825EMIS,Adverse reaction to Anastrozole
+1.07763E+15,ALLERGY5827EMIS,Adverse reaction to Topiramate
+1.07767E+15,ALLERGY583,Adverse reaction to Diltiazem Hydrochloride
+1.07774E+15,ALLERGY5835EMIS,Adverse reaction to Augmentin-Duo 400/57
+1.07779E+15,ALLERGY5840EMIS,Adverse reaction to Meropenem
+1.07794E+15,ALLERGY5855EMIS,Adverse reaction to Sodium Benzoate
+1.07795E+15,ALLERGY5856EMIS,Adverse reaction to Adipine Mr 10
+1.07801E+15,ALLERGY5862EMIS,Adverse reaction to Femseven
+1.07825E+15,ALLERGY5883EMIS,Adverse reaction to Eformoterol Fumarate
+1.07835E+15,ALLERGY5895EMIS,Adverse reaction to Docetaxel
+1.07842E+15,ALLERGY5900EMIS,Adverse reaction to Ametop
+1.07847E+15,ALLERGY5905EMIS,Adverse reaction to Mycophenolate Mofetil
+1.07853E+15,ALLERGY5910EMIS,Adverse reaction to Elleste-Solo
+1.07854E+15,ALLERGY5911EMIS,Adverse reaction to Elleste Duet 2 Mg
+1.07855E+15,ALLERGY5912EMIS,Adverse reaction to Estraderm Mx
+1.07856E+15,ALLERGY5913EMIS,Adverse reaction to Quellada M
+1.07858E+15,ALLERGY5915EMIS,Adverse reaction to Movicol
+1.07864E+15,ALLERGY5922EMIS,Adverse reaction to Preservex
+1.07865E+15,ALLERGY5923EMIS,Adverse reaction to Aceclofenac
+1.07887E+15,ALLERGY5943EMIS,Adverse reaction to Mepivacaine Hydrochloride
+1.07888E+15,ALLERGY5944EMIS,Adverse reaction to Campral Ec
+1.07889E+15,ALLERGY5945EMIS,Adverse reaction to Acamprosate Calcium
+1.07892E+15,ALLERGY5949EMIS,Adverse reaction to Flomax Mr
+1.07894E+15,ALLERGY5950EMIS,Adverse reaction to Tamsulosin Hydrochloride
+1.07907E+15,ALLERGY5963EMIS,Adverse reaction to Monomax Sr 40
+1.07912E+15,ALLERGY5968EMIS,Adverse reaction to Act-Hib Dtp
+1.07915E+15,ALLERGY597,Adverse reaction to Diphenhydramine Hydrochloride
+1.07924E+15,ALLERGY5978EMIS,Adverse reaction to Belladonna
+1.07928E+15,ALLERGY5981EMIS,Adverse reaction to Mobic
+1.07929E+15,ALLERGY5982EMIS,Adverse reaction to Meloxicam
+1.07935E+15,ALLERGY5988EMIS,Adverse reaction to Dermol 500
+1.07945E+15,ALLERGY5997EMIS,Adverse reaction to Calcichew D3 Forte
+1.07951E+15,ALLERGY70,Adverse reaction to Aciclovir
+1.07952E+15,ALLERGY700,Adverse reaction to Fenbufen
+1.07977E+15,ALLERGY710,Adverse reaction to Ferrous Fumarate
+1.0798E+15,ALLERGY711,Adverse reaction to Ferrous Gluconate
+1.07989E+15,ALLERGY714,Adverse reaction to Ferrous Sulfate
+1.08002E+15,ALLERGY719,Adverse reaction to Flavoxate Hydrochloride
+1.08005E+15,ALLERGY72,Adverse reaction to Adrenaline
+1.08006E+15,ALLERGY720,Adverse reaction to Flecainide Acetate
+1.08022E+15,ALLERGY724,Adverse reaction to Flucloxacillin
+1.08064E+15,ALLERGY739,Adverse reaction to Flupenthixol
+1.08082E+15,ALLERGY746,Adverse reaction to Flurbiprofen
+1.08087E+15,ALLERGY748,Adverse reaction to Fluvoxamine Maleate
+1.08089E+15,ALLERGY749,Adverse reaction to Folic Acid
+1.08098E+15,ALLERGY752,Adverse reaction to Formaldehyde
+1.08102E+15,ALLERGY754,Adverse reaction to Framycetin Sulfate
+1.08109E+15,ALLERGY758,Adverse reaction to Fructose
+1.08112E+15,ALLERGY759,Adverse reaction to Frusemide
+1.08119E+15,ALLERGY762,Adverse reaction to Fusidic Acid
+1.08143E+15,ALLERGY771,Adverse reaction to Gemfibrozil
+1.08145E+15,ALLERGY772,Adverse reaction to Gentamicin
+1.08147E+15,ALLERGY772NEMIS,Adverse reaction to Adcal-D3
+1.08158E+15,ALLERGY778,Adverse reaction to Glibenclamide
+1.08161E+15,ALLERGY780,Adverse reaction to Gliclazide
+1.08164E+15,ALLERGY781,Adverse reaction to Glipizide
+1.08172E+15,ALLERGY7821EMIS,Adverse reaction to Imidapril Hydrochloride
+1.08187E+15,ALLERGY7834EMIS,Adverse reaction to Seretide 100 Accuhaler
+1.08188E+15,ALLERGY7835EMIS,Adverse reaction to Seretide 250 Accuhaler
+1.0819E+15,ALLERGY7836EMIS,Adverse reaction to Seretide 500 Accuhaler
+1.08215E+15,ALLERGY793,Adverse reaction to Glyceryl Trinitrate
+1.08221E+15,ALLERGY796,Adverse reaction to Glycopyrronium Bromide
+1.08232E+15,ALLERGY6164EMIS,Adverse reaction to Klaricid Xl
+1.08235E+15,ALLERGY6166BRIDL,Adverse reaction to Teicoplanin
+1.08239E+15,ALLERGY6168EMIS,Adverse reaction to Differin
+1.08242E+15,ALLERGY6169EMIS,Adverse reaction to Adapalene
+1.08245E+15,ALLERGY6170EMIS,Adverse reaction to Lipitor
+1.08247E+15,ALLERGY6171EMIS,Adverse reaction to Atorvastatin
+1.08251E+15,ALLERGY6174EMIS,Adverse reaction to Xalatan
+1.08253E+15,ALLERGY6175EMIS,Adverse reaction to Latanoprost
+1.08259E+15,ALLERGY6178BRIDL,Adverse reaction to Amix
+1.08262E+15,ALLERGY618,Adverse reaction to Docusate Sodium
+1.08267E+15,ALLERGY6183BRIDL,Adverse reaction to Mercilon
+1.08276E+15,ALLERGY6188EMIS,Adverse reaction to Elleste Duet 1 Mg
+1.08279E+15,ALLERGY6190EMIS,Adverse reaction to Melatonin
+1.08295E+15,ALLERGY620,Adverse reaction to Domperidone
+1.08304E+15,ALLERGY6206EMIS,Adverse reaction to Begrivac
+1.0832E+15,ALLERGY6215EMIS,Adverse reaction to Telfast
+1.08322E+15,ALLERGY6216EMIS,Adverse reaction to Fexofenadine Hydrochloride
+1.08325E+15,ALLERGY6218BRIDL,Adverse reaction to Fluvirin
+1.08331E+15,ALLERGY6220BRIDL,Adverse reaction to Pertussis
+1.08336E+15,ALLERGY6223EMIS,Adverse reaction to Microgynon 30 Ed
+1.0834E+15,ALLERGY6225EMIS,Adverse reaction to Aricept
+1.08343E+15,ALLERGY6226EMIS,Adverse reaction to Donepezil Hydrochloride
+1.08347E+15,ALLERGY6229EMIS,Adverse reaction to Zomig
+1.08348E+15,ALLERGY623,Adverse reaction to Dothiepin Hydrochloride
+1.0835E+15,ALLERGY6230EMIS,Adverse reaction to Zolmitriptan
+1.08356E+15,ALLERGY6235EMIS,Adverse reaction to Alphagan
+1.08358E+15,ALLERGY6236EMIS,Adverse reaction to Brimonidine Tartrate
+1.0837E+15,ALLERGY6245EMIS,Adverse reaction to Persantin Retard
+1.08382E+15,ALLERGY6252BRIDL,Adverse reaction to Fluclomix
+1.08384E+15,ALLERGY6253BRIDL,Adverse reaction to Cocois
+1.08385E+15,ALLERGY6253EMIS,Adverse reaction to Cerivastatin
+1.08387E+15,ALLERGY6254EMIS,Adverse reaction to Nasonex
+1.08395E+15,ALLERGY6258NEMIS,Adverse reaction to Desloratadine
+1.08398E+15,ALLERGY6261NEMIS,Adverse reaction to Neoclarityn
+1.08399E+15,ALLERGY6263NEMIS,Adverse reaction to Co-Cyprindiol
+1.08406E+15,ALLERGY6268BRIDL,Adverse reaction to Coversyl
+1.08408E+15,ALLERGY6269BRIDL,Adverse reaction to Perindopril Erbumine
+1.08411E+15,ALLERGY6270EMIS,Adverse reaction to Halothane
+1.08414E+15,ALLERGY6272BRIDL,Adverse reaction to Istin
+1.08417E+15,ALLERGY6273BRIDL,Adverse reaction to Amlodipine Besilate
+1.0843E+15,ALLERGY6279NEMIS,Adverse reaction to Monomax Xl
+1.08434E+15,ALLERGY6281NEMIS,Adverse reaction to Adcal
+1.08452E+15,ALLERGY6293EMIS,Adverse reaction to Naratriptan Hydrochloride
+1.08456E+15,ALLERGY6298EMIS,Adverse reaction to Reboxetine
+1.08459E+15,ALLERGY630,Adverse reaction to Doxepin
+1.08479E+15,ALLERGY6314EMIS,Adverse reaction to Prostap 3
+1.08488E+15,ALLERGY632,Adverse reaction to Doxycycline
+1.08493E+15,ALLERGY6323BRIDL,Adverse reaction to Ismo
+1.08503E+15,ALLERGY6328EMIS,Adverse reaction to Evorel Sequi
+1.08504E+15,ALLERGY6329EMIS,Adverse reaction to Evorel Conti
+1.08505E+15,ALLERGY6329NEMIS,Adverse reaction to Indocid Pda
+1.08516E+15,ALLERGY6335EMIS,Adverse reaction to Efexor Xl
+1.08521E+15,ALLERGY6339EMIS,Adverse reaction to Zomorph
+1.08528E+15,ALLERGY6342EMIS,Adverse reaction to Zispin
+1.0853E+15,ALLERGY6343EMIS,Adverse reaction to Mirtazapine
+1.08533E+15,ALLERGY6345EMIS,Adverse reaction to Glimepiride
+1.08544E+15,ALLERGY6351EMIS,Adverse reaction to Quetiapine Fumarate
+1.08545E+15,ALLERGY6352EMIS,Adverse reaction to Aprovel
+1.08546E+15,ALLERGY6352LEEDS,Adverse reaction to Singulair
+1.08547E+15,ALLERGY6353EMIS,Adverse reaction to Irbesartan
+1.08548E+15,ALLERGY6353LEEDS,Adverse reaction to Montelukast Sodium
+1.08552E+15,ALLERGY6355EMIS,Adverse reaction to Amisulpride
+1.08567E+15,ALLERGY6364EMIS,Adverse reaction to Balsalazide Sodium
+1.08583E+15,ALLERGY6374EMIS,Adverse reaction to Tizanidine Hydrochloride
+1.08585E+15,ALLERGY6375BRIDL,Adverse reaction to Clozapine
+1.08589E+15,ALLERGY6377BRIDL,Adverse reaction to Tetanus Immunoglobulin
+1.08597E+15,ALLERGY6382EMIS,Adverse reaction to Malarone
+1.08603E+15,ALLERGY6386BRIDL,Adverse reaction to Lariam
+1.08612E+15,ALLERGY6391EMIS,Adverse reaction to Amias
+1.08614E+15,ALLERGY6392EMIS,Adverse reaction to Candesartan Cilexetil
+1.08623E+15,ALLERGY6397NEMIS,Adverse reaction to Celluvisc
+1.08625E+15,ALLERGY6399NEMIS,Adverse reaction to Depakote
+1.08635E+15,ALLERGY6408EMIS,Adverse reaction to Viazem Xl
+1.08638E+15,ALLERGY640NEMIS,Adverse reaction to Flixonase Nasule
+1.08639E+15,ALLERGY641,Adverse reaction to Droperidol
+1.08642E+15,ALLERGY6412BRIDL,Adverse reaction to Co-Amilozide 5/50
+1.08643E+15,ALLERGY6412EMIS,Adverse reaction to Oxis Turbohaler
+1.08644E+15,ALLERGY6413BRIDL,Adverse reaction to Aspirin E/C
+1.08649E+15,ALLERGY6416BRIDL,Adverse reaction to Diclofenac Retard
+1.08653E+15,ALLERGY6418EMIS,Adverse reaction to Elleste Duet Conti
+1.0866E+15,ALLERGY6422EMIS,Adverse reaction to Zanidip
+1.08662E+15,ALLERGY6423EMIS,Adverse reaction to Lercanidipine Hydrochloride
+1.08666E+15,ALLERGY6425EMIS,Adverse reaction to Nutilis
+1.08679E+15,ALLERGY6431EMIS,Adverse reaction to Modafinil
+1.08701E+15,ALLERGY6441NEMIS,Adverse reaction to Cardura Xl
+1.08707E+15,ALLERGY6445EMIS,Adverse reaction to Detrusitol
+1.08709E+15,ALLERGY6446EMIS,Adverse reaction to Tolterodine Tartrate
+1.08713E+15,ALLERGY6448EMIS,Adverse reaction to Mizolastine
+1.08721E+15,ALLERGY6451EMIS,Adverse reaction to Tavanic
+1.08723E+15,ALLERGY6452EMIS,Adverse reaction to Levofloxacin
+1.08731E+15,ALLERGY6456BRIDL,Adverse reaction to Gtn 300 Mcg
+1.08762E+15,ALLERGY6475EMIS,Adverse reaction to Doxycycline Hyclate
+1.08799E+15,ALLERGY6498EMIS,Adverse reaction to Esprit Biosensor
+1.08818E+15,ALLERGY6509BRIDL,Adverse reaction to Mebeverine
+1.08845E+15,ALLERGY6526NEMIS,Adverse reaction to Nicotinell
+1.08878E+15,ALLERGY6546EMIS,Adverse reaction to Acetylsalicylic Acid
+1.08923E+15,ALLERGY6577BRIDL,Adverse reaction to Dp Chocolate
+1.0894E+15,ALLERGY6586BRIDL,Adverse reaction to Dalacin T
+1.08941E+15,ALLERGY6586EMIS,Adverse reaction to Flucloxin
+1.08964E+15,ALLERGY66,Adverse reaction to Acetylcysteine
+1.08966E+15,ALLERGY6600EMIS,Adverse reaction to Asasantin Retard
+1.08985E+15,ALLERGY6612EMIS,Adverse reaction to Augmentin 1 G
+1.08994E+15,ALLERGY6617EMIS,Adverse reaction to Rituximab
+1.08998E+15,ALLERGY662,Adverse reaction to Enalapril Maleate
+1.09016E+15,ALLERGY663,Adverse reaction to Ephedrine Hydrochloride
+1.09017E+15,ALLERGY6630EMIS,Adverse reaction to Isotard 25 Xl
+1.09019E+15,ALLERGY6632EMIS,Adverse reaction to Aldara
+1.0902E+15,ALLERGY6633EMIS,Adverse reaction to Imiquimod
+1.09023E+15,ALLERGY6635EMIS,Adverse reaction to Qvar 50
+1.09024E+15,ALLERGY6636EMIS,Adverse reaction to Qvar 100
+1.09035E+15,ALLERGY6645EMIS,Adverse reaction to Zafirlukast
+1.09065E+15,ALLERGY6674EMIS,Adverse reaction to Detrunorm
+1.09066E+15,ALLERGY6675EMIS,Adverse reaction to Propiverine Hydrochloride
+1.0907E+15,ALLERGY6679EMIS,Adverse reaction to Rizatriptan Benzoate
+1.09071E+15,ALLERGY6680EMIS,Adverse reaction to Plavix
+1.09072E+15,ALLERGY6681EMIS,Adverse reaction to Clopidogrel
+1.09076E+15,ALLERGY6688EMIS,Adverse reaction to Ventolin Evohaler
+1.09077E+15,ALLERGY6689EMIS,Adverse reaction to Pariet
+1.09079E+15,ALLERGY6690EMIS,Adverse reaction to Rabeprazole Sodium
+1.0908E+15,ALLERGY6691EMIS,Adverse reaction to Kapake Insts 30/500
+1.09082E+15,ALLERGY6693EMIS,Adverse reaction to Peptac
+1.09083E+15,ALLERGY6694EMIS,Adverse reaction to Xenical
+1.09084E+15,ALLERGY6695EMIS,Adverse reaction to Orlistat
+1.09089E+15,ALLERGY6699NEMIS,Adverse reaction to Doublebase
+1.09091E+15,ALLERGY670,Adverse reaction to Ergotamine Tartrate
+1.09092E+15,ALLERGY6700EMIS,Adverse reaction to Repaglinide
+1.09101E+15,ALLERGY6707EMIS,Adverse reaction to Viagra
+1.09103E+15,ALLERGY6708EMIS,Adverse reaction to Sildenafil Citrate
+1.09104E+15,ALLERGY6709EMIS,Adverse reaction to Heliclear Triple Pack
+1.09105E+15,ALLERGY671,Adverse reaction to Erythromycin (As Stearate)
+1.09109E+15,ALLERGY6712EMIS,Adverse reaction to Raloxifene Hydrochloride
+1.09122E+15,ALLERGY6723EMIS,Adverse reaction to Panoxyl
+1.09143E+15,ALLERGY6743EMIS,Adverse reaction to Cosopt
+1.09146E+15,ALLERGY6745EMIS,Adverse reaction to Bricanyl Turbohaler
+1.09175E+15,ALLERGY6767EMIS,Adverse reaction to Entacapone
+1.09181E+15,ALLERGY6772EMIS,Adverse reaction to Niquitin
+1.09182E+15,ALLERGY6773EMIS,Adverse reaction to Nurofen For Children
+1.09212E+15,ALLERGY6799EMIS,Adverse reaction to Coracten Xl
+1.09226E+15,ALLERGY681,Adverse reaction to Ethinyloestradiol
+1.09273E+15,ALLERGY687,Adverse reaction to Etodolac
+1.09294E+15,ALLERGY697,Adverse reaction to Famotidine
+1.09301E+15,ALLERGY8000EMIS,Adverse reaction to Nebilet
+1.09302E+15,ALLERGY8001EMIS,Adverse reaction to Nebivolol
+1.09312E+15,ALLERGY801,Adverse reaction to Griseofulvin
+1.0933E+15,ALLERGY8040BRIDL,Adverse reaction to Diclofenac Diethylammonium
+1.09334E+15,ALLERGY8047BRIDL,Adverse reaction to Savlon
+1.09337E+15,ALLERGY805,Adverse reaction to Haloperidol
+1.0934E+15,ALLERGY8053BRIDL,Adverse reaction to Hydromol
+1.09346E+15,ALLERGY8064BRIDL,Adverse reaction to Adizem
+1.09359E+15,ALLERGY8083BRIDL,Adverse reaction to Co-Amoxiclav
+1.0936E+15,ALLERGY8088BRIDL,Adverse reaction to Galenamox
+1.0937E+15,ALLERGY810,Adverse reaction to Heparin Sodium
+1.09371E+15,ALLERGY8100BRIDL,Adverse reaction to Cisapride
+1.09377E+15,ALLERGY8108BRIDL,Adverse reaction to Paracetamol & Codeine
+1.09378E+15,ALLERGY8109BRIDL,Adverse reaction to Utinor
+1.0938E+15,ALLERGY8110BRIDL,Adverse reaction to Norfloxacin
+1.09383E+15,ALLERGY8113BRIDL,Adverse reaction to Mupirocin
+1.09393E+15,ALLERGY8129BRIDL,Adverse reaction to Brasivol No. 1
+1.09405E+15,ALLERGY8142BRIDL,Adverse reaction to Solpadol
+1.09446E+15,ALLERGY8193BRIDL,Adverse reaction to Bendrofluazide K
+1.09448E+15,ALLERGY8194BRIDL,Adverse reaction to Manevac
+1.09449E+15,ALLERGY8197BRIDL,Adverse reaction to Lyclear
+1.0945E+15,ALLERGY8198BRIDL,Adverse reaction to Permethrin
+1.09462E+15,ALLERGY8211BRIDL,Adverse reaction to Buspirone Hydrochloride
+1.09464E+15,ALLERGY8214BRIDL,Adverse reaction to Serevent
+1.09466E+15,ALLERGY8216BRIDL,Adverse reaction to Suprax
+1.09467E+15,ALLERGY8217BRIDL,Adverse reaction to Cefixime
+1.09478E+15,ALLERGY8245BRIDL,Adverse reaction to Ofloxacin
+1.09481E+15,ALLERGY8248BRIDL,Adverse reaction to Salmeterol Xinafoate
+1.09483E+15,ALLERGY8250BRIDL,Adverse reaction to Lipostat
+1.09484E+15,ALLERGY8252BRIDL,Adverse reaction to Pravastatin
+1.09489E+15,ALLERGY8259BRIDL,Adverse reaction to Coracten
+1.09513E+15,ALLERGY828,Adverse reaction to Hydralazine Hydrochloride
+1.09521E+15,ALLERGY8288BRIDL,Adverse reaction to Co-Fluampicil 250/250
+1.09522E+15,ALLERGY8289BRIDL,Adverse reaction to Co-Fluampicil 125/125
+1.09527E+15,ALLERGY830,Adverse reaction to Hydrochlorothiazide
+1.09546E+15,ALLERGY8328BRIDL,Adverse reaction to Oxybutynin Hydrochloride
+1.09547E+15,ALLERGY8329BRIDL,Adverse reaction to Emflex
+1.09548E+15,ALLERGY833,Adverse reaction to Hydrocortisone
+1.09556E+15,ALLERGY834,Adverse reaction to Hydrocortisone Acetate
+1.09564E+15,ALLERGY835,Adverse reaction to Hydrocortisone Butyrate
+1.09584E+15,ALLERGY843,Adverse reaction to Hydroxocobalamin
+1.09587E+15,ALLERGY844,Adverse reaction to Hydroxychloroquine Sulfate
+1.09608E+15,ALLERGY9021BRIDL,Adverse reaction to Calcichew
+1.09613E+15,ALLERGY9031BRIDL,Adverse reaction to Co-Amilofruse 5/40
+1.09619E+15,ALLERGY9043BRIDL,Adverse reaction to Ensure Plus
+1.09628E+15,ALLERGY9063BRIDL,Adverse reaction to Granuflex
+1.09633E+15,ALLERGY907,Adverse reaction to Isosorbide Dinitrate
+1.09637E+15,ALLERGY9076BRIDL,Adverse reaction to Navispare
+1.09639E+15,ALLERGY908,Adverse reaction to Isosorbide Mononitrate
+1.0964E+15,ALLERGY9080BRIDL,Adverse reaction to Oramorph
+1.09645E+15,ALLERGY909,Adverse reaction to Isotretinoin
+1.09659E+15,ALLERGY911,Adverse reaction to Ispaghula Husk
+1.09688E+15,ALLERGY922,Adverse reaction to Ketoconazole
+1.0969E+15,ALLERGY923,Adverse reaction to Ketoprofen
+1.09701E+15,ALLERGY929,Adverse reaction to Labetalol Hydrochloride
+1.09705E+15,ALLERGY93,Adverse reaction to Allopurinol
+1.09717E+15,ALLERGY936,Adverse reaction to Lactulose
+1.09742E+15,ALLERGY946,Adverse reaction to Levonorgestrel
+1.09762E+15,ALLERGY954,Adverse reaction to Lignocaine Hydrochloride
+1.09778E+15,ALLERGY961,Adverse reaction to Liquid Paraffin
+1.09783E+15,ALLERGY963,Adverse reaction to Lithium Carbonate
+1.09794E+15,ALLERGY968,Adverse reaction to Lofepramine
+1.09798E+15,ALLERGY969NEMIS,Adverse reaction to Clotrimazole And Hydrocortisone
+1.09799E+15,ALLERGY970,Adverse reaction to Loperamide Hydrochloride
+1.09804E+15,ALLERGY972,Adverse reaction to Lorazepam
+1.09817E+15,ALLERGY977NEMIS,Adverse reaction to Diclofenac And Misoprostol
+1.09819E+15,ALLERGY979,Adverse reaction to Lymecycline
+1.09823E+15,ALLERGY980NEMIS,Adverse reaction to Erythromycin And Zinc Acetate
+1.09831E+15,ALLERGY984,Adverse reaction to Macrogol
+1.0986E+15,ALLERGY996,Adverse reaction to Malathion
+1.09872E+15,ALLERGY847,Adverse reaction to Hydroxyzine Hydrochloride
+1.09874E+15,ALLERGY848,Adverse reaction to Hyoscine Butylbromide
+1.09877E+15,ALLERGY849,Adverse reaction to Hyoscine Hydrobromide
+1.0989E+15,ALLERGY854,Adverse reaction to Hypromellose
+1.09892E+15,ALLERGY855,Adverse reaction to Ibuprofen
+1.09907E+15,ALLERGY861,Adverse reaction to Imipramine
+1.09909E+15,ALLERGY862,Adverse reaction to Imipramine Hydrochloride
+1.09917E+15,ALLERGY866,Adverse reaction to Indapamide
+1.0992E+15,ALLERGY867,Adverse reaction to Indomethacin
+1.09951E+15,ALLERGY88,Adverse reaction to Alfacalcidol
+1.09957E+15,ALLERGY883,Adverse reaction to Ipratopium Bromide
+1.0996E+15,ALLERGY884,Adverse reaction to Ipratropium Bromide
+1.09983E+15,ALLERGY895,Adverse reaction to Isoniazid
+1.10011E+15,ALLERGY2200,Adverse reaction to Citanest
+1.10028E+15,ALLERGY22049NEMIS,Adverse reaction to Tabphyn Mr
+1.10038E+15,ALLERGY2208,Adverse reaction to Clomid
+1.10043E+15,ALLERGY2209,Adverse reaction to Clopixol
+1.10058E+15,ALLERGY2213,Adverse reaction to Co-Codamol 8/500
+1.10062E+15,ALLERGY2214,Adverse reaction to Co-Codamol 8/500 Effervescent
+1.10071E+15,ALLERGY2217,Adverse reaction to Co-Dydramol 10/500
+1.10073E+15,ALLERGY2218,Adverse reaction to Co-Proxamol
+1.10079E+15,ALLERGY222,Adverse reaction to Benzylpenicillin Sodium
+1.10094E+15,ALLERGY2227,Adverse reaction to Codeine Linctus
+1.10103E+15,ALLERGY22291NEMIS,Adverse reaction to Rotigotine
+1.10133E+15,ALLERGY2239,Adverse reaction to Colofac
+1.10135E+15,ALLERGY224,Adverse reaction to Betahistine Dihydrochloride
+1.10141E+15,ALLERGY2241,Adverse reaction to Colomycin
+1.1015E+15,ALLERGY2243,Adverse reaction to Colpermin Ibs Relief
+1.10217E+15,ALLERGY22588NEMIS,Adverse reaction to Duotrav
+1.10222E+15,ALLERGY22600NEMIS,Adverse reaction to Calpol Infant
+1.10244E+15,ALLERGY2267,Adverse reaction to Cortisone
+1.10252E+15,ALLERGY22716NEMIS,Adverse reaction to Rimonabant
+1.10256E+15,ALLERGY22725NEMIS,Adverse reaction to Aspirin And Codeine
+1.10261E+15,ALLERGY22733NEMIS,Adverse reaction to Ganfort
+1.10262E+15,ALLERGY22737NEMIS,Adverse reaction to Sudafed Blocked Nose
+1.10268E+15,ALLERGY2277,Adverse reaction to Creon
+1.10269E+15,ALLERGY2279,Adverse reaction to Crystapen
+1.1027E+15,ALLERGY228,Adverse reaction to Betamethasone Valerate
+1.10288E+15,ALLERGY2296,Adverse reaction to Daktacort
+1.10289E+15,ALLERGY2297,Adverse reaction to Daktarin
+1.1029E+15,ALLERGY2298,Adverse reaction to Dalacin C
+1.10294E+15,ALLERGY2301,Adverse reaction to Danol
+1.10324E+15,ALLERGY2328,Adverse reaction to Depixol
+1.10327E+15,ALLERGY2330,Adverse reaction to Depo-Medrone
+1.10328E+15,ALLERGY2331,Adverse reaction to Depo-Provera
+1.10335E+15,ALLERGY2339,Adverse reaction to Derbac-M
+1.10339E+15,ALLERGY2342,Adverse reaction to Dermovate
+1.1034E+15,ALLERGY2343,Adverse reaction to Dermovate-Nn
+1.10344E+15,ALLERGY2346,Adverse reaction to Deteclo
+1.10345E+15,ALLERGY2347,Adverse reaction to Dettol
+1.10348E+15,ALLERGY235,Adverse reaction to Bezafibrate
+1.10349E+15,ALLERGY2352,Adverse reaction to Df 118
+1.1035E+15,ALLERGY2353,Adverse reaction to Dhc Continus
+1.10355E+15,ALLERGY2360,Adverse reaction to Diamox
+1.10357E+15,ALLERGY2362,Adverse reaction to Dianette
+1.10364E+15,ALLERGY2368,Adverse reaction to Diconal
+1.10367E+15,ALLERGY2370,Adverse reaction to Didronel
+1.10368E+15,ALLERGY2371,Adverse reaction to Difflam
+1.1037E+15,ALLERGY2373,Adverse reaction to Dihydrocodeine
+1.10374E+15,ALLERGY2378,Adverse reaction to Dimotane
+1.10378E+15,ALLERGY2381,Adverse reaction to Dimotane Plus
+1.10387E+15,ALLERGY239,Adverse reaction to Bisacodyl
+1.10388E+15,ALLERGY2390,Adverse reaction to Dioralyte
+1.10394E+15,ALLERGY2396,Adverse reaction to Diprobase
+1.10405E+15,ALLERGY2405,Adverse reaction to Disprol Paracetamol
+1.10406E+15,ALLERGY2406,Adverse reaction to Distaclor
+1.10409E+15,ALLERGY2409,Adverse reaction to Dithrocream
+1.10415E+15,ALLERGY2415,Adverse reaction to Dixarit
+1.10418E+15,ALLERGY2418,Adverse reaction to Dolobid
+1.10434E+15,ALLERGY2439,Adverse reaction to Driclor
+1.10449E+15,ALLERGY2453,Adverse reaction to Duphaston
+1.10458E+15,ALLERGY2461,Adverse reaction to Dyazide
+1.10463E+15,ALLERGY2466,Adverse reaction to E45
+1.10479E+15,ALLERGY2482,Adverse reaction to Efudix
+1.10498E+15,ALLERGY2505,Adverse reaction to Engerix B
+1.10501E+15,ALLERGY2508,Adverse reaction to Epanutin
+1.10506E+15,ALLERGY2517,Adverse reaction to Epilim
+1.10514E+15,ALLERGY2525,Adverse reaction to Erycen
+1.10515E+15,ALLERGY2526,Adverse reaction to Erymax
+1.10516E+15,ALLERGY2527,Adverse reaction to Erythrocin
+1.10517E+15,ALLERGY2528,Adverse reaction to Erythrolar
+1.10518E+15,ALLERGY2529,Adverse reaction to Erythromid
+1.10521E+15,ALLERGY2531,Adverse reaction to Erythroped
+1.10522E+15,ALLERGY2532,Adverse reaction to Erythroped A
+1.10537E+15,ALLERGY2546,Adverse reaction to Eumovate
+1.10539E+15,ALLERGY2549,Adverse reaction to Eurax
+1.10553E+15,ALLERGY2563,Adverse reaction to Fansidar
+1.10556E+15,ALLERGY2566,Adverse reaction to Faverin
+1.10563E+15,ALLERGY2574,Adverse reaction to Feldene
+1.10564E+15,ALLERGY2575,Adverse reaction to Femodene
+1.10565E+15,ALLERGY2576,Adverse reaction to Femulen
+1.10566E+15,ALLERGY2577,Adverse reaction to Fenbid
+1.10567E+15,ALLERGY2579,Adverse reaction to Fenopron
+1.10569E+15,ALLERGY2581,Adverse reaction to Fentazin
+1.10579E+15,ALLERGY2592,Adverse reaction to Ferrograd
+1.10585E+15,ALLERGY2599,Adverse reaction to Fersamal
+1.10591E+15,ALLERGY2604,Adverse reaction to Flagyl
+1.10594E+15,ALLERGY2607,Adverse reaction to Flamazine
+1.10596E+15,ALLERGY2608NEMIS,Adverse reaction to Iodine
+1.10603E+15,ALLERGY2615,Adverse reaction to Floxapen
+1.10606E+15,ALLERGY2617,Adverse reaction to Fluanxol
+1.10607E+15,ALLERGY2618,Adverse reaction to Fluorescein
+1.10609E+15,ALLERGY262,Adverse reaction to Budesonide
+1.1062E+15,ALLERGY2630,Adverse reaction to Fortral
+1.10627E+15,ALLERGY2637,Adverse reaction to Froben
+1.10628E+15,ALLERGY2638,Adverse reaction to Frumil
+1.10631E+15,ALLERGY2641,Adverse reaction to Fucibet
+1.10632E+15,ALLERGY2642,Adverse reaction to Fucidin
+1.10639E+15,ALLERGY3006,Adverse reaction to Locoid
+1.10642E+15,ALLERGY3008,Adverse reaction to Locorten-Vioform
+1.10643E+15,ALLERGY3009,Adverse reaction to Lodine
+1.10644E+15,ALLERGY3010,Adverse reaction to Loestrin 20
+1.10645E+15,ALLERGY3011,Adverse reaction to Loestrin 30
+1.10646E+15,ALLERGY3012,Adverse reaction to Logynon
+1.10647E+15,ALLERGY3013,Adverse reaction to Lomotil
+1.10654E+15,ALLERGY3021,Adverse reaction to Ludiomil
+1.10661E+15,ALLERGY3029,Adverse reaction to Macrodantin
+1.10662E+15,ALLERGY3030,Adverse reaction to Madopar 125
+1.10663E+15,ALLERGY3031,Adverse reaction to Madopar 62.5
+1.10665E+15,ALLERGY3034,Adverse reaction to Magnapen
+1.10676E+15,ALLERGY3044,Adverse reaction to Marcain
+1.10681E+15,ALLERGY3050,Adverse reaction to Marvelon
+1.10685E+15,ALLERGY3054,Adverse reaction to Maxidex
+1.10687E+15,ALLERGY3056,Adverse reaction to Maxitrol
+1.10688E+15,ALLERGY3057,Adverse reaction to Maxolon
+1.10706E+15,ALLERGY3074,Adverse reaction to Melleril
+1.10707E+15,ALLERGY3075,Adverse reaction to Melolin
+1.10711E+15,ALLERGY3079,Adverse reaction to Meptid
+1.10713E+15,ALLERGY308,Adverse reaction to Captopril
+1.10714E+15,ALLERGY3080,Adverse reaction to Merbentyl
+1.10726E+15,ALLERGY3090NEMIS,Adverse reaction to Mefix
+1.10739E+15,ALLERGY3107,Adverse reaction to Microgynon 30
+1.1074E+15,ALLERGY3108,Adverse reaction to Micronor
+1.10743E+15,ALLERGY3111,Adverse reaction to Mictral
+1.10746E+15,ALLERGY3114,Adverse reaction to Migraleve
+1.10748E+15,ALLERGY3116,Adverse reaction to Migril
+1.10775E+15,ALLERGY3147,Adverse reaction to Minocin
+1.10788E+15,ALLERGY316,Adverse reaction to Carbamazepine
+1.10795E+15,ALLERGY3166,Adverse reaction to Modrasone
+1.10799E+15,ALLERGY317,Adverse reaction to Carbenicillin
+1.108E+15,ALLERGY3170,Adverse reaction to Moduretic
+1.10803E+15,ALLERGY3172,Adverse reaction to Molipaxin
+1.10816E+15,ALLERGY3182,Adverse reaction to Monotrim
+1.10824E+15,ALLERGY3189,Adverse reaction to Motilium
+1.10827E+15,ALLERGY3191,Adverse reaction to Motival
+1.1083E+15,ALLERGY3193,Adverse reaction to Movelat
+1.10833E+15,ALLERGY3195,Adverse reaction to Mst Continus
+1.10837E+15,ALLERGY3197,Adverse reaction to Mucodyne
+1.10841E+15,ALLERGY320,Adverse reaction to Carbimazole
+1.10862E+15,ALLERGY3219,Adverse reaction to Myocrisin
+1.10863E+15,ALLERGY322,Adverse reaction to Carbocisteine
+1.10865E+15,ALLERGY3221,Adverse reaction to Mysoline
+1.10866E+15,ALLERGY3222,Adverse reaction to Mysteclin
+1.10872E+15,ALLERGY3228,Adverse reaction to Naprosyn
+1.10877E+15,ALLERGY3233,Adverse reaction to Naseptin
+1.10879E+15,ALLERGY3234,Adverse reaction to Natrilix
+1.10881E+15,ALLERGY3236,Adverse reaction to Navidrex
+1.10886E+15,ALLERGY3241,Adverse reaction to Negram
+1.10894E+15,ALLERGY325,Adverse reaction to Carboplatin
+1.10898E+15,ALLERGY3252NEMIS,Adverse reaction to Oxcarbazepine
+1.10911E+15,ALLERGY3269,Adverse reaction to Nicorette
+1.10923E+15,ALLERGY3279,Adverse reaction to Nitrolingual
+1.10926E+15,ALLERGY3281,Adverse reaction to Nivaquine
+1.10929E+15,ALLERGY3283,Adverse reaction to Nizoral
+1.10938E+15,ALLERGY3291NEMIS,Adverse reaction to Eprosartan
+1.10949E+15,ALLERGY3300,Adverse reaction to Norgesic
+1.10951E+15,ALLERGY3302,Adverse reaction to Noriday
+1.10971E+15,ALLERGY2643,Adverse reaction to Fucidin H
+1.10976E+15,ALLERGY2649,Adverse reaction to Furadantin
+1.10977E+15,ALLERGY265,Adverse reaction to Bumetanide
+1.1098E+15,ALLERGY2651,Adverse reaction to Fybogel
+1.10981E+15,ALLERGY2652,Adverse reaction to Fybogel Orange
+1.10988E+15,ALLERGY266,Adverse reaction to Bupivacaine Hydrochloride
+1.10989E+15,ALLERGY2660,Adverse reaction to Galpseud
+1.1099E+15,ALLERGY2661,Adverse reaction to Gamanil
+1.10992E+15,ALLERGY2662NEMIS,Adverse reaction to Oxycodone Hydrochloride
+1.10994E+15,ALLERGY2663NEMIS,Adverse reaction to OxyContin
+1.10995E+15,ALLERGY2664NEMIS,Adverse reaction to OxyNorm
+1.11E+15,ALLERGY267,Adverse reaction to Buprenorphine
+1.11005E+15,ALLERGY2674,Adverse reaction to Gaviscon
+1.11012E+15,ALLERGY2680,Adverse reaction to Genticin
+1.11015E+15,ALLERGY2683,Adverse reaction to Gentisone Hc
+1.11026E+15,ALLERGY2693,Adverse reaction to Glucophage
+1.11044E+15,ALLERGY2716,Adverse reaction to Gyno-Daktarin
+1.11055E+15,ALLERGY2726,Adverse reaction to Haelan-C
+1.11058E+15,ALLERGY2729,Adverse reaction to Halcion
+1.11063E+15,ALLERGY2732,Adverse reaction to Half Inderal La
+1.11073E+15,ALLERGY2739,Adverse reaction to Heminevrin
+1.11076E+15,ALLERGY2741,Adverse reaction to Heparin
+1.11084E+15,ALLERGY2748,Adverse reaction to Hibiscrub
+1.11088E+15,ALLERGY2751,Adverse reaction to Hibitane
+1.11095E+15,ALLERGY2756,Adverse reaction to Hiprex
+1.11096E+15,ALLERGY2757,Adverse reaction to Hirudoid
+1.11097E+15,ALLERGY2758,Adverse reaction to Hismanal
+1.11121E+15,ALLERGY2779NEMIS,Adverse reaction to Exemestane
+1.11137E+15,ALLERGY2792,Adverse reaction to Hydrous
+1.11142E+15,ALLERGY2797,Adverse reaction to Hyoscine
+1.11155E+15,ALLERGY2812,Adverse reaction to Ichthopaste
+1.11163E+15,ALLERGY2821,Adverse reaction to Ilosone
+1.11168E+15,ALLERGY2826,Adverse reaction to Imodium
+1.11169E+15,ALLERGY2827,Adverse reaction to Imperacin
+1.11172E+15,ALLERGY283,Adverse reaction to Calamine
+1.11174E+15,ALLERGY2831,Adverse reaction to Inadine
+1.11175E+15,ALLERGY2832,Adverse reaction to Inderal
+1.11176E+15,ALLERGY2833,Adverse reaction to Inderal La
+1.11179E+15,ALLERGY2836,Adverse reaction to Indocid
+1.11188E+15,ALLERGY2846,Adverse reaction to Innovace
+1.11191E+15,ALLERGY2851,Adverse reaction to Intal
+1.11194E+15,ALLERGY2855,Adverse reaction to Intralgin
+1.11203E+15,ALLERGY2863,Adverse reaction to Ipral
+1.11223E+15,ALLERGY288,Adverse reaction to Calcium Carbonate
+1.11233E+15,ALLERGY2889,Adverse reaction to Jectofer
+1.11256E+15,ALLERGY2908,Adverse reaction to Keflex
+1.11265E+15,ALLERGY2917,Adverse reaction to Kenalog
+1.11289E+15,ALLERGY2939,Adverse reaction to Lacri-Lube
+1.11295E+15,ALLERGY2944,Adverse reaction to Lanolin
+1.11306E+15,ALLERGY2953,Adverse reaction to Largactil
+1.11318E+15,ALLERGY2964,Adverse reaction to Lederfen
+1.1132E+15,ALLERGY2966,Adverse reaction to Ledermycin
+1.11338E+15,ALLERGY2984,Adverse reaction to Librium
+1.11356E+15,ALLERGY4000,Adverse reaction to Trinovum
+1.11362E+15,ALLERGY4005,Adverse reaction to Triptafen
+1.11364E+15,ALLERGY4007,Adverse reaction to Trisequens
+1.11369E+15,ALLERGY4010NEMIS,Adverse reaction to Lactose
+1.11371E+15,ALLERGY4012,Adverse reaction to Tryptizol
+1.11378E+15,ALLERGY4021,Adverse reaction to Tyrozets
+1.11387E+15,ALLERGY4028,Adverse reaction to Unguentum Merck
+1.11389E+15,ALLERGY403,Adverse reaction to Chlorthalidone
+1.11397E+15,ALLERGY4035,Adverse reaction to Uniphyllin Continus
+1.11421E+15,ALLERGY4054,Adverse reaction to Valium
+1.11422E+15,ALLERGY4055,Adverse reaction to Vallergan
+1.11436E+15,ALLERGY4067,Adverse reaction to Velosef
+1.11441E+15,ALLERGY407,Adverse reaction to Cholestyramine
+1.11443E+15,ALLERGY4071,Adverse reaction to Ventolin
+1.11445E+15,ALLERGY4073NEMIS,Adverse reaction to Wild Cherry
+1.11447E+15,ALLERGY4075,Adverse reaction to Vermox
+1.11452E+15,ALLERGY4079,Adverse reaction to Vibramycin
+1.11454E+15,ALLERGY4080,Adverse reaction to Vibramycin-D
+1.11462E+15,ALLERGY4087,Adverse reaction to Vioform-Hydrocortisone
+1.11485E+15,ALLERGY4105,Adverse reaction to Volmax
+1.11486E+15,ALLERGY4106,Adverse reaction to Voltarol
+1.11488E+15,ALLERGY4109,Adverse reaction to Voltarol Retard
+1.11494E+15,ALLERGY4115,Adverse reaction to Weak Iodine
+1.11496E+15,ALLERGY4116,Adverse reaction to Welldorm
+1.11504E+15,ALLERGY4122,Adverse reaction to Xylocaine
+1.1151E+15,ALLERGY4127,Adverse reaction to Xyloproct
+1.11515E+15,ALLERGY4132,Adverse reaction to Zantac
+1.1153E+15,ALLERGY4149,Adverse reaction to Zinnat
+1.11531E+15,ALLERGY415,Adverse reaction to Cimetidine
+1.11532E+15,ALLERGY4150,Adverse reaction to Zoladex
+1.11535E+15,ALLERGY4152,Adverse reaction to Zovirax
+1.11536E+15,ALLERGY4153,Adverse reaction to Zyloric
+1.11537E+15,ALLERGY4154NEMIS,Adverse reaction to Alendronic Acid
+1.11538E+15,ALLERGY4157,Adverse reaction to Erythromycin
+1.11541E+15,ALLERGY416,Adverse reaction to Cinchocaine Hydrochloride
+1.11544E+15,ALLERGY4162,Adverse reaction to Bromocriptine
+1.11545E+15,ALLERGY4163,Adverse reaction to Danazol
+1.11546E+15,ALLERGY4164,Adverse reaction to Etidronate Disodium
+1.11547E+15,ALLERGY4165,Adverse reaction to Theophylline
+1.11551E+15,ALLERGY4170,Adverse reaction to Zinc
+1.11556E+15,ALLERGY4174EGTON,Adverse reaction to Cytotec
+1.11557E+15,ALLERGY4175EGTON,Adverse reaction to Misoprostol
+1.11576E+15,ALLERGY419,Adverse reaction to Cinnarizine
+1.11578E+15,ALLERGY4190EGTON,Adverse reaction to Diflucan
+1.1158E+15,ALLERGY4191EGTON,Adverse reaction to Fluconazole
+1.11581E+15,ALLERGY4192EGTON,Adverse reaction to Voltaren Retard
+1.11583E+15,ALLERGY4194EGTON,Adverse reaction to Tetavax
+1.11585E+15,ALLERGY4197NEMIS,Adverse reaction to Celecoxib
+1.11588E+15,ALLERGY4201NEMIS,Adverse reaction to Celebrex
+1.11593E+15,ALLERGY4207EGTON,Adverse reaction to Prozac
+1.11595E+15,ALLERGY4208BRID,Adverse reaction to Fludrocortisone
+1.11596E+15,ALLERGY4208EGTON,Adverse reaction to Fluoxetine Hydrochloride
+1.11597E+15,ALLERGY421,Adverse reaction to Ciprofloxacin
+1.11598E+15,ALLERGY4210EGTON,Adverse reaction to Estraderm Tts
+1.11599E+15,ALLERGY4212EGTON,Adverse reaction to Estrapak 50
+1.11604E+15,ALLERGY4215EGTON,Adverse reaction to Adalat Retard 10
+1.11615E+15,ALLERGY4221EGTON,Adverse reaction to Corsodyl
+1.11635E+15,ALLERGY4236EGTON,Adverse reaction to Fucithalmic
+1.11637E+15,ALLERGY4237BRID,Adverse reaction to Bisoprolol Fumarate
+1.11647E+15,ALLERGY4244EGTON,Adverse reaction to Metoprolol Fumarate
+1.1165E+15,ALLERGY4247BRID,Adverse reaction to Equagesic
+1.11652E+15,ALLERGY4249EGTON,Adverse reaction to M-M-R II
+1.11654E+15,ALLERGY18737NEMIS,Adverse reaction to Duloxetine
+1.11655E+15,ALLERGY18746NEMIS,Adverse reaction to Solifenacin
+1.11666E+15,ALLERGY5125NEMIS,Adverse reaction to Esomeprazole
+1.11678E+15,ALLERGY5162EMIS,Adverse reaction to Sulfate
+1.1168E+15,ALLERGY5171EMIS,Adverse reaction to Copper
+1.11681E+15,ALLERGY5172EMIS,Adverse reaction to Iron
+1.11683E+15,ALLERGY5174EMIS,Adverse reaction to Iodide
+1.1169E+15,ALLERGY521,Adverse reaction to D Pteronyssinus Allergen
+1.11716E+15,ALLERGY1025NEMIS,Adverse reaction to Diclofenac Potassium
+1.11747E+15,ALLERGY1043NEMIS,Adverse reaction to Telmisartan
+1.11798E+15,ALLERGY10799NEMIS,Adverse reaction to Sibutramine Hydrochloride Monohydrate
+1.11801E+15,ALLERGY10836NEMIS,Adverse reaction to Linezolid
+1.11805E+15,ALLERGY10866NEMIS,Adverse reaction to Zoledronic Acid
+1.11824E+15,ALLERGY1126,Adverse reaction to Neomycin Sulfate
+1.11834E+15,ALLERGY11317NEMIS,Adverse reaction to Ibuprofen Lysine
+1.11853E+15,ALLERGY11612NEMIS,Adverse reaction to Lanolin Alcohol
+1.11857E+15,ALLERGY11652NEMIS,Adverse reaction to Sulfamethoxypyridazine
+1.11862E+15,ALLERGY11688NEMIS,Adverse reaction to Levocetirizine
+1.11865E+15,ALLERGY1170,Adverse reaction to Nortripyline
+1.1193E+15,ALLERGY1267,Adverse reaction to Phenoxyethanol
+1.11936E+15,ALLERGY1272,Adverse reaction to Phenylephrine
+1.11941E+15,ALLERGY12734NEMIS,Adverse reaction to Bimatoprost
+1.11948E+15,ALLERGY12805NEMIS,Adverse reaction to Etoricoxib
+1.1197E+15,ALLERGY12956NEMIS,Adverse reaction to Ibandronic acid
+1.11972E+15,ALLERGY1346,Adverse reaction to Potassium
+1.1199E+15,ALLERGY13536NEMIS,Adverse reaction to Chlorhexidine gluconate solution
+1.12014E+15,ALLERGY13728NEMIS,Adverse reaction to Tiotropium bromide monohydrate
+1.12057E+15,ALLERGY1481,Adverse reaction to Simple Linctus
+1.1206E+15,ALLERGY14812NEMIS,Adverse reaction to Cobalt II Gluconate
+1.12065E+15,ALLERGY14829NEMIS,Adverse reaction to Tadalafil
+1.12075E+15,ALLERGY14922NEMIS,Adverse reaction to Dutasteride
+1.12078E+15,ALLERGY14NEMIS,Adverse reaction to pramipexole dihydrochloride
+1.12087E+15,ALLERGY1567,Adverse reaction to Sulfabenzamide
+1.121E+15,ALLERGY15759NEMIS,Adverse reaction to Olmesartan Medoxomil
+1.12103E+15,ALLERGY1578NEMIS,Adverse reaction to Quinupristin Mesilate
+1.12105E+15,ALLERGY1579NEMIS,Adverse reaction to Dalfopristin Mesilate
+1.12119E+15,ALLERGY1599,Adverse reaction to Tartrazine
+1.12137E+15,ALLERGY1619,Adverse reaction to Tetanus Toxoid
+1.12141E+15,ALLERGY1622,Adverse reaction to Tetracycline
+1.12147E+15,ALLERGY1625NEMIS,Adverse reaction to Nevirapine hemihydrate
+1.12159E+15,ALLERGY16468NEMIS,Adverse reaction to Adalimumab
+1.12161E+15,ALLERGY1649,Adverse reaction to Timothy And Cocksfoot Allergent
+1.12175E+15,ALLERGY173,Adverse reaction to Atropine Eye Ointment
+1.12179E+15,ALLERGY1736,Adverse reaction to Warfarin
+1.12246E+15,ALLERGY20504NEMIS,Adverse reaction to Rasagiline
+1.12247E+15,ALLERGY20509NEMIS,Adverse reaction to Niacin
+1.12253E+15,ALLERGY20521NEMIS,Adverse reaction to Lavendula Angustifolia (Lavender)
+1.12259E+15,ALLERGY20537NEMIS,Adverse reaction to Articaine Hydrochloride
+1.12301E+15,ALLERGY209,Adverse reaction to Benzoic Acid
+1.12314E+15,ALLERGY21404NEMIS,Adverse reaction to Chromium
+1.12321E+15,ALLERGY21630NEMIS,Adverse reaction to Ivabradine
+1.12329E+15,ALLERGY2188NEMIS,Adverse reaction to Animal wool
+1.12342E+15,ALLERGY359,Adverse reaction to Cetyl Alcohol
+1.12349E+15,ALLERGY383,Adverse reaction to Chlorine
+1.12354E+15,ALLERGY386,Adverse reaction to Chlorocresol
+1.12358E+15,ALLERGY3886NEMIS,Adverse reaction to Risedronate Sodium
+1.12369E+15,ALLERGY3935NEMIS,Adverse reaction to Brinzolamide
+1.12378E+15,ALLERGY426,Adverse reaction to Clavulanic Acid
+1.12422E+15,ALLERGY4572NEMIS,Adverse reaction to Balsam Peru
+1.12424E+15,ALLERGY4576NEMIS,Adverse reaction to Bupropion Hydrochloride
+1.12459E+15,ALLERGY467NEMIS,Adverse reaction to Rofecoxib
+1.12494E+15,ALLERGY4917BRIDL,Adverse reaction to Vitamin B
+1.12498E+15,ALLERGY4934BRIDL,Adverse reaction to Sodium Metabisulfite
+1.12531E+15,ALLERGY6144BRIDL,Adverse reaction to Metoclopromide Hydrochloride
+1.12547E+15,ALLERGY5316NEMIS,Adverse reaction to Pioglitazone Hydrochloride
+1.12549E+15,ALLERGY5323NEMIS,Adverse reaction to Trospium Chloride
+1.1255E+15,ALLERGY5328NEMIS,Adverse reaction to Galantamine Hydrobromide
+1.12559E+15,ALLERGY5384EMIS,Adverse reaction to Inhaler
+1.12663E+15,ALLERGY775,Adverse reaction to Gentamycin
+1.12712E+15,ALLERGY6260NEMIS,Adverse reaction to Desloratadine
+1.12765E+15,ALLERGY6382BRIDL,Adverse reaction to Tetanus Formol Toxoid
+1.12768E+15,ALLERGY6387BRIDL,Adverse reaction to Mefloquine (As Hydrochloride)
+1.1277E+15,ALLERGY6391NEMIS,Adverse reaction to Capecitabine
+1.12772E+15,ALLERGY6396BRIDL,Adverse reaction to Aqueous Cream
+1.12787E+15,ALLERGY6438NEMIS,Adverse reaction to Doxazosin Mesilate
+1.128E+15,ALLERGY6553BRIDL,Adverse reaction to Medroxyprogesterone
+1.12885E+15,ALLERGY819,Adverse reaction to Histamine
+1.12906E+15,ALLERGY8256BRIDL,Adverse reaction to Prilocaine
+1.12954E+15,ALLERGY935,Adverse reaction to Lactose
+1.12992E+15,ALLERGY953,Adverse reaction to Lidocaine
+1.13054E+15,ALLERGY988,Adverse reaction to Magnesium
+1.13134E+15,ALLERGY880,Adverse reaction to Iodine
+1.13202E+15,ALLERGY1101,Adverse reaction to Multiple Allergens
+1.13205E+15,U60B9,Bisoprolol adverse reaction
+1.13207E+15,U60BA,Carvedilol adverse reaction
+1.13209E+15,U60BB,Nebivolol adverse reaction
+1.13214E+15,ALLERGY11098NEMIS,Adverse reaction to Glucosamine
+1.13252E+15,ALLERGY12138NEMIS,Adverse reaction to Travoprost
+1.13276E+15,ALLERGY1247,Adverse reaction to Peru Balsam
+1.13285E+15,ALLERGY12508NEMIS,Adverse reaction to Miconazole Nitrate Cream
+1.13291E+15,ALLERGY13034NEMIS,Adverse reaction to Pristinamycin
+1.13302E+15,ALLERGY1308,Adverse reaction to Pivmecillinam
+1.13305E+15,ALLERGY13086NEMIS,Adverse reaction to Escitalopram
+1.13328E+15,ALLERGY13252NEMIS,Adverse reaction to Cilostazol
+1.13378E+15,ALLERGY14271NEMIS,Adverse reaction to Memantine Hydrochloride
+1.13412E+15,ALLERGY15021NEMIS,Adverse reaction to Vardenafil
+1.13416E+15,ALLERGY15043NEMIS,Adverse reaction to Moxifloxacin
+1.1342E+15,ALLERGY15070NEMIS,Adverse reaction to Rosuvastatin
+1.13426E+15,ALLERGY1519,Adverse reaction to Sorbitol
+1.13434E+15,ALLERGY15250NEMIS,Adverse reaction to Ezetimibe
+1.13439E+15,ALLERGY15287NEMIS,Adverse reaction to Haloperidol Decanoate
+1.13445E+15,ALLERGY1533,Adverse reaction to Starch
+1.13453E+15,ALLERGY15391NEMIS,Adverse reaction to Valdecoxib
+1.13464E+15,ALLERGY1553,Adverse reaction to Streptomycin
+1.13476E+15,ALLERGY1667,Adverse reaction to Tramazoline Hydrochloride
+1.13477E+15,ALLERGY1667NEMIS,Adverse reaction to Leflunomide
+1.13498E+15,ALLERGY17005NEMIS,Adverse reaction to Amlodipine
+1.13499E+15,ALLERGY1700NEMIS,Adverse reaction to Citalopram hydrochloride
+1.13514E+15,ALLERGY18227NEMIS,Adverse reaction to Aripiprazole
+1.1352E+15,ALLERGY18429NEMIS,Adverse reaction to Pregabalin
+1.13522E+15,ALLERGY18453NEMIS,Adverse reaction to Atomoxetine
+1.13529E+15,ALLERGY1902NEMIS,Adverse reaction to Infliximab
+1.13535E+15,ALLERGY19049NEMIS,Adverse reaction to Eplerenone
+1.13536E+15,ALLERGY19062NEMIS,Adverse reaction to Strontium Ranelate
+1.13559E+15,ALLERGY20112NEMIS,Adverse reaction to Timolol
+1.13646E+15,ALLERGY22718NEMIS,Adverse reaction to Rimonabant
+1.13659E+15,ALLERGY260,Adverse reaction to Bronopol
+1.13671E+15,ALLERGY2666NEMIS,Adverse reaction to Oxycodone Hydrochloride
+1.13676E+15,ALLERGY2782NEMIS,Adverse reaction to Exemestane
+1.13722E+15,ALLERGY404,Adverse reaction to Colecalciferol
+1.13746E+15,ALLERGY4396EGTON,Adverse reaction to Sulfamethoxazole
+1.13763E+15,ALLERGY4410BRECO,Adverse reaction to Ondansetron
+1.13779E+15,ALLERGY4456EMIS,Adverse reaction to Cilastatin
+1.13781E+15,ALLERGY446,Adverse reaction to Clopamide
+1.13816E+15,ALLERGY4738NEMIS,Adverse reaction to Clotrimazole cream
+1.13817E+15,ALLERGY4739NEMIS,Adverse reaction to Clotrimazole pessary
+1.13822E+15,ALLERGY4752NEMIS,Adverse reaction to Etanercept
+1.13824E+15,ALLERGY4763NEMIS,Adverse reaction to Rosiglitazone Maleate
+1.13848E+15,ALLERGY5033EMIS,Adverse reaction to Tazobactam
+1.13853E+15,ALLERGY507,Adverse reaction to Cyclizine Hydrochloride
+1.13875E+15,ALLERGY542,Adverse reaction to Desogestrel
+1.13958E+15,ALLERGY5614NEMIS,Adverse reaction to Levetiracetam
+1.14037E+15,ALLERGY6217BRIDL,Adverse reaction to Contraceptive
+1.14084E+15,ALLERGY6626BRIDL,Adverse reaction to Chemical Reagent
+1.1412E+15,ALLERGY709,Adverse reaction to Ferrius Fumarate
+1.14204E+15,ALLERGY8085BRIDL,Adverse reaction to Amoxicillin Trihydrate
+1.14371E+15,ALLERGY22293NEMIS,Adverse reaction to Rotigotine
+1.14392E+15,ALLERGY324,Adverse reaction to Carbomer
+1.14393E+15,ALLERGY3255NEMIS,Adverse reaction to Oxcarbazepine
+1.14395E+15,ALLERGY3294NEMIS,Adverse reaction to Eprosartan
+1.14423E+15,ALLERGY4156NEMIS,Adverse reaction to Alendronic acid
+1.14426E+15,ALLERGY4169,Adverse reaction to Calcium
+1.14432E+15,ALLERGY4199NEMIS,Adverse reaction to Celecoxib
+1.14435E+15,ALLERGY4214BRID,Adverse reaction to Emulsifying Oint
+1.1444E+15,ALLERGY4230EGTON,Adverse reaction to Pseudoephedrine Sulfate
+1.56662E+15,ALLERGY22847NEMIS,Adverse reaction to Clenil Modulite
+1.56687E+15,ALLERGY22975NEMIS,Adverse reaction to Imuvac
+1.56714E+15,ALLERGY23118NEMIS,Adverse reaction to Mepradec
+1.56745E+15,ALLERGY23355NEMIS,Adverse reaction to Pioglitazone And Metformin
+1.57847E+15,ALLERGY23540NEMIS,Adverse reaction to Varenicline
+1.57848E+15,ALLERGY23544NEMIS,Adverse reaction to Champix
+1.57849E+15,ALLERGY23547NEMIS,Adverse reaction to Champix Treatment Initiation Pack
+1.57871E+15,ALLERGY23718NEMIS,Adverse reaction to Versatis
+1.57901E+15,ALLERGY23850NEMIS,Adverse reaction to Amlodipine And Valsartan
+1.57904E+15,ALLERGY23865NEMIS,Adverse reaction to Matrifen
+1.57908E+15,ALLERGY23883NEMIS,Adverse reaction to Moviprep
+1.57913E+15,ALLERGY23931NEMIS,Adverse reaction to Larapam Sr (Tramadol)
+1.57915E+15,ALLERGY23494NEMIS,Adverse reaction to Darifenacin
+1.57917E+15,ALLERGY23542NEMIS,Adverse reaction to Varenicline Tartrate
+1.57919E+15,ALLERGY23823NEMIS,Adverse reaction to Cherry Plum
+1.60232E+15,ALLERGY25227NEMIS,Adverse reaction to Sitagliptin
+1.60234E+15,ALLERGY25236NEMIS,Adverse reaction to Quetiapine
+1.60244E+15,ALLERGY25268NEMIS,Adverse reaction to Terbinafine
+1.60265E+15,ALLERGY25423NEMIS,Adverse reaction to Chlorpromazine
+1.60266E+15,ALLERGY25435NEMIS,Adverse reaction to Exenatide
+1.60267E+15,ALLERGY25439NEMIS,Adverse reaction to Byetta
+1.60277E+15,ALLERGY25485NEMIS,Adverse reaction to Perindopril
+1.60308E+15,ALLERGY25581NEMIS,Adverse reaction to Beconase Hayfever
+1.60426E+15,ALLERGY25229NEMIS,Adverse reaction to Sitagliptin
+1.60431E+15,ALLERGY25270NEMIS,Adverse reaction to Terbinafine
+1.60434E+15,ALLERGY25426NEMIS,Adverse reaction to Chlorpromazine
+1.60435E+15,ALLERGY25437NEMIS,Adverse reaction to Exenatide
+1.60436E+15,ALLERGY25487NEMIS,Adverse reaction to Perindopril
+1.62987E+15,ALLERGY26383NEMIS,Adverse reaction to Rasilez
+1.63062E+15,ALLERGY27049NEMIS,Adverse reaction to Spiriva Respimat
+1.63069E+15,ALLERGY27107NEMIS,Adverse reaction to Cervarix
+1.6307E+15,ALLERGY27109NEMIS,Adverse reaction to Olmesartan
+1.63082E+15,ALLERGY26381NEMIS,Adverse reaction to Aliskiren
+1.631E+15,ALLERGY27034NEMIS,Adverse reaction to Vildagliptin
+1.63992E+15,ALLERGY27607NEMIS,Adverse reaction to Multi-Action Actifed
+1.6402E+15,ALLERGY27761NEMIS,Adverse reaction to Rivastigmine
+1.64087E+15,ALLERGY28491NEMIS,Adverse reaction to Mezolar Matrix
+1.64118E+15,ALLERGY27763NEMIS,Adverse reaction to Rivastigmine
+1.65416E+15,ALLERGY28855NEMIS,Adverse reaction to Fostair
+1.65429E+15,ALLERGY28926NEMIS,Adverse reaction to Adcal-D3 Dissolve
+1.65431E+15,ALLERGY28862NEMIS,Adverse reaction to Citrus-flavonoids
+1.65692E+15,ALLERGY29053NEMIS,Adverse reaction to Aspro Clear
+1.65888E+15,U609A,Fluoxetine adverse reaction
+1.66028E+15,U601y-J,[X]Nitrofurantoin adverse reaction
+1.66029E+15,U609B,Sertraline adverse reaction
+1.66327E+15,ALLERGY29335NEMIS,Adverse reaction to Perindopril Arginine
+1.66337E+15,ALLERGY29337NEMIS,Adverse reaction to Perindopril Arginine
+1.66459E+15,ALLERGY29441NEMIS,Adverse reaction to Pollenshield Hayfever Relief
+1.6646E+15,ALLERGY29443NEMIS,Adverse reaction to Pollenshield Hayfever
+1.66474E+15,ALLERGY29860NEMIS,Adverse reaction to Dabigatran Etexilate
+1.66478E+15,ALLERGY29885NEMIS,Adverse reaction to Laxido Orange
+1.66479E+15,ALLERGY29887NEMIS,Adverse reaction to Doxazosin
+1.66494E+15,ALLERGY29862NEMIS,Adverse reaction to Dabigatran Etexilate
+1.6703E+15,ALLERGY29971NEMIS,Adverse reaction to Hydroxychloroquine
+1.67046E+15,ALLERGY29957NEMIS,Adverse reaction to Nilotinib
+1.6723E+15,EMISNQAL5,Allergies and adverse reactions
+1.67369E+15,ALLERGY30091NEMIS,Adverse reaction to Fesoterodine Fumarate
+1.67387E+15,ALLERGY30089NEMIS,Adverse reaction to Fesoterodine Fumarate
+1.67388E+15,ALLERGY30093NEMIS,Adverse reaction to Toviaz
+1.6746E+15,ALLERGY30562NEMIS,Adverse reaction to M-M-R Vaxpro
+1.67462E+15,ALLERGY30568NEMIS,Adverse reaction to Ferinject
+1.67473E+15,ALLERGY30618NEMIS,Adverse reaction to Gastrografin
+1.68258E+15,U6016,Sulphasalazine adverse reaction
+1.68674E+15,ALLERGY31041NEMIS,Adverse reaction to Vantage Co-Codamol
+1.69485E+15,ALLERGY31772NEMIS,Adverse reaction to Rivaroxaban
+1.69499E+15,ALLERGY31770NEMIS,Adverse reaction to Rivaroxaban
+1.69514E+15,ALLERGY31836NEMIS,Adverse reaction to Ibuprofen Lysine
+1.69695E+15,ALLERGY33491NEMIS,Adverse reaction to Laxido Natural
+1.69701E+15,ALLERGY33508NEMIS,Adverse reaction to Nicorette Invisi
+1.69793E+15,ALLERGY34373NEMIS,Adverse reaction to Fluticasone Furoate
+1.69794E+15,ALLERGY34432NEMIS,Adverse reaction to Alendronate
+1.69827E+15,ALLERGY34746NEMIS,Adverse reaction to Ranolazine
+1.69828E+15,ALLERGY34371NEMIS,Adverse reaction to Fluticasone Furoate
+1.69829E+15,ALLERGY34374NEMIS,Adverse reaction to Avamys
+1.69837E+15,ALLERGY34430NEMIS,Adverse reaction to Alendronate
+1.69842E+15,ALLERGY34443NEMIS,Adverse reaction to Targinact
+1.69896E+15,ALLERGY34744NEMIS,Adverse reaction to Ranolazine
+1.70785E+15,ALLERGY35728NEMIS,Adverse reaction to Piperacillin And Tazobactam
+1.7079E+15,ALLERGY35753NEMIS,Adverse reaction to Sudafed Non-Drowsy 12 Hour Relief
+1.70844E+15,ALLERGY36259NEMIS,Adverse reaction to Zerocream
+1.70858E+15,ALLERGY36489NEMIS,Adverse reaction to Azarga
+1.70995E+15,ALLERGY37217NEMIS,Adverse reaction to Liraglutide
+1.71114E+15,ALLERGY37215NEMIS,Adverse reaction to Liraglutide
+1.71115E+15,ALLERGY37218NEMIS,Adverse reaction to Victoza
+1.71167E+15,ALLERGY37468NEMIS,Adverse reaction to Doxycycline Monohydrate
+1.71171E+15,ALLERGY37537NEMIS,Adverse reaction to White Lupin
+1.71221E+15,ALLERGY37466NEMIS,Adverse reaction to Doxycycline Monohydrate
+1.71224E+15,ALLERGY37476NEMIS,Adverse reaction to Co-Careldopa
+1.71349E+15,ALLERGY38470NEMIS,Adverse reaction to Clopidogrel
+1.72488E+15,ALLERGY39313NEMIS,Adverse reaction to Saxagliptin
+1.72675E+15,ALLERGY39565NEMIS,Adverse reaction to Coffee
+1.72731E+15,ALLERGY39953NEMIS,Adverse reaction to Benzathine Benzylpenicillin
+1.72739E+15,ALLERGY39568NEMIS,Adverse reaction to Co-Codamol 12.8/500
+1.72894E+15,ALLERGY40652NEMIS,Adverse reaction to Febuxostat
+1.72911E+15,ALLERGY40649NEMIS,Adverse reaction to Febuxostat
+1.72921E+15,ALLERGY40464NEMIS,Adverse reaction to Levest 150/30
+1.74359E+15,ALLERGY41109NEMIS,Adverse reaction to Diphtheria/Tetanus/Pertussis(acell)/Polio(inac)/Hib(conj)
+1.74409E+15,ALLERGY42093NEMIS,Adverse reaction to Prucalopride
+1.74426E+15,ALLERGY41315NEMIS,Adverse reaction to Augmentin Es-600
+1.74517E+15,ALLERGY42823NEMIS,Adverse reaction to Dutasteride And Tamsulosin
+1.74526E+15,ALLERGY42892NEMIS,Adverse reaction to Adapalene And Benzoyl Peroxide
+1.74528E+15,ALLERGY42894NEMIS,Adverse reaction to Epiduo
+1.74697E+15,ALLERGY44820NEMIS,Adverse reaction to Gedarel 20/150
+1.74712E+15,ALLERGY44863NEMIS,Adverse reaction to Rigevidon
+1.74719E+15,ALLERGY43672NEMIS,Adverse reaction to Denosumab
+1.74738E+15,ALLERGY44684NEMIS,Adverse reaction to Ondansetron
+1.74739E+15,ALLERGY43650NEMIS,Adverse reaction to Co-Amilofruse
+1.74748E+15,ALLERGY44817NEMIS,Adverse reaction to Gedarel 30/150
+1.75087E+15,ALLERGY2374,Adverse reaction to Dihydrocodeine Tablets
+1.7512E+15,ALLERGY1868,Adverse reaction to Amitriptyline
+1.75676E+15,ALLERGY46639NEMIS,Adverse reaction to Nexplanon
+1.75682E+15,ALLERGY46574NEMIS,Adverse reaction to Monofer
+1.758E+15,ALLERGY47222NEMIS,Adverse reaction to Bee Venom
+1.75827E+15,ALLERGY47228NEMIS,Adverse reaction to Pollinex Grasses & Rye
+1.7587E+15,ALLERGY47307NEMIS,Adverse reaction to Transpore
+1.75903E+15,ALLERGY47518NEMIS,Adverse reaction to Ticagrelor
+1.7591E+15,ALLERGY47516NEMIS,Adverse reaction to Ticagrelor
+1.76278E+15,ALLERGY47628NEMIS,Adverse reaction to Wheat Starch
+1.77123E+15,ALLERGY48303NEMIS,Adverse reaction to Avocado
+1.77127E+15,ALLERGY48256NEMIS,Adverse reaction to Octasa Mr
+1.77188E+15,ALLERGY48368NEMIS,Adverse reaction to Tapentadol
+1.77199E+15,ALLERGY48366NEMIS,Adverse reaction to Tapentadol
+1.77201E+15,ALLERGY48422NEMIS,Adverse reaction to Pirinase Hayfever
+1.77409E+15,ALLERGY48858NEMIS,Adverse reaction to Zeroaqs
+1.77428E+15,ALLERGY49473NEMIS,Adverse reaction to Tensoplast
+1.77998E+15,ALLERGY51115NEMIS,Adverse reaction to Paracetamol And Ibuprofen
+1.78021E+15,ALLERGY51136NEMIS,Adverse reaction to Bydureon
+1.78133E+15,ALLERGY51807NEMIS,Adverse reaction to Apixaban
+1.78137E+15,ALLERGY51798NEMIS,Adverse reaction to Linagliptin
+1.7814E+15,ALLERGY51801NEMIS,Adverse reaction to Accrete D3
+1.78141E+15,ALLERGY51746NEMIS,Adverse reaction to Fencino
+1.78169E+15,ALLERGY51796NEMIS,Adverse reaction to Linagliptin
+1.78178E+15,ALLERGY51805NEMIS,Adverse reaction to Apixaban
+1.78766E+15,ALLERGY51962NEMIS,Adverse reaction to Yeast
+1.80391E+15,ALLERGY52409NEMIS,Adverse reaction to Fluenz
+1.80477E+15,ALLERGY52749NEMIS,Adverse reaction to Ketamine
+1.80485E+15,ALLERGY52659NEMIS,Adverse reaction to Fultium-D3
+1.81782E+15,ALLERGY71548NEMIS,Adverse reaction to Zeroderm
+1.82525E+15,ALLERGY74257NEMIS,Adverse reaction to Longtec
+1.83988E+15,ALLERGY76093NEMIS,Adverse reaction to Eklira Genuair
+1.84921E+15,ALLERGY76575NEMIS,Adverse reaction to Flutiform
+1.85055E+15,ALLERGY77081NEMIS,Adverse reaction to Seebri Breezhaler
+1.85209E+15,ALLERGY77714NEMIS,Adverse reaction to Dapagliflozin
+1.85228E+15,ALLERGY77716NEMIS,Adverse reaction to Forxiga
+1.8526E+15,ALLERGY77712NEMIS,Adverse reaction to Dapagliflozin
+1.8574E+15,ALLERGY78100NEMIS,Adverse reaction to Cerelle
+1.86122E+15,ALLERGY78527NEMIS,Adverse reaction to Mirabegron
+1.86123E+15,ALLERGY78534NEMIS,Adverse reaction to Lixisenatide
+1.86144E+15,ALLERGY78525NEMIS,Adverse reaction to Mirabegron
+1.86147E+15,ALLERGY78507NEMIS,Adverse reaction to Dymista
+1.86151E+15,ALLERGY78529NEMIS,Adverse reaction to Betmiga
+1.87145E+15,ALLERGY78610NEMIS,Adverse reaction to Monopost
+1.87491E+15,ALLERGY78936NEMIS,Adverse reaction to Levothyroxine
+1.87801E+15,ALLERGY81478NEMIS,Adverse reaction to Cocaine
+1.88803E+15,ALLERGY83103NEMIS,Adverse reaction to Evacal D3
+1.8908E+15,ALLERGY85488NEMIS,Adverse reaction to Omnipaque 140
+1.89454E+15,ALLERGY86713NEMIS,Adverse reaction to Vancomycin
+1.89463E+15,ALLERGY86735NEMIS,Adverse reaction to Relvar Ellipta
+1.89469E+15,ALLERGY86711NEMIS,Adverse reaction to Vancomycin
+1.89477E+15,ALLERGY86738NEMIS,Adverse reaction to Lucette
+1.89632E+15,ALLERGY86901NEMIS,Adverse reaction to Alogliptin
+1.89733E+15,ALLERGY86898NEMIS,Adverse reaction to Alogliptin
+1.89834E+15,ALLERGY88609NEMIS,Adverse reaction to Canagliflozin
+1.89888E+15,ALLERGY88606NEMIS,Adverse reaction to Canagliflozin
+1.91264E+15,ALLERGY90086NEMIS,Adverse reaction to Sukkarto Sr
+1.91508E+15,ALLERGY90757NEMIS,Adverse reaction to Anoro Ellipta
+1.91523E+15,ALLERGY90764NEMIS,Adverse reaction to Brimonidine
+1.91763E+15,ALLERGY91267NEMIS,Adverse reaction to Empagliflozin
+1.91764E+15,ALLERGY90893NEMIS,Adverse reaction to Streptomycin
+1.91769E+15,ALLERGY91332NEMIS,Adverse reaction to Duoresp Spiromax
+1.91787E+15,ALLERGY91263NEMIS,Adverse reaction to Empagliflozin
+1.91789E+15,ALLERGY90896NEMIS,Adverse reaction to Fosfomycin
+1.91957E+15,ALLERGY93395NEMIS,Adverse reaction to Fostair Nexthaler
+1.91967E+15,ALLERGY92941NEMIS,Adverse reaction to Deep Heat Maximum Strength
+1.92814E+15,ALLERGY95050NEMIS,Adverse reaction to Simbrinza
+1.92863E+15,ALLERGY95968NEMIS,Adverse reaction to Epimax
+1.92896E+15,ALLERGY95180NEMIS,Adverse reaction to Incruse Ellipta
+1.9305E+15,ALLERGY96777NEMIS,Adverse reaction to Ultibro Breezhaler
+1.93241E+15,ALLERGY98324NEMIS,Adverse reaction to Duaklir Genuair
+1.93316E+15,ALLERGY100543NEMIS,Adverse reaction to Trulicity
+1.9333E+15,ALLERGY100539NEMIS,Adverse reaction to Dulaglutide
+1.95713E+15,ALLERGY102548NEMIS,Adverse reaction to Sirdupla
+1.95718E+15,ALLERGY103662NEMIS,Adverse reaction to Edoxaban
+1.96938E+15,ALLERGY105009NEMIS,Adverse reaction to Vortioxetine
+1.9709E+15,ALLERGY105439NEMIS,Adverse reaction to Isomol
+1.97816E+15,ALLERGY108559NEMIS,Adverse reaction to Entresto
+1.98227E+15,ALLERGY109588NEMIS,Adverse reaction to Metamizole Magnesium
+1.98243E+15,ALLERGY109528NEMIS,Adverse reaction to Butec
+1.99597E+15,ALLERGY117052NEMIS,Adverse reaction to Reletrans
+1.9997E+15,ALLERGY117768NEMIS,Adverse reaction to Braltus
+2.0031E+15,ALLERGY118254NEMIS,Adverse reaction to Diclofenac
+2.01375E+15,ALLERGY124217NEMIS,Adverse reaction to Trimbow
+2.01781E+15,ALLERGY125086NEMIS,Adverse reaction to Trelegy Ellipta
+2.4383E+15,1Z33,Ticagrelor adverse reaction
+2.50548E+15,1Z340,Apixaban adverse reaction
+2.50552E+15,1Z341,Rivaroxaban adverse reaction
+4.73308E+15,^ESCTAD473308,Adverse drug reaction notification
+5.77698E+15,^ESCTPA577698,Paracetamol adverse reaction
+5.77719E+15,^ESCTBU577719,Buprenorphine adverse reaction
+5.7781E+15,^ESCTME577810,Metoclopramide adverse reaction
+5.77833E+15,^ESCTME577833,Mebeverine adverse reaction
+5.77959E+15,^ESCTME577959,Methotrexate adverse reaction
+5.78043E+15,^ESCTNO578043,Nortriptyline adverse reaction
+5.78106E+15,^ESCTCA578106,Carbamazepine adverse reaction
+5.78165E+15,^ESCTDI578165,Diazepam adverse reaction
+5.78198E+15,^ESCTHA578198,Haloperidol adverse reaction
+5.78223E+15,^ESCTPR578223,Prochlorperazine adverse reaction
+5.78259E+15,^ESCTBE578259,Beta-adrenoceptor blocking drug adverse reaction
+5.78357E+15,^ESCTSA578357,Salbutamol adverse reaction
+5.78728E+15,^ESCTNY578728,Nystatin adverse reaction
+5.78784E+15,^ESCTHY578784,Hydroxychloroquine adverse reaction
+5.78786E+15,^ESCTCH578786,Chloroquine adverse reaction
+5.78792E+15,^ESCTQU578792,Quinine adverse reaction
+5.78885E+15,^ESCTVA578885,Vancomycin adverse reaction
+5.78919E+15,^ESCTAM578919,Amoxycillin adverse reaction
+5.78939E+15,^ESCTPI578939,Pivmecillinam adverse reaction
+5.78961E+15,^ESCTCE578961,Cephalexin adverse reaction
+5.78977E+15,^ESCTCE578977,Cefaclor adverse reaction
+5.79004E+15,^ESCTCL579004,Clindamycin adverse reaction
+5.79012E+15,^ESCTME579012,Metronidazole adverse reaction
+5.7906E+15,^ESCTDO579060,Doxycycline adverse reaction
+5.79062E+15,^ESCTLY579062,Lymecycline adverse reaction
+5.79064E+15,^ESCTOX579064,Oxytetracycline adverse reaction
+5.7917E+15,^ESCTCA579170,Carbimazole adverse reaction
+5.7918E+15,^ESCTPR579180,Prednisone adverse reaction
+5.79212E+15,^ESCTPR579212,Prednisolone adverse reaction
+5.79241E+15,^ESCTGL579241,Gliclazide adverse reaction
+5.79462E+15,^ESCTTR579462,Tranexamic acid adverse reaction
+5.79476E+15,^ESCTFE579476,Ferrous fumarate adverse reaction
+5.79486E+15,^ESCTFE579486,Ferrous sulphate adverse reaction
+5.7967E+15,^ESCTAD579670,Adverse reaction caused by losartan
+6.92946E+15,^ESCTSU692946,Suxamethonium adverse reaction
+6.93109E+15,^ESCTER693109,Erythromycin adverse reaction
+7.80683E+15,^ESCTAD780683,Adverse reaction caused by candesartan
+8.11798E+15,^ESCTLE811798,Leflunomide adverse reaction
+1.24916E+16,ALLERGY130273NEMIS,Adverse reaction to Semaglutide
+1.2492E+16,ALLERGY130276NEMIS,Adverse reaction to Ozempic
+1.27035E+16,^ESCT1270347,Chlorphenamine adverse reaction
