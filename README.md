@@ -12,7 +12,7 @@ These **codelists** are part of wider project that aims to **identify, understan
 Please use this [link](https://fundingawards.nihr.ac.uk/award/NIHR302624) to find out more about this project. 
 
 ## Codelists
-This repository contains codelists of the 37 long-term conditions included in the Cambridge Co-morbidity Score and for Adverse drug reactions used for developing and validating the Polypharmacy Assessment Score.
+This repository contains codelists of the 37 long-term conditions included in the Cambridge Co-morbidity Score and for adverse drug reactions used for developing and validating the Polypharmacy Assessment Score.
 
 ## Codescripts
 This repository contains scripts used in R version 4.3.2 (2023-10-31) for the development and validation of the Polypharmacy Assessment Score.
