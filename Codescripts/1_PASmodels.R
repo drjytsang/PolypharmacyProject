@@ -10,7 +10,6 @@ require("MASS")
 
 #zero-inflated negative binomial (with interactions for count model only) - Optimal model
 zinb2 <- zeroinfl(d90count~age+gender+diab_cnd+bro_cnd+ctd_cnd+ibd_cnd+chd_cnd+hyp_cnd+psm_cnd+sin_cnd+ms_cnd+strk_cnd+div_cnd+cld_cnd+blv_cnd+ld_cnd+hf_cnd+anobul_cnd+pros_cnd+thy_cnd+pvd_cnd+hear_cnd+pd_cnd+dem_cnd+atr_cnd+pep_cnd+copd_cnd+epiMM+astMM+ckdMM+con_ther4+mig_ther4+ibsMM+psoeczMM+anxdepMM+pncMM+sczbipMM+alc_high+ca_excl+cvd_gi+cvd_resp +cvd_mh +cvd_neur +cvd_sen +cvd_oth +resp_oth +gi_oth +mh_oth +neur_oth +sen_oth +mh_neur +mh_gi +mh_resp +mh_sen +neur_resp +neur_gi +neur_sen+gi_resp+gi_sen|age+gender+diab_cnd+bro_cnd+ctd_cnd+ibd_cnd+ chd_cnd+hyp_cnd+psm_cnd+sin_cnd+ms_cnd+strk_cnd+div_cnd+cld_cnd+blv_cnd+ld_cnd+hf_cnd+anobul_cnd+pros_cnd+thy_cnd+pvd_cnd+hear_cnd+pd_cnd+dem_cnd+atr_cnd+pep_cnd+copd_cnd+epiMM+astMM+ckdMM+con_ther4+mig_ther4+ibsMM+psoeczMM+anxdepMM+pncMM+sczbipMM+alc_high+ca_excl+cvd_gi+cvd_resp +cvd_mh +cvd_neur +cvd_sen +cvd_oth +resp_oth +gi_oth +mh_oth +neur_oth +sen_oth +mh_neur +mh_gi +mh_resp +mh_sen +neur_resp +neur_gi +neur_sen+gi_resp+gi_sen, data=data, dist="negbin")
-save(zinb2, file = "zinb2.RData")
 summary(zinb2)
 zb_counts <- predict(zinb2, type = "response")
 
@@ -40,23 +39,25 @@ summary(zinb1)
 
 #3) zero-inflated negative binomial (with interactions for both zero and count)
 zinb3 <- zeroinfl(d90count~age+gender+diab_cnd+bro_cnd+ctd_cnd+ibd_cnd+chd_cnd+hyp_cnd+psm_cnd+sin_cnd+ms_cnd+strk_cnd+div_cnd+cld_cnd+blv_cnd+ld_cnd+hf_cnd+anobul_cnd+pros_cnd+thy_cnd+pvd_cnd+hear_cnd+pd_cnd+dem_cnd+atr_cnd+pep_cnd+copd_cnd+epiMM+astMM+ckdMM+con_ther4+mig_ther4+ibsMM+psoeczMM+anxdepMM+pncMM+sczbipMM+alc_high+ca_excl+cvd_gi+cvd_resp +cvd_mh +cvd_neur +cvd_sen +cvd_oth +resp_oth +gi_oth +mh_oth +neur_oth +sen_oth +mh_neur +mh_gi +mh_resp +mh_sen +neur_resp +neur_gi +neur_sen+gi_resp+gi_sen|age+gender+diab_cnd+bro_cnd+ctd_cnd+ibd_cnd+ chd_cnd+hyp_cnd+psm_cnd+sin_cnd+ms_cnd+strk_cnd+div_cnd+cld_cnd+blv_cnd+ld_cnd+hf_cnd+anobul_cnd+pros_cnd+thy_cnd+pvd_cnd+hear_cnd+pd_cnd+dem_cnd+atr_cnd+pep_cnd+copd_cnd+epiMM+astMM+ckdMM+con_ther4+mig_ther4+ibsMM+psoeczMM+anxdepMM+pncMM+sczbipMM+alc_high+ca_excl+cvd_gi+cvd_resp +cvd_mh +cvd_neur +cvd_sen +cvd_oth +resp_oth +gi_oth +mh_oth +neur_oth +sen_oth +mh_neur +mh_gi +mh_resp +mh_sen +neur_resp +neur_gi +neur_sen+gi_resp+gi_sen, data=foldall, dist="negbin")
-save(zinb3, file = "zinb3.RData")
+summary(zinb3)
 zinb3b <- be.zeroinfl(zinb3, data=data, dist="negbin", alpha=0.01, trace=FALSE)
+summary(zinb3b)
 
 #4) zero-inflated poisson (with interactions for count model only)
 zip <- zeroinfl(d90count~age+gender+diab_cnd+bro_cnd+ctd_cnd+ibd_cnd+chd_cnd+hyp_cnd+psm_cnd+sin_cnd+ms_cnd+strk_cnd+div_cnd+cld_cnd+blv_cnd+ld_cnd+hf_cnd+anobul_cnd+pros_cnd+thy_cnd+pvd_cnd+hear_cnd+pd_cnd+dem_cnd+atr_cnd+pep_cnd+copd_cnd+epiMM+astMM+ckdMM+con_ther4+mig_ther4+ibsMM+psoeczMM+anxdepMM+pncMM+sczbipMM+alc_high+ca_excl+cvd_gi+cvd_resp +cvd_mh +cvd_neur +cvd_sen +cvd_oth +resp_oth +gi_oth +mh_oth +neur_oth +sen_oth +mh_neur +mh_gi +mh_resp +mh_sen +neur_resp +neur_gi +neur_sen+gi_resp+gi_sen|age+gender+diab_cnd+bro_cnd+ctd_cnd+ibd_cnd+ chd_cnd+hyp_cnd+psm_cnd+sin_cnd+ms_cnd+strk_cnd+div_cnd+cld_cnd+blv_cnd+ld_cnd+hf_cnd+anobul_cnd+pros_cnd+thy_cnd+pvd_cnd+hear_cnd+pd_cnd+dem_cnd+atr_cnd+pep_cnd+copd_cnd+epiMM+astMM+ckdMM+con_ther4+mig_ther4+ibsMM+psoeczMM+anxdepMM+pncMM+sczbipMM+alc_high+ca_excl, data=data, dist="poisson")
 summary(zip)
+zip2b <- be.zeroinfl(zip, data=data, dist="poisson", alpha=0.01, trace=FALSE)
+summary(zip2b)
 
 #5)poisson model (no zero-inflation)
 p_mod <- glm(d90count~age+gender+diab_cnd+bro_cnd+ctd_cnd+ibd_cnd+chd_cnd+hyp_cnd+psm_cnd+sin_cnd+ms_cnd+strk_cnd+div_cnd+cld_cnd+blv_cnd+ld_cnd+hf_cnd+anobul_cnd+pros_cnd+thy_cnd+pvd_cnd+hear_cnd+pd_cnd+dem_cnd+atr_cnd+pep_cnd+copd_cnd+epiMM+astMM+ckdMM+con_ther4+mig_ther4+ibsMM+psoeczMM+anxdepMM+pncMM+sczbipMM+alc_high+ca_excl+cvd_gi+cvd_resp +cvd_mh +cvd_neur +cvd_sen +cvd_oth +resp_oth +gi_oth +mh_oth +neur_oth +sen_oth +mh_neur +mh_gi +mh_resp +mh_sen +neur_resp +neur_gi +neur_sen+gi_resp+gi_sen, family="poisson",x=TRUE,y=TRUE, data=data)
 summary(p_mod)
 
-
 #6)negative binomial model (no zero-inflation)
 nb_mod <- glm.nb(d90count~age+gender+diab_cnd+bro_cnd+ctd_cnd+ibd_cnd+chd_cnd+hyp_cnd+psm_cnd+sin_cnd+ms_cnd+strk_cnd+div_cnd+cld_cnd+blv_cnd+ld_cnd+hf_cnd+anobul_cnd+pros_cnd+thy_cnd+pvd_cnd+hear_cnd+pd_cnd+dem_cnd+atr_cnd+pep_cnd+copd_cnd+epiMM+astMM+ckdMM+con_ther4+mig_ther4+ibsMM+psoeczMM+anxdepMM+pncMM+sczbipMM+alc_high+ca_excl+cvd_gi+cvd_resp +cvd_mh +cvd_neur +cvd_sen +cvd_oth +resp_oth +gi_oth +mh_oth +neur_oth +sen_oth +mh_neur +mh_gi +mh_resp +mh_sen +neur_resp +neur_gi +neur_sen+gi_resp+gi_sen, data=data)
 summary(nb_mod)
 
-#7)Other covariates(including Blood pressure, BMI and eGFR - imputed using MICE)
+#7)Other covariates(including Blood pressure, BMI and eGFR - imputed using MICE) - see 6 steps below 
 require(mice)
 df <- subset(data, select = c(d90count,age,gender,diab_cnd,bro_cnd,ctd_cnd,ibd_cnd,chd_cnd,hyp_cnd,psm_cnd,sin_cnd,ms_cnd,strk_cnd,div_cnd,cld_cnd,blv_cnd,ld_cnd,hf_cnd,anobul_cnd,pros_cnd,thy_cnd,pvd_cnd,hear_cnd,pd_cnd,dem_cnd,atr_cnd,pep_cnd,copd_cnd,epiMM,astMM,ckdMM,con_ther4,mig_ther4,ibsMM,psoeczMM,anxdepMM,pncMM,sczbipMM,alc_high,ca_excl,cvd_gi,cvd_resp,cvd_mh,cvd_neur,cvd_sen,cvd_oth,resp_oth,gi_oth,mh_oth,neur_oth,sen_oth, mh_neur,mh_gi,mh_resp,mh_sen,neur_resp,neur_gi,neur_sen,gi_resp,gi_sen,BPsys,BPdia,eGFR,BMI))
 
@@ -93,7 +94,7 @@ pred_list <- lapply(fit_zinb$analyses, function(model) {
   predict(model, type = "response")
 })
 
-# Combine predictions across imputations
+# Step 6: Combine predictions across imputations
 predicted_counts <- Reduce("+", pred_list) / length(pred_list)
 summary(predicted_counts)
 range(predicted_counts)
