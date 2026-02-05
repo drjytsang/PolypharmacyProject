@@ -1,6 +1,6 @@
 # Code sharing for the Polypharmacy Assessment Score
 ## Introduction
-These **codelists** are part of wider project that aims to **identify, understand and address problematic polypharmacy within multimorbidity in primary care**. This has been funded by the National Institute for Health and Care Research (NIHR) Doctoral Research Fellowship (NIHR302624) and the NIHR Greater Manchester Patient Safety Research Collaboration (GMPSRC). 
+This repository and work is part of wider project that aims to **identify, understand and address problematic polypharmacy within multimorbidity in primary care**. This has been funded by the National Institute for Health and Care Research (NIHR) Doctoral Research Fellowship (NIHR302624) and the NIHR Greater Manchester Patient Safety Research Collaboration (GMPSRC). 
 <br>
 <br>
 **Collaboration** This NIHR funded project is collaboration of The University of Manchester and University of Exeter, UK.
